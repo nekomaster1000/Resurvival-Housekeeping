@@ -1,0 +1,5 @@
+- Fixed a datapack function relating to Iron Golems not activating - They now recieve Regeneration III when near villagers.
+- Removed Item Filters, as it was an accidental remnant of testing FDB mods
+- Added Model Gap Fix
+- Added Enhanced Celestials
+- Added Mowzie's Mobs
