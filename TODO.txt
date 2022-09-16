@@ -1,0 +1,1 @@
+- Disable a bunch of Grappling Hook Mod JEI entries.
