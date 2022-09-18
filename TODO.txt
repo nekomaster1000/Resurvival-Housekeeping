@@ -1,1 +1,2 @@
 - Disable a bunch of Grappling Hook Mod JEI entries.
+- Add regenerating while sleeping, then remove the regenerating while sleeping mod
