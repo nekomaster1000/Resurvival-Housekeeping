@@ -1,8 +1,13 @@
 = DONE =
 - Updated numerous mods - Supplementaries' Quiver is now added!
 
+- Removed Horse Combat Controls
+- Removed World Stripper per request
+
 - Added a datapack function that gives you Regeneration while sleeping.
+- Removed duplicate Orb of Origin recipe
 - Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
+- Added Netherite Ingot Gem Forge forging recipe, replacing vanilla's Netherite Ingot crafting recipe
 
 - Reduced Skeleton Attack Range from 32 to 24
 - Reduced Skeleton arrow accuracy from 2 to 4
