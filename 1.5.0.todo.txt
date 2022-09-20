@@ -5,6 +5,7 @@
 - Removed World Stripper per request
 
 - Added a datapack function that gives you Regeneration while sleeping.
+- Added new upgrade recipes for stone tools, allowing you to convert them to copper tools via apply copper ingots in the crafting table
 - Removed duplicate Orb of Origin recipe
 - Enderian can now only throw a Pearl every 25 seconds
 - Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
