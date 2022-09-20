@@ -1,26 +1,25 @@
 = DONE =
 - Updated numerous mods - Supplementaries' Quiver is now added!
-
 - Removed Horse Combat Controls
 - Removed World Stripper per request
+- Removed Underground Villages
+- Removed Tetra Pak (May re-add later)
 
-- Added a datapack function that gives you Regeneration while sleeping.
-- Added new upgrade recipes for stone tools, allowing you to convert them to copper tools via apply copper ingots in the crafting table
-- Removed duplicate Orb of Origin recipe
+- Added a datapack function that gives you Regeneration while sleeping
+- Added new upgrade recipes for stone and copper tools, allowing you to convert them to copper and iron tools via applying copper/iron ingots respectively in the crafting table
 - Enderian can now only throw a Pearl every 25 seconds
-- Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
+- Feline now has Weakness when in water
+- Disabled the Protection enchantment via Allurement config as per request
 - Added Netherite Ingot Gem Forge forging recipe, replacing vanilla's Netherite Ingot crafting recipe
+- Removed duplicate Orb of Origin recipe
 
 - Reduced Skeleton Attack Range from 32 to 24
 - Reduced Skeleton arrow accuracy from 2 to 4
 - Removed Skeletons' ability to attack while running away entirely
-- Blacklisted Strays from having Enhanced AI.
+- Blacklisted Strays from having Enhanced AI
 - Disabled Enhanced Witch AI
 
 = TO DO =
-"Recipes: Being able to upgrade stone-> diamond tools the same way you upgrade wood to stone, tool in one slot and the amount of materials needed to upgrade in the other slots
-
-Enderian origin's ender pearl cooldown should be much longer (you can cross large distances with it easily, 10-20 second cooldown maybe?)
 
 Terralith structure loot tables either heavily edited or flat out removed, plus some biomes (ie yellowstone biome) should be removed cuz you can easily progress in some mods (tetra) very quickly with it, a terralith structure has fuckin end rods, VERY GOOD FOR TETRA TOOLS BTW
 
