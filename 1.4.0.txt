@@ -1,0 +1,9 @@
+= DONE =
+- Added BetterF3
+- Removed Bed Benefits
+- Changed the Quark 'Pickarang' name to 'Diamond Pickarang' via resource pack
+- Disabled Quark's stinky hostile mobs (I thought I'd turned them off already...)
+- Changed Grappling Squok recipe to use a Grappling Hook instead of a Crossbow
+- Rebound Essential Mod's friends list key to `
+- Added Quark Emotes bindings to the numpad number keys
+- Altered Dusk hostie spawncap from 100 back to 70, starting at 40 on official Resurvival server
