@@ -6,6 +6,7 @@
 
 - Added a datapack function that gives you Regeneration while sleeping.
 - Removed duplicate Orb of Origin recipe
+- Enderian can now only throw a Pearl every 25 seconds
 - Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
 - Added Netherite Ingot Gem Forge forging recipe, replacing vanilla's Netherite Ingot crafting recipe
 
@@ -13,7 +14,6 @@
 - Reduced Skeleton arrow accuracy from 2 to 4
 - Removed Skeletons' ability to attack while running away entirely
 - Blacklisted Strays from having Enhanced AI.
-
 - Disabled Enhanced Witch AI
 
 = TO DO =
