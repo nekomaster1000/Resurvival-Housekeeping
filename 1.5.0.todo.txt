@@ -2,16 +2,15 @@
 - Added a datapack function that gives you Regeneration while sleeping.
 - Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
 
+- Reduced Skeleton Attack Range from 32 to 24
+- Reduced Skeleton arrow accuracy from 2 to 4
+- Removed Skeletons' ability to attack while running away entirely
+- Blacklisted Strays from having Enhanced AI.
+
+- Disabled Enhanced Witch AI
+
 = TO DO =
 "Recipes: Being able to upgrade stone-> diamond tools the same way you upgrade wood to stone, tool in one slot and the amount of materials needed to upgrade in the other slots
-
-Skeleton detection range should be a bit smaller, its very easy for multiple skeletons to be shooting you from multiple angles and it becomes annoying
-
-Skeletons that shoot extremely fast could have less accuracy, maybe it could be random as to which ones are accurate and which ones aren't
-
-Hurting any animal that's in a group of the same animals should make the entire herd run away from you (maybe some animals could defend themselves?)
-
-More baby mobs (baby skeletons, wither skeletons ect.) because why not make it more of a pain than it is?
 
 Enderian origin's ender pearl cooldown should be much longer (you can cross large distances with it easily, 10-20 second cooldown maybe?)
 
