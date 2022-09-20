@@ -1,4 +1,6 @@
 = DONE =
+- Updated numerous mods - Supplementaries' Quiver is now added!
+
 - Added a datapack function that gives you Regeneration while sleeping.
 - Disabled the Protection enchantment via Allurement config as per request: https://github.com/nekomaster1000/Resurvival-Housekeeping/issues/2
 
