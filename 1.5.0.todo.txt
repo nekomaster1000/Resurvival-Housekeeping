@@ -4,6 +4,8 @@
 - Removed World Stripper per request
 - Removed Underground Villages
 - Removed Tetra Pak (May re-add later)
+- Removed Mob Compack
+- (Considering the removal of: Alex's Delights, Comforts)
 
 - Added a datapack function that gives you Regeneration while sleeping
 - Added new upgrade recipes for stone and copper tools, allowing you to convert them to copper and iron tools via applying copper/iron ingots respectively in the crafting table
