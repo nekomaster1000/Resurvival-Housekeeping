@@ -11,6 +11,7 @@
 - Added new upgrade recipes for stone and copper tools, allowing you to convert them to copper and iron tools via applying copper/iron ingots respectively in the crafting table
 - Enderian can now only throw a Pearl every 25 seconds, and no longer takes damage in water
 - Feline and Enderian now have Weakness when in water
+- Arachnid now takes 80% less fall damage
 - Disabled the Protection enchantment via Allurement config as per request
 - Added Netherite Ingot Gem Forge forging recipe, replacing vanilla's Netherite Ingot crafting recipe
 - Removed duplicate Orb of Origin recipe
