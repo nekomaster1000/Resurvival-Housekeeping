@@ -10,6 +10,7 @@
  - Swim swiftly through lava (if you can withstand the heat)
  - Shoot yourself up into the air (G)
  - Fireball Volley Attack (H)
+ - Can't Use Shield
  
  - Gave Enderian back its water vulnerability by popular demand, removing it's water weakness
  
