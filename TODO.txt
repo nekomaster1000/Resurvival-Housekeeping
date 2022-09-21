@@ -1,16 +1,3 @@
-- IMPROVE BLAZEBORN
- - warped forest spawn
- - short imflammability (press h) for 10 seconds, 30 seconds regarge
- - 50% natural fire resistance
- - burning wrath (50%+ attack damage done when on fire)
- - slow-falling
- - launching into air
- - fireball volley special attack (press G)
- 
- - hurt by water
- - hurt by snowballs
- - no shield
-
 - Disable a bunch of Grappling Hook Mod JEI entries.
 
 - Credits Page
