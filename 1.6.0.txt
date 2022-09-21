@@ -1,0 +1,18 @@
+- Readded Tetra Pak
+- Readded Mob Compack
+- Farmer's Delight has updated to 1.2!
+- Added Spark to try and diagnose the horrid lag spikes in the official server
+
+- Rebalanced Blazeborn:
+ - 80% Natural fire resistance
+ - Burning Wrath (does 50%+ attack damage when you're on fire, its use exstinguishes yourself)
+ - Slow-falling
+ - Swim swiftly through lava (if you can withstand the heat)
+ - Shoot yourself up into the air (G)
+ - Fireball Volley Attack (H)
+ 
+ - Gave Enderian back its water vulnerability by popular demand, removing it's water weakness
+ 
+ - Brought all Mowzie's Mobs Attack and Health up to 1.3 (from 1.0)
+ 
+ - Dusk's Monster mob cap has been lowerered to 10 less than vanilla - 30 to begin with, additional 30 throughout the night
