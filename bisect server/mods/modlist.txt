@@ -2,3 +2,4 @@ mc2discord-forge-1.18.x-3.2.10-beta.1.jar;https://github.com/SwanX1/Mc2Discord/r
 ftb-ranks-forge-1801.1.6-build.22.jar;https://mediafiles.forgecdn.net/files/3599/720/ftb-ranks-forge-1801.1.6-build.22.jar
 ftb-essentials-1802.1.7-build.42.jar;https://mediafiles.forgecdn.net/files/3773/58/ftb-essentials-1802.1.7-build.42.jar
 ftb-library-forge-1802.3.6-build.140.jar;https://mediafiles.forgecdn.net/files/3909/755/ftb-library-forge-1802.3.6-build.140.jar
+spark-1.9.11-forge.jar;https://cdn-raw.modrinth.com/data/l6YH9Als/versions/1.9.11-forge/spark-1.9.11-forge.jar
