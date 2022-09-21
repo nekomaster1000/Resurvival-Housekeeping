@@ -5,12 +5,12 @@
 - Removed Underground Villages
 - Removed Tetra Pak (May re-add later)
 - Removed Mob Compack
-- (Considering the removal of: Alex's Delights, Comforts)
+- Removed Comforts
 
 - Added a datapack function that gives you Regeneration while sleeping
 - Added new upgrade recipes for stone and copper tools, allowing you to convert them to copper and iron tools via applying copper/iron ingots respectively in the crafting table
-- Enderian can now only throw a Pearl every 25 seconds
-- Feline now has Weakness when in water
+- Enderian can now only throw a Pearl every 25 seconds, and no longer takes damage in water
+- Feline and Enderian now have Weakness when in water
 - Disabled the Protection enchantment via Allurement config as per request
 - Added Netherite Ingot Gem Forge forging recipe, replacing vanilla's Netherite Ingot crafting recipe
 - Removed duplicate Orb of Origin recipe
@@ -21,10 +21,4 @@
 - Blacklisted Strays from having Enhanced AI
 - Disabled Enhanced Witch AI
 
-= TO DO =
-
-Terralith structure loot tables either heavily edited or flat out removed, plus some biomes (ie yellowstone biome) should be removed cuz you can easily progress in some mods (tetra) very quickly with it, a terralith structure has fuckin end rods, VERY GOOD FOR TETRA TOOLS BTW
-
-Hourglass - slow down how fast 1 player sleeping makes the night go by
-
-JEI blacklisting? hello??
+- Attempted to add an Origin power that allows Spiders to be neutral towards you. However, no matter the modification, the game would crash upon respawning after death every time. :(
