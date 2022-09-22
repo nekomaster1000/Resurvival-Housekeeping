@@ -28,14 +28,18 @@ lang = "en_us"
 #   - discord_announcement (for relaying announcement channel to Discord)
 # mode define how to send messages (WEBHOOK, PLAIN_TEXT or EMBED)
 [Channels]
+	[[Channels.Channel]]
+		id = 847237287409745940 #resurvival-smp
+		subscriptions = ["command"]
+		mode = "WEBHOOK"
 
 	[[Channels.Channel]]
-		id = 847175041778057226
+		id = 847175041778057226 #resurvival-ingame
 		subscriptions = ["info", "chat", "command"]
 		mode = "WEBHOOK"
 
 	[[Channels.Channel]]
-		id = 904417081871708190
+		id = 904417081871708190 #infernal-logs
 		subscriptions = ["log", "command"]
 		mode = "WEBHOOK"
 
@@ -73,6 +77,17 @@ lang = "en_us"
 		id = 718707573624274974
 		commands = ["ban", "ban-ip", "banlist", "invsee", "kick", "mute", "nicknamefor", "pardon", "pardon-ip", "unmute", "whitelist"]
 		permission_level = -1
+		comment = ""
+
+	[[Commands.Command]]
+		id = 162343355257323521 # nekomarster
+		commands = []
+		permission_level = 4
+		comment = ""
+	[[Commands.Command]]
+		id = 197664739763945472 # swank
+		commands = []
+		permission_level = 4
 		comment = ""
 
 	[[Commands.Command]]
