@@ -4,6 +4,8 @@
 
 - Add Integrated Dungeons and Structures at some point (presumably after getting rid of the other lame worldgen stuff?)
 
+retexture undergrowth BOP (icycrystal on the job)
+
 Terralith structure loot tables either heavily edited or flat out removed, plus some biomes (ie yellowstone biome) should be removed cuz you can easily progress in some mods (tetra) very quickly with it, a terralith structure has fuckin end rods, VERY GOOD FOR TETRA TOOLS BTW
 
 Hourglass - slow down how fast 1 player sleeping makes the night go by
