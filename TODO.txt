@@ -1,8 +1,6 @@
-- Disable a bunch of Grappling Hook Mod JEI entries.
+- Disable a bunch of Grappling Hook Mod JEI entries. (?)
 
 - Credits Page
-
-- VanillaTweaks integration
 
 - Add Integrated Dungeons and Structures at some point (presumably after getting rid of the other lame worldgen stuff?)
 
