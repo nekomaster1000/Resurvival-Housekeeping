@@ -1,1 +1,4 @@
 - Added Lootr
+
+- Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
+- Gave the Ghost of Captain Cornelia double her normal health.
