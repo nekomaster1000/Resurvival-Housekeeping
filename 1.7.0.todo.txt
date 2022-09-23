@@ -1,4 +1,8 @@
-- Added Lootr
+= DONE =
 
+- Added End's Phantasm
 - Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
 - Gave the Ghost of Captain Cornelia double her normal health.
+
+= WIP =
+- Updating the Champions loot table so that Champions drop Enchanting Gems and various other useful items as opposed to Enchanted Books, which are far too bountiful in the pack right now
