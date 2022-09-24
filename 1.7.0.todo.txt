@@ -1,9 +1,9 @@
 = DONE =
 
-- Added End's Phantasm
+- Added Combat Music
+- Added Combat Roll
+- Disabled the Totem of Holding from Quark Oddities (Corpse already does what it does, arguably better)
 - Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
 - Gave the Ghost of Captain Cornelia double her normal health.
 - Made the rainbow XP bar and new terracotta textures optional, off by default
-
-= WIP =
-- Updating the Champions loot table so that Champions drop Enchanting Gems and various other useful items as opposed to Enchanted Books, which are far too bountiful in the pack right now
+- Made it so EnhancedAI Miner Zombies can only mine up to Y32
