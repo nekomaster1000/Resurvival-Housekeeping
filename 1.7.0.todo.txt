@@ -2,6 +2,8 @@
 
 - Added Combat Music
 - Added Combat Roll
+- Added Not Enough Crashes
+- Added It Shall Not Tick (ISNT)
 - Disabled the Totem of Holding from Quark Oddities (Corpse already does what it does, arguably better)
 - Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
 - Gave the Ghost of Captain Cornelia double her normal health.
