@@ -5,5 +5,6 @@
 - Disabled the Totem of Holding from Quark Oddities (Corpse already does what it does, arguably better)
 - Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
 - Gave the Ghost of Captain Cornelia double her normal health.
+- Made it so EnhancedAI Miner Zombies can only mine up to Y32 so they don't mine into your base and/or prevent you from sleeping
 - Made the rainbow XP bar and new terracotta textures optional, off by default
-- Made it so EnhancedAI Miner Zombies can only mine up to Y32
+
