@@ -1,4 +1,4 @@
 - Demo Spells and Shields and see if it's a fit for the pack (awesome mod!)
 
-- Update the Champions loot table so that Champions drop Enchanting Gems and various other useful items as opposed to Enchanted Books, 
+- Update the Champions loot table via datapack so that Champions drop Enchanting Gems and various other useful items as opposed to Enchanted Books, 
 which are far too bountiful in the pack right now
