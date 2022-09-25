@@ -1,6 +1,9 @@
+= DONE =
 - Updated Immersive Weathering - This one's big for all you England fans!
+- Blazeborn now always starts their spawn in a Warped Forest
 
 
+= TO DO =
 - Give Air Malachite Bow Curse of Vanishing upon Forging
 
 - Demo Spells and Shields and see if it's a fit for the pack (awesome mod!)
