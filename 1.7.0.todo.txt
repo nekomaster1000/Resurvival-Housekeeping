@@ -1,9 +1,8 @@
 = DONE =
 
-- Added Combat Music - If at least 12 mobs are attacking at once, battle music will play!
+- Added Combat Music - If at least 5 mobs are attacking at once, battle music will play! Client side and totally configurable.
 - Added Combat Roll - Bound to LEFT SHIFT so you can easily press it whilst moving in any direction
 - Added Not Enough Crashes - Better, hopefully more useful crash reports!
-- Added It Shall Not Tick (ISNT) - "a performance enhancing mod that limits entity ticking to within a configurable range of players"
 - Disabled the Totem of Holding from Quark Oddities (Corpse already does what it does, arguably better)
 - Removed the Totem of Undying from Aquamirae's Frozen Chest loot table.
 - Gave the Ghost of Captain Cornelia double her normal health.
