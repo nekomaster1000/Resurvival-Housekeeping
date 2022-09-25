@@ -1,4 +1,3 @@
-= DONE =
 
 - Added Combat Music - If at least 5 mobs are attacking at once, battle music will play! Client side and totally configurable.
 - Added Combat Roll - Bound to LEFT SHIFT so you can easily press it whilst moving in any direction
