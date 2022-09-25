@@ -1,5 +1,8 @@
 - Updated Immersive Weathering - This one's big for all you England fans!
 
+
+- Give Air Malachite Bow Curse of Vanishing upon Forging
+
 - Demo Spells and Shields and see if it's a fit for the pack (awesome mod!)
 - Demo Open Parties and Claims for it's Xaero's World Map parity
 
