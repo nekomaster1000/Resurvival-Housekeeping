@@ -2,6 +2,10 @@
 - Updated Immersive Weathering - This one's big for all you England fans!
 - Blazeborn now always starts their spawn in a Warped Forest
 
+- Lowered Hasty Champion Affix's speed bonus to 1.5
+- Enhabled Plagued and Desecration Affixes for Champions
+- Reduced Plagued and Desecration's area of effect clouds to 0.5 and 1 from 4 and 5 respectively
+
 
 = TO DO =
 - Give Air Malachite Bow Curse of Vanishing upon Forging
