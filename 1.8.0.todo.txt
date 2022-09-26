@@ -12,6 +12,8 @@ which are far too bountiful in the pack already. Makes for a really handy way to
 
 = TO DO =
 - Give Air Malachite Bow Curse of Vanishing upon Forging
+- Make Quark Tome apply to Knight Jump
+
 
 - Demo Spells and Shields and see if it's a fit for the pack (awesome mod!)
 - Demo Open Parties and Claims for it's Xaero's World Map parity
