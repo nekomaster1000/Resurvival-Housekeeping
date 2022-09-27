@@ -2,6 +2,7 @@
 - Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
 - Gave the Avian origin the Master of the Skies power (Shoot up into the air - Active ability)
 - Made Blazeborn faster horizontally in the air.
+- Buffed Arachnid climbing from 5 to 9 blocks.
 
 = TO DO =
 
