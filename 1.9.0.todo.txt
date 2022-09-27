@@ -9,6 +9,7 @@ Add Nature's Compass
 
 Add Combat Roll server config jump and mid-air roll options to true
 
+- get rid of netherite in malachite bow recipe
 
 - Test Arachnid Web Attack power
 - Test new Weak Swimmer changes (longer weakness and additional slowness)
