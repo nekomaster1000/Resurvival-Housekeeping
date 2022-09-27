@@ -1,12 +1,18 @@
 = DONE = 
 - Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
 - Gave the Avian origin the Master of the Skies power (Shoot up into the air - Active ability)
+- Made Blazeborn faster horizontally in the air.
 
 = TO DO =
-- Test improved Blazeborn air speed with the Dart power
+
+Add Combat Roll server config jump and mid-air roll options to true
+
+
 - Test Arachnid Web Attack power
 - Test new Weak Swimmer changes (longer weakness and additional slowness)
 
 - Add Credits button in-game via Fancymenu
+
+- Add BisectHostin Server Integration Menu Mod 
 
 - Maybe remove Savage Ender Dragon if it doesn't add much to the fight?
