@@ -5,6 +5,8 @@
 
 = TO DO =
 
+Add Nature's Compass
+
 Add Combat Roll server config jump and mid-air roll options to true
 
 
