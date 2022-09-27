@@ -8,3 +8,5 @@
 - Test new Weak Swimmer changes (longer weakness and additional slowness)
 
 - Add Credits button in-game via Fancymenu
+
+- Maybe remove Savage Ender Dragon if it doesn't add much to the fight?
