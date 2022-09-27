@@ -1,5 +1,12 @@
-= DONE =
+- Added Spells and Shields, a vanilla-styled magic mod! 
+Powers are bound to the numpad keys by default - 
+7 for Slot 1, 
+4 for Slot 2, 
+1 for Slot 3, 
+2 for Slot 4, 
+and 3 for Slot 5
 - Updated Immersive Weathering - This one's big for all you England fans!
+
 - Blazeborn now always starts their spawn in a Warped Forest
 
 - Updated the Champions loot table via datapack so that Champions drop Enchanting Gems and various other useful items as opposed to Enchanted Books, 
@@ -9,11 +16,7 @@ which are far too bountiful in the pack already. Makes for a really handy way to
 - Enhabled Plagued and Desecration Affixes for Champions
 - Reduced Plagued and Desecration's area of effect clouds to 0.5 and 1 from 4 and 5 respectively
 
+- Gave Glowsilk Bow a new sprite for consistency with the Air Malachite Bow and Neko's Enhanced Tools and Armour
+- Gave Air Malachite Bow a new look, Forging recipe, and Curse of Vanishing. (It's currently unbreakable, so this is the compromise)
 
-= TO DO =
-- Give Air Malachite Bow Curse of Vanishing upon Forging
-- Make Quark Tome apply to Knight Jump
-
-
-- Demo Spells and Shields and see if it's a fit for the pack (awesome mod!)
-- Demo Open Parties and Claims for it's Xaero's World Map parity
+- Added Retextures o' Plenty resource pack by IcyCrystal! Thanks dude!
