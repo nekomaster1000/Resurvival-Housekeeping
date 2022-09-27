@@ -1,6 +1,20 @@
-- Remove Terralith (Thus fixing its structures giving you Tetra tool materials too early)
+= DONE = 
+- Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
+- Gave the Avian origin the Master of the Skies power (Shoot up into the air - Active ability)
+
+= TO DO =
+- Test improved Blazeborn air speed with the Dart power
+- Test Arachnid Web Attack power
+- Test new Weak Swimmer changes (longer weakness and additional slowness)
+
+- Add Credits button in-game via Fancymenu
+
+- Remove Terralith (Thus fixing the problem of its structures giving you Tetra tool materials too early)
 - Add Biome Makeover
-- Add End's Phantasm
-- Add Savage Ender Dragon
+- Add Integrated Dungeons and Structures
+- Add End's Phantasm (And maybe remove Plus the End?)
+
+- Maybe remove Savage Ender Dragon if it doesn't add much to the fight?
+
 - FTBQuests progression chain, locking Eyes of Ender behind boss fights (Biome Makeover, Mowzies Mobs, Aquamirae, Piglin Brute)
 - Remove Diamonds from the underground ALMOST entirely, making them far more discoverable through loot and boss fights
