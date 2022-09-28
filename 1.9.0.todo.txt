@@ -1,17 +1,21 @@
+= TESTING
+Cosmetic Armour mod
+
 = DONE = 
-- Fixed broken champions loot table (How embarrasing!)
 
+- Added Cosmetic Armour - Show off your cool gear whilst remaining safe!
 - Added Nature's Compass - Craftable with 4 Netherite Scrap and 4 Saplings 
+- Added SwingThroughGrass - I THOUGHT I'D ADDED THIS ALREADY
 
+- Fixed broken champions loot table (How embarrasing!)
 - Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
 - Gave the Avian origin the Master of the Skies power (Shoot up into the air - Active ability)
 - Made Blazeborn faster horizontally in the air.
 - Buffed Arachnid climbing, it can now scale twice as many blocks.
+- Turned Death Waypoint viewing on by default (disable with ,)
+- Made CarryOn picked-up entities face you (client-based, configurable)
 
-- Added Pristine Diamond as a smithable MM gem - bestows Unbreaking
+- Added Unbreaking Iolite, a smithable MM gem - bestows Unbreaking (Pristine Diamond RP)
 - Removed Netherite Scrap from Air Malachite Bow recipe
-
-= TO DO =
-
-- Add BisectHostin Server Integration Menu Mod 
-- Maybe remove Savage Ender Dragon if it doesn't add much to the fight?
+- Gave a use to the Dragon Egg :)
+(Can't get the Advancement to work ghrnng)
