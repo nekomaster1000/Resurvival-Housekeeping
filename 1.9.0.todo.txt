@@ -1,4 +1,6 @@
 = DONE = 
+- Fixed broken champions loot table (How embarrasing!)
+
 - Added Nature's Compass - Craftable with 4 Netherite Scrap and 4 Saplings 
 
 - Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
