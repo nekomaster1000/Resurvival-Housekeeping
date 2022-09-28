@@ -1,8 +1,3 @@
-= TESTING
-Cosmetic Armour mod
-
-= DONE = 
-
 - Added Cosmetic Armour - Show off your cool gear whilst remaining safe!
 - Added Nature's Compass - Craftable with 4 Netherite Scrap and 4 Saplings 
 - Added SwingThroughGrass - I THOUGHT I'D ADDED THIS ALREADY
