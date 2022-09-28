@@ -8,6 +8,7 @@
 - Made Blazeborn faster horizontally in the air.
 - Buffed Arachnid climbing, it can now scale twice as many blocks.
 
+- Added Pristine Diamond as a smithable MM gem - bestows Unbreaking
 - Removed Netherite Scrap from Air Malachite Bow recipe
 
 = TO DO =
