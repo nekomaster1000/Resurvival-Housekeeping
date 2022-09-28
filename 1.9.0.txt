@@ -16,6 +16,9 @@ Cosmetic Armour mod
 - Made CarryOn picked-up entities face you (client-based, configurable)
 
 - Added Unbreaking Iolite, a smithable MM gem - bestows Unbreaking (Pristine Diamond RP)
+- Haste Peridots now bestow the Acrobat enchantments from Combat Roll, regarging your roll faster, in addition to Kinetic Opal's Runner enchantment
+- Kinetic Opal now gives Longfooted in place of Runner, an enchantment that extends your rolling distance
+- Spirit Garnet now gives Multi-Roll, letting you roll multiple times in a row
 - Removed Netherite Scrap from Air Malachite Bow recipe
 - Gave a use to the Dragon Egg :)
 (Can't get the Advancement to work ghrnng)
