@@ -1,22 +1,14 @@
 = DONE = 
+- Added Nature's Compass - Craftable with 4 Netherite Scrap and 4 Saplings 
+
 - Heavily Nerfed Copper's spawn rate. Look for it in Dripstone caves for better chances.
 - Gave the Avian origin the Master of the Skies power (Shoot up into the air - Active ability)
 - Made Blazeborn faster horizontally in the air.
-- Buffed Arachnid climbing from 5 to 9 blocks.
+- Buffed Arachnid climbing, it can now scale twice as many blocks.
+
+- Removed Netherite Scrap from Air Malachite Bow recipe
 
 = TO DO =
 
-Add Nature's Compass
-
-Add Combat Roll server config jump and mid-air roll options to true
-
-- get rid of netherite in malachite bow recipe
-
-- Test Arachnid Web Attack power
-- Test new Weak Swimmer changes (longer weakness and additional slowness)
-
-- Add Credits button in-game via Fancymenu
-
 - Add BisectHostin Server Integration Menu Mod 
-
 - Maybe remove Savage Ender Dragon if it doesn't add much to the fight?
