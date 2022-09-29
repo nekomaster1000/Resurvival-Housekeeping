@@ -2,12 +2,15 @@
 
 - Artifacts sprite and model retextures for certain artifacts:
       * Sprites: DONE
-      * Models: Opposite of done
+      * Models: Opposite of done (cant believe this ice lazy)
 - Wither & Elder Guardian upgrades via Progressive Bosses
 - Retextures o' Plenty Visceral Heap, Erupting Inferno & Withered Abyss update (v1.1)
 
 =Longer Tasks=
 
+- Test with a custom Resurvival instance after removing Savage Ender Dragon, adding Progressive Bosses
+  * Configuring the Wither to only being spawnable in the Nether & other things 
+      (gonna try and make the battles appropriate for Diamond-Paragon level armor)
 - Terralith Biome blacklist montage (https://stardustlabs.miraheze.org/wiki/Terralith_biomes) < just some assistance with the thing
   *  ^ BACKUP INCASE TERRALITH DECIDES TO BE ASS
   *    BYG blacklist montage (End biomes bonus) - basic idea is to grab the biomes (https://oh-the-biomes-youll-go.fandom.com/wiki/Category:Biomes) < same thing
