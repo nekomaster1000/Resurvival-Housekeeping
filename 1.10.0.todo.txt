@@ -1,7 +1,7 @@
 = DONE =
 
 - Readded Lootr
-- Added Block Swapper
+- Added Block Swapper for far easier building
 - Removed Spells and Shields (Will re-add when you can make custom spells)
 
 - Fixed Kinetic Opal not giving Longfooted
@@ -11,7 +11,6 @@
 
 
 = TO DO =
-
 
 "what if it was like, one compass and four items from a “rare_biome_items” tag? so like, if you get something rare from the biome you are in, you can craft it. so like, blue ice, heart of the sea, stuff like that where you only need four from the list" - Ordana
 
