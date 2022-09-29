@@ -1,5 +1,0 @@
-- Test your Resurvival instance after *removing* Savage Ender Dragon, *adding* **Progressive Bosses,** 
-configuring the Wither to only being spawnable in the Nether, and any other values to your liking 
-(try and make the battles appropriate for Paragon-level armour)
-
--
