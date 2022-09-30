@@ -1,0 +1,51 @@
+nebs 1.8
+
+= minecraft =
+swift sneak
+
+= copper overhaul = (PRed, kinda - https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/23)
+stormbreaker
+sparkling
+
+= domestication innovation =
+tethered teleport
+curse of immaturity
+
+= grappling hook mod =
+wall running
+double jump
+sliding
+
+= inventorio = 
+deep pockets
+
+= the wild backport =
+swift sneak
+
+= aileron = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/27)
+smokestack
+cloudskipper
+
+= combat roll =
+longfooted
+acrobats chest
+acrobats legs
+multiroll
+
+= shulker enchantments =
+siphon
+refill
+
+~ requests ~
+
+= Block Swapper = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/32)
+Excavating
+
+= Ars Nouveau = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/15#issuecomment-1099583285)
+mana_regen
+mana_boost
+reactive
+
+= Auto Smelt = (RPed: https://github.com/infernalstudios/Nekos-Enchanted-Books/pull/31)
+
+= Spells and Shield = (RPed: https://github.com/infernalstudios/Nekos-Enchanted-Books/pull/34)
