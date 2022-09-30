@@ -9,6 +9,7 @@ Add Neapolitan to expand upon food and jungles
 - Made Iron Golems, Guard Villagers and Mob Spawners uncarriable
 - Changed Natures Compass recipe to use unique biome saplings rather than Netherite Scrap in its recipe
 - Fixed Tier 1 Champions not dropping their loot due to a broken tag
+- Disabled natural Power Pyrite generation due to overabundance (still availible through Champion deaths)
 - Fixed Kinetic Opal not giving Longfooted
 - Fixed Credits page menu being just slightly too narrow to fit all its text on it
 
