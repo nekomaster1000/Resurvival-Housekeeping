@@ -1,11 +1,14 @@
 = DONE =
 
-- Removed Spells and Shields (Will re-add when you can make custom spells + Hide GUI elements)
-- Readded Lootr
+- Removed Spells and Shields, will re-add when you can make custom spells & hide GUI elements
 - Added Savage and Ravage for new Illager encounters
-
+- Added Neapolitan to expand upon food and jungles
+- Added Equipment Compare (and extensively Iceberg)
+- Added Simple Discord RCP
+- Added Immersive Portals
+- Added XP From Harvest
 - Added Artifacts
-
+- Readded Lootr
 
 - Made Iron Golems, Guard Villagers and Mob Spawners uncarriable
 - Changed Natures Compass recipe to use unique biome saplings rather than Netherite Scrap in its recipe
@@ -16,9 +19,7 @@
 
 = DOING =
 
-Add Neapolitan to expand upon food and jungles
-Add Equipment Compare (and extensively Iceberg)
-Test Shiny Horses Forge - Enchantable Horse Armor with MM enchantments)
+
 
 = TO DO =
 
@@ -26,7 +27,6 @@ Test Shiny Horses Forge - Enchantable Horse Armor with MM enchantments)
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - Test Immersive Portals (for Forge)
 - give kinetic opal big brain's bang enchantment
-
 - Change Pristine Lapis to Spider Kuznite
 
 - Neko's Enchanted Books spirtre
