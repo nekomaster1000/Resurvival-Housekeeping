@@ -18,6 +18,7 @@
 
 Add Neapolitan to expand upon food and jungles
 Add Equipment Compare (and extensively Iceberg)
+Test Shiny Horses Forge - Enchantable Horse Armor with MM enchantments)
 
 = TO DO =
 
