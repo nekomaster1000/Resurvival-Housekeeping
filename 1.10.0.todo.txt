@@ -1,9 +1,9 @@
 = DONE =
 
-- Removed Spells and Shields (Will re-add when you can make custom spells)
+- Removed Spells and Shields (Will re-add when you can make custom spells + Hide GUI elements)
 - Readded Lootr
 - Added Savage and Ravage for new Illager encounters
-Add Neapolitan to expand upon food and jungles
+
 - Added Artifacts
 
 
@@ -16,10 +16,11 @@ Add Neapolitan to expand upon food and jungles
 
 = DOING =
 
-
+Add Neapolitan to expand upon food and jungles
 
 = TO DO =
 
+- Retexture Lunchbox from SoL Sweet Potato Edition
 - Test Immersive Portals (for Forge)
 - give kinetic opal big brain's bang enchantment
 
