@@ -17,6 +17,7 @@
 = DOING =
 
 Add Neapolitan to expand upon food and jungles
+Add Equipment Compare (and extensively Iceberg)
 
 = TO DO =
 
