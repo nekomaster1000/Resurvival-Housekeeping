@@ -20,6 +20,7 @@ Add Neapolitan to expand upon food and jungles
 
 = TO DO =
 
+- Retexture Toolbelt from Tetra 
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - Test Immersive Portals (for Forge)
 - give kinetic opal big brain's bang enchantment
