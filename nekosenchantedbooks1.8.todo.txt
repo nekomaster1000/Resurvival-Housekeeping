@@ -16,8 +16,13 @@ X stormbreaker
 X sparkling
 
 = domestication innovation =
-tethered teleport
-curse of immaturity
+x tethered teleport
+x immaturity_curse
+x tethered_teleportation
+x muffled
+x blazing_protection
+x healing_aura
+
 
 = grappling hook mod =
 wall running
