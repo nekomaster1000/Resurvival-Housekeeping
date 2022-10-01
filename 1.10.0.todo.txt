@@ -27,5 +27,7 @@ Test Shiny Horses Forge - Enchantable Horse Armor with MM enchantments)
 - Test Immersive Portals (for Forge)
 - give kinetic opal big brain's bang enchantment
 
+- Change Pristine Lapis to Spider Kuznite
+
 - Neko's Enchanted Books spirtre
 - Add a shitton of Artifacts recipes
