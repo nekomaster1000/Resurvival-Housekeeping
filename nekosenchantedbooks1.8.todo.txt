@@ -3,9 +3,17 @@ nebs 1.8
 = minecraft =
 swift sneak
 
+= Majruszs Enchantments =
+X breaking_curse
+X death_wish
+X gold_fuelled
+X guardian_angel
+X horse_swiftness
+X misanthropy
+
 = copper overhaul = (PRed, kinda - https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/23)
-stormbreaker
-sparkling
+X stormbreaker
+X sparkling
 
 = domestication innovation =
 tethered teleport
@@ -42,10 +50,16 @@ refill
 Excavating
 
 = Ars Nouveau = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/15#issuecomment-1099583285)
-mana_regen
-mana_boost
-reactive
+X mana_regen
+X mana_boost
+X reactive
 
 = Auto Smelt = (RPed: https://github.com/infernalstudios/Nekos-Enchanted-Books/pull/31)
+X auto-smelt
 
 = Spells and Shield = (RPed: https://github.com/infernalstudios/Nekos-Enchanted-Books/pull/34)
+X magic_protection
+X mana_blade
+X mana_shield
+X mana_regen
+X max_mana"
