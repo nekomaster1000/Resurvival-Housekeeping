@@ -1,7 +1,7 @@
 nebs 1.8
 
 = minecraft =
-swift sneak
+X swift sneak
 
 = Majruszs Enchantments =
 X breaking_curse
@@ -33,7 +33,7 @@ sliding
 deep pockets
 
 = the wild backport =
-swift sneak
+X swift sneak
 
 = aileron = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/27)
 smokestack
@@ -52,7 +52,7 @@ refill
 ~ requests ~
 
 = Block Swapper = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/32)
-Excavating
+X Excavating
 
 = Ars Nouveau = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/15#issuecomment-1099583285)
 X mana_regen
@@ -67,4 +67,4 @@ X magic_protection
 X mana_blade
 X mana_shield
 X mana_regen
-X max_mana"
+X max_mana
