@@ -1,12 +1,13 @@
 = DONE =
 
 - Removed Spells and Shields, will re-add when you can make custom spells & hide GUI elements
+- Removed Model Gap Fix :( Due to a crash on startup pertaining to mixins
 - Added Savage and Ravage for new Illager encounters
 - Added Neapolitan to expand upon food and jungles
 - Added Equipment Compare (and extensively Iceberg)
 - Added Simple Discord RCP
-- Added Immersive Portals
 - Added XP From Harvest
+- Added Block Swapper
 - Added Artifacts
 - Readded Lootr
 
