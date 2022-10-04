@@ -1,0 +1,71 @@
+Release 1.8
+Added support for
+= Minecraft 1.19/The Wild Backport =
+- Swift Sneak
+
+= Ars Noveau =
+- Mana Boost
+- Reactive
+- Mana Regen
+
+= Copper Overhaul =
+- Stormbreaker
+- Sparkling
+
+= Majruszs Enchantments =
+- Breaking Curse
+- Death Wish
+- Gold Fuelled
+- Guardian Angel
+- Horse Swiftness
+- Misanthropy
+
+= Domestication Innovation =
+- Tethered Teleport
+- Immaturity Curse
+- Muffled
+- Blazing Protection
+- Healing Aura
+
+= Grappling Hook Mod =
+- Wall Running
+- Double Jump
+- Sliding
+
+= Inventorio = 
+- Deep Pockets
+
+= Aileron =
+- Smokestack
+- Cloudskipper
+
+= Combat Roll =
+- Longfooted
+- Acrobats chest
+- Acrobats legs
+- Multiroll
+
+= Shulker Enchantments =
+- Siphon
+- Refill
+
+= Block Swapper = 
+- Excavating
+
+= Ars Nouveau = 
+- Mana Regen
+- Mana Boost
+- Reactive
+
+= Auto Smelt = 
+- Auto-Smelt
+
+= Spells and Shields = 
+- Magic Protection
+- Mana Blade
+- Mana Shield
+- Mana Regen
+- Max Mana
+
+= Origins =
+- Water Protection
