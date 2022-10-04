@@ -1,0 +1,11 @@
+= DONE =
+
+
+= DOING =
+
+
+= TO DO =
+- Add Artifacts
+- Configure Artifacts to use limited durability
+- Add a shitton of Artifacts recipes
+- Add Icy's custom Artifacts sprites
