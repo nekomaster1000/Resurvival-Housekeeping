@@ -1,14 +1,14 @@
 = DONE =
 
+- Updated Neko's Enchanted Books, focused on adding all the missing books for Resurvival's enchantments
+
 - Removed Spells and Shields, will re-add when you can make custom spells & hide GUI elements
 - Removed Model Gap Fix :( Due to a crash on startup pertaining to mixins
 - Added Savage and Ravage for new Illager encounters
 - Added Neapolitan to expand upon food and jungles
 - Added Equipment Compare (and extensively Iceberg)
-- Added Simple Discord RCP
 - Added XP From Harvest
 - Added Block Swapper
-- Added Artifacts
 - Readded Lootr
 
 - Made Iron Golems, Guard Villagers and Mob Spawners uncarriable
@@ -21,16 +21,10 @@
 = DOING =
 
 Test Elytra Physics
-Test Wooden Elytra
-
 
 = TO DO =
 
 - Retexture Toolbelt from Tetra 
 - Retexture Lunchbox from SoL Sweet Potato Edition
-- Test Immersive Portals (for Forge)
 - give kinetic opal big brain's bang enchantment
-- Change Pristine Lapis to Spider Kuznite
-
-- Neko's Enchanted Books spirtre
-- Add a shitton of Artifacts recipes
+- Fix messed up Pristine Lapis sprite
