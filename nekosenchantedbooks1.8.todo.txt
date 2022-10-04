@@ -1,5 +1,7 @@
 nebs 1.8
 
+TEST THE JARS!
+
 = minecraft =
 X swift sneak
 
@@ -23,31 +25,30 @@ x muffled
 x blazing_protection
 x healing_aura
 
-
 = grappling hook mod =
-wall running
-double jump
-sliding
+X wall running
+X double jump
+X sliding
 
 = inventorio = 
-deep pockets
+X deep pockets
 
 = the wild backport =
 X swift sneak
 
 = aileron = (Requested: https://github.com/infernalstudios/Nekos-Enchanted-Books/issues/27)
-smokestack
-cloudskipper
+X smokestack
+X cloudskipper
 
 = combat roll =
-longfooted
-acrobats chest
-acrobats legs
-multiroll
+X longfooted
+X acrobats chest
+X acrobats legs
+X multiroll
 
 = shulker enchantments =
-siphon
-refill
+X? siphon
+X? refill
 
 ~ requests ~
 
