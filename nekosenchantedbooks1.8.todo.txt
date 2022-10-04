@@ -69,3 +69,6 @@ X mana_blade
 X mana_shield
 X mana_regen
 X max_mana
+
+= Origins =
+X water_protection
