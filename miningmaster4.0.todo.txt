@@ -1,0 +1,47 @@
+= DONE =
+Spawning:
+- Common Native Gems now spawn 3 per chunk
+- Rare Native Gems now spawn 2 per chunk
+- Random Biome gems now spawn 1 per chunk
+- Malachite Meteorites are now twice as rare
+
+Balance:
+- Leeching now only steals 7.5% damage dealt back as health rather than 25% due to restoring too much health with stronger weapons
+- Floatation now only inflicts Levitation for 0.2 seconds per level rather than 1 second per level because it was absolutely ridiculous
+
+- Kinetic Opal now only gives Blast Protections, Knockback and Punch
+- Fire Ruby now also gives Smelting
+- Haste Peridot now also gives Runner
+- Spirit Garnet now also gives Multishot
+- Lucky Citrine now also gives Projectile Protection
+
+- Fire Ruby and Power Pyrite are now rare gems
+- Pyrite's native biome is now the Crimson Forest (From the Nether Wastes)
+
+- Brought Freezing's max level down to II to match Fire Aspect
+- Made Freezing incompatible with Flame in addition to Fire Aspect
+- Removed Paragon Armour's knockback resistance entirely
+
+Supra Tool tweaks:
+- Garnet Sword gives Leeching II (Going to remove Garnet Axe, don't worry about it)
+- Opal Sword gives Knockback III (Going to remove Garnet Pickaxe and Shovel)
+- Haste Peridot tools give Efficiency VI
+- Pyrite Pickaxe gives Sharpness III + Stonebreaker
+- Paragon Boots give Feather Falling VI
+
+- Removed Smelting from Kinetic Opal tools' Forging recipes
+
+
+---
+to change:
+- Remove looting modifier from all MM ore block loot tables
+- Knight Jump uses durability to fuel extra jumps (hellion)
+---
+to remove:
+kinetic opal axe
+kinetic opal shovel
+kinetic opal pick
+
+spirit garnet axe
+
+garnets and leeching from ultima axe recipe
