@@ -31,10 +31,10 @@ Supra Tool tweaks:
 
 - Removed Smelting from Kinetic Opal tools' Forging recipes
 
+- Removed Looting modifier from all Mining Master ores
 
 ---
 to change:
-- Remove looting modifier from all MM ore block loot tables
 - Knight Jump uses durability to fuel extra jumps (hellion)
 ---
 to remove:
