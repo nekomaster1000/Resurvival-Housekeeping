@@ -11,6 +11,8 @@
 - Added Block Swapper
 - Readded Lootr
 
+- Added the experimental Knight Origin - Human+, basically
+
 - Made Iron Golems, Guard Villagers and Mob Spawners uncarriable
 - Changed Natures Compass recipe to use unique biome saplings rather than Netherite Scrap in its recipe
 - Disabled natural Power Pyrite generation due to overabundance (still availible through Champion deaths)
