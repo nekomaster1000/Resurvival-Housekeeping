@@ -30,18 +30,21 @@ Supra Tool tweaks:
 - Paragon Boots give Feather Falling VI
 
 - Removed Smelting from Kinetic Opal tools' Forging recipes
-
 - Removed Looting modifier from all Mining Master ores
+- Removed all Supra and Ultima Shovels and Hoes
+- Removed Kinetic Opal and Power Pyrite Pickaxes
+- Removed Spirit Garnet Axe and accompanying Ultima Axe recipe and advancement mentions
+
+Added:
+- Divine Beryl, Spider Kunzite, Unbreaking Iolite gems (also added them to The Collector advancement)
+
 
 ---
 to change:
 - Knight Jump uses durability to fuel extra jumps (hellion)
 ---
 to remove:
-kinetic opal axe
-kinetic opal shovel
-kinetic opal pick
 
-spirit garnet axe
 
-garnets and leeching from ultima axe recipe
+to fix:
+paragon armour boots missing bottom plane
