@@ -9,3 +9,7 @@
 - Configure Artifacts to use limited durability
 - Add a shitton of Artifacts recipes
 - Add Icy's custom Artifacts sprites
+
+- Retexture Toolbelt from Tetra 
+- Retexture Lunchbox from SoL Sweet Potato Edition
+- give kinetic opal big brain's bang enchantment
