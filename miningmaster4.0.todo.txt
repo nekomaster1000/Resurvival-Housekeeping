@@ -41,7 +41,7 @@ Added:
 
 ---
 to change:
-- Knight Jump uses durability to fuel extra jumps (hellion)
+- Add unbreaking IV iolite pick
 ---
 to remove:
 
