@@ -1,6 +1,9 @@
 = DONE =
 - Removed Copper Overhaul
 
+- Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
+- Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
+
 = DOING =
 
 
@@ -10,9 +13,9 @@
 - Add a shitton of Artifacts recipes
 - Add Icy's custom Artifacts sprites
 
+- Add Piglin Proliferation
+- Reskin Alchemist Piglin from Piglin Proliferation
+
 - Retexture Toolbelt from Tetra 
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - give kinetic opal big brain's bang enchantment
-
-- wardens and piglins brutes garunteed champions
-- wardens have unique champion tier with warden-coloured particles, always use hasty
