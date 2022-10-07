@@ -1,7 +1,8 @@
-- Remove Terralith (Thus fixing the problem of its structures giving you Tetra tool materials too early)
+- Remove Tetra
+- Remove Plus the End
 - Add Biome Makeover
 - Add Integrated Dungeons and Structures
-- Add End's Phantasm (And maybe remove Plus the End?)
+- Add End's Phantasm
 
 - FTBQuests progression chain, locking Eyes of Ender behind boss fights (Biome Makeover, Mowzies Mobs, Aquamirae, Piglin Brute)
 - Remove Diamonds from the underground ALMOST entirely, making them far more discoverable through loot and boss fights
