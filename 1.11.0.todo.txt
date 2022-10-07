@@ -1,8 +1,11 @@
 = DONE =
 - Removed Copper Overhaul
+- Added Artifacts - All with limited durability (((and new recipes & textures!)))
 
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
+
+- Added the ability for Shulker origin players to mine ores with their bare hands
 
 = DOING =
 
@@ -16,6 +19,5 @@
 - Add Piglin Proliferation
 - Reskin Alchemist Piglin from Piglin Proliferation
 
-- Retexture Toolbelt from Tetra 
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - give kinetic opal big brain's bang enchantment
