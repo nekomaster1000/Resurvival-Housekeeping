@@ -13,3 +13,6 @@
 - Retexture Toolbelt from Tetra 
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - give kinetic opal big brain's bang enchantment
+
+- wardens and piglins brutes garunteed champions
+- wardens have unique champion tier with warden-coloured particles, always use hasty
