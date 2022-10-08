@@ -2,6 +2,8 @@
 - Removed Copper Overhaul
 - Added Artifacts - All with limited durability (((and new recipes & textures!)))
 
+- Changed Dungeons Arise's Abandoned Temple structure's loot table to not be so busted.
+
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
 - Rebalanced Champion drops (again) to be less cracked
