@@ -4,6 +4,7 @@
 
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
+- Rebalanced Champion drops (again) to be less cracked
 
 - Added the ability for Shulk origin players to mine ores with their bare hands
 - Shulk now can't be poisoned or suffer the Hunger effect
