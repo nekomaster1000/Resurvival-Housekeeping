@@ -6,5 +6,7 @@
 - Add Dungeons Plus 1.2
 - Add End's Phantasm
 
+- Make Netherite gear created with the Gem Forge, granting Fire Protection V on all gear pieces
+
 - FTBQuests progression chain, locking Eyes of Ender behind boss fights (Biome Makeover, Mowzies Mobs, Aquamirae, Piglin Brute)
 - Remove Diamonds from the underground ALMOST entirely, making them far more discoverable through loot and boss fights
