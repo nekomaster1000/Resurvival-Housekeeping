@@ -6,7 +6,8 @@
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
 
 - Added the ability for Shulk origin players to mine ores with their bare hands
-- Shulk now has the hotblooded power, meaning they can't be poisoned or suffer the Hunger effect
+- Shulk now can't be poisoned or suffer the Hunger effect
+- Shulk now has the new Rush power - every time they get a kill, they earn Speed and Strength for 10 seconds.
 
 = DOING =
 
