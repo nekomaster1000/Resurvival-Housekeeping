@@ -22,3 +22,5 @@
 
 - Retexture Lunchbox from SoL Sweet Potato Edition
 - give kinetic opal big brain's bang enchantment
+
+- Remove the shitty 'improved' stone textures from vanillaweaks pack
