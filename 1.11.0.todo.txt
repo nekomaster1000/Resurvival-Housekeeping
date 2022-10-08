@@ -5,14 +5,14 @@
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
 
-- Added the ability for Shulker origin players to mine ores with their bare hands
+- Added the ability for Shulk origin players to mine ores with their bare hands
+- Shulk now has the hotblooded power, meaning they can't be poisoned or suffer the Hunger effect
 
 = DOING =
 
 
 = TO DO =
-- Add Artifacts
-- Configure Artifacts to use limited durability
+
 - Add a shitton of Artifacts recipes
 - Add Icy's custom Artifacts sprites
 
