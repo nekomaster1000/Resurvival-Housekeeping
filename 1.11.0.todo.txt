@@ -1,6 +1,7 @@
 = DONE =
 - Removed Copper Overhaul
 - Added Artifacts - All with limited durability (((and new recipes & textures!)))
+- Added Mobs Properties Randomness - Mobs in armour! Random potion effects! Surprises everywhere!
 
 - Changed Dungeons Arise's Abandoned Temple structure's loot table to not be so busted.
 
