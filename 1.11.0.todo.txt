@@ -1,11 +1,12 @@
 = DONE =
 - Removed Copper Overhaul
-- Added Artifacts - All with limited durability (((and new recipes & textures!)))
+- Added Artifacts - With new textures by IcyCrystal!
 - Added Mobs Properties Randomness - Mobs in armour! Random potion effects! Surprises everywhere!
 - Added Pickle Tweaks - No more regular tools breaking!
 - Added End of Mending - Nooo Mooore Mending!
 
 - Changed Dungeons Arise's Abandoned Temple structure's loot table to not be so busted.
+- Numerous Artifacts can be crafted or Forged with the Gem Forge and Enchanting Gems
 
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
@@ -20,8 +21,6 @@
 
 = TO DO =
 
-- Add a shitton of Artifacts recipes
-- Add Icy's custom Artifacts sprites
 
 - Add Piglin Proliferation
 - Reskin Alchemist Piglin from Piglin Proliferation
