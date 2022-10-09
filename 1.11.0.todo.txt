@@ -2,6 +2,7 @@
 - Removed Copper Overhaul
 - Added Artifacts - All with limited durability (((and new recipes & textures!)))
 - Added Mobs Properties Randomness - Mobs in armour! Random potion effects! Surprises everywhere!
+- Added Pickle Tweaks - No more regular tools breaking!
 
 - Changed Dungeons Arise's Abandoned Temple structure's loot table to not be so busted.
 
@@ -25,62 +26,7 @@
 - Reskin Alchemist Piglin from Piglin Proliferation
 
 - Retexture Lunchbox from SoL Sweet Potato Edition
+- Retexture Pickle Tweaks tools
 - give kinetic opal big brain's bang enchantment
 
 - Remove the shitty 'improved' stone textures from vanillaweaks pack
-
-### - Add Pickle Tweaks
-Crafting Grid Tool Repairing
- - This allows you to repair valid tools and weapons in your crafting grid using that item's repair material.
- - Everything that works in an anvil should work in the crafting grid.
- - You can specify your own repair materials as well in the config.
-:thumbsup: 
-Paxels
- - A combination of Axe, Pickaxe, and Shovel.
- - Can be used to create Path blocks as well as Stripped Logs.
-:thumbsup: 
-Right Click Crop Harvesting
- - Makes right clicking on a fully grown crop harvest and replant it.
-:thumbsup: 
-Tool Information Tooltips
- - Adds the mining speed and mining level of tools to their tooltips.
- - Adds the amount of valid ammo in your inventory to bow tooltips.
-:thumbsup: 
-Flint & Emerald Tools
- - Tools made of Flint and Emerald.
-:x:
-Sickles
- - A tool for mining plant material blocks in an AOE.
-:question: 
-Scythes
- - A tool for harvesting + replanting crops in an AOE.
- - Also works as a weapon with an attack AOE.
-:thumbsup: 
-HWYLA Harvestability Tooltip
- - Adds the harvest level of the block to it's HWYLA tooltip.
-:thumbsup: 
-Watering Can
- - Increases crop growth speed.
- - Has basic (3x3) and Reinforced (7x7) variants.
-:thumbsup: 
-Coal & Charcoal Pieces
- - Cooks 1 item each.
-:thumbsup: 
-Night Vision Goggles
- - When worn, grants the wearer night vision.
-:x: Artifacts does this already
-Diamond & Emerald Apples
- - Apples that provide additional buffs.
-:question: 
-Item Magnet
- - Attracts items and experience orbs to you.
-:x: Artifacts does this already
-Meshes
- - Used to craft Flint from Gravel.
-:thumbsup: 
-Tool Breaking Tweaks
- - Adds a tweak to make tools and weapons ineffective 1 use before breaking, allowing for repairs.
-:thumbsup: :thumbsup: :thumbsup: 
-Tool Uselessifier
- - You can specify tools in the config file that should not be able to break blocks, deal damage, etc.
-:question: :x:
