@@ -1,8 +1,13 @@
 = DONE =
-- Added Artifacts catalysts and gems to their respective tags (already fixed on 1.11's server)
-
+- Added Artifacts catalysts and gems to their respective tags (already fixed on 1.11 server)
+- Added 5X Experience multiplier to mobs with random effects 
+- Added 10X Experience multiplier to mobs in common armour, and 20X Experience multiplier to mobs in diamond, griefer and netherite armour
+- Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - 
+They have a small chance of dropping their armour on-death
 
 = TO DO =
+- Add Jumpy Boats
+
 - Test No Mob Farms
 https://www.curseforge.com/minecraft/mc-mods/no-mob-farms/files/3698989
 
