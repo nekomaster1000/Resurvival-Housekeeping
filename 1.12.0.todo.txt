@@ -1,15 +1,20 @@
 = DONE =
-- Added Artifacts catalysts and gems to their respective tags (already fixed on 1.11 server)
-- Added 5X Experience multiplier to mobs with random effects 
-- Added 10X Experience multiplier to mobs in common armour, and 20X Experience multiplier to mobs in diamond, griefer and netherite armour
-- Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - 
-They have a small chance of dropping their armour on-death
+- Added No Mob Farms
+- Turned on Allurement's linear Level scaling - It now always takes 100XP to level up, rather than incrementally more XP the higher your level is
+- Added Fixed Anvil Repair Cost - It now always costs 3 levels to use an Anvil to repair 30% of an items durability
+- Removed End of Mending, replacing it with Truly Treasures - Mending is now a Wandering Trader exclusive buy.
+- Made certain mobs drop more experience:
+ - Mobs with random potion effects drop x5 their normal XP
+ - Mobs with common armour drop x10 XP, and rare armour x20 their normal XP
+- Added Jumpy Boats
+
+- Added numerous cool Supplementaries items to the Champions loot table
+- Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - They have a small chance of dropping their armour on-death
+- Fixed Artifacts catalysts and gems not being in their respective tags
+- Disabled Adaptable Champions, as there's no good counter to them if you only have melee weapons on you.
 
 = TO DO =
-- Add Jumpy Boats
 
-- Test No Mob Farms
-https://www.curseforge.com/minecraft/mc-mods/no-mob-farms/files/3698989
 
 - Test out short-of-breath power from rain
 
