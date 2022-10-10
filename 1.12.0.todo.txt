@@ -1,6 +1,6 @@
 = DONE =
 - Added No Mob Farms
-- Turned on Allurement's linear Level scaling - It now always takes 100XP to level up, rather than incrementally more XP the higher your level is
+- Turned on Allurement's linear Level scaling - It now always takes 300XP to level up, rather than incrementally more XP the higher your level is. Right now, it takes 3 regular zombie kills to go up a level.
 - Added Fixed Anvil Repair Cost - It now always costs 3 levels to use an Anvil to repair 30% of an items durability
 - Removed End of Mending, replacing it with Truly Treasures - Mending is now a Wandering Trader exclusive buy
 - Made certain mobs drop more experience:
