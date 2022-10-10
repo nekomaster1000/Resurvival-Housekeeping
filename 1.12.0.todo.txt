@@ -14,3 +14,5 @@ https://www.curseforge.com/minecraft/mc-mods/no-mob-farms/files/3698989
 - Test out short-of-breath power from rain
 
 - Make Netherite gear created with the Gem Forge, granting Fire Protection V on all gear pieces
+
+- Retexture Obsidian Skull artifact
