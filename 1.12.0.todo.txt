@@ -1,5 +1,5 @@
 = DONE =
-
+- Added Artifacts catalysts and gems to their respective tags (already fixed on 1.11's server)
 
 
 = TO DO =
@@ -7,7 +7,5 @@
 https://www.curseforge.com/minecraft/mc-mods/no-mob-farms/files/3698989
 
 - Test out short-of-breath power from rain
-
-- I completely forgot to add all the new artifacts items to the catalyst and gems tags respectively, should probably do that and fix shit immediately LOL
 
 - Make Netherite gear created with the Gem Forge, granting Fire Protection V on all gear pieces
