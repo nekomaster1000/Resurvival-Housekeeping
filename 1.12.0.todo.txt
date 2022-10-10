@@ -12,7 +12,8 @@
 - Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - They have a small chance of dropping their armour on-death
 - Fixed Artifacts catalysts and gems not being in their respective tags
 - Disabled Adaptable Champions, as there's no good counter to them if you only have melee weapons on you
-- Disabled Rattlesnakes
+- Disabled Rattlesnakes from Alex's Mobs, little cretins
+- Made Potion Effect-carrying mobs only have their effect for 66 seconds, as a Creeper explosion's lingering cloud would buff you permanently
 
 = TO DO =
 
