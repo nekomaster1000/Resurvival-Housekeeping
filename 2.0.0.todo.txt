@@ -2,6 +2,7 @@
 - Remove Plus the End
 
 - Add Darker Depths
+- Add Galosphere
 - Add Biome Makeover
 - Add Integrated Dungeons and Structures
 - Add Dungeons Plus 1.2
