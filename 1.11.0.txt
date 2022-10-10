@@ -4,9 +4,11 @@
 - Added Mobs Properties Randomness - Mobs in armour! Random potion effects! Surprises everywhere!
 - Added Pickle Tweaks - No more regular tools breaking!
 - Added End of Mending - Nooo Mooore Mending!
+- Added Piglin Proliferation - A New Piglin, along with texture-consistent Piglin Zombifying!
 
 - Changed Dungeons Arise's Abandoned Temple structure's loot table to not be so busted.
 - Numerous Artifacts can be crafted or Forged with the Gem Forge and Enchanting Gems
+- Added the Turning and Bang enchantments from Big Brain to the Spirit Garnet and Kinetic Opal enchanting gems
 
 - Wardens now always spawn as Unbreakable Wardens (Custom Champions rank)
 - Piglin Brutes now always spawn as Elite Piglin Brutes (Champions rank)
@@ -16,17 +18,4 @@
 - Shulk now can't be poisoned or suffer the Hunger effect
 - Shulk now has the new Rush power - every time they get a kill, they earn Speed and Strength for 10 seconds.
 
-= DOING =
-
-
-= TO DO =
-
-
-- Add Piglin Proliferation
-- Reskin Alchemist Piglin from Piglin Proliferation
-
-- Retexture Lunchbox from SoL Sweet Potato Edition
-- Retexture Pickle Tweaks tools
-- give kinetic opal big brain's bang enchantment
-
-- Remove the shitty 'improved' stone textures from vanillaweaks pack
+- Custom art for Pickle Tweaks, Farmer's Delight, Spice of Life: Sweet Potato Edition and Piglin Proliferation
