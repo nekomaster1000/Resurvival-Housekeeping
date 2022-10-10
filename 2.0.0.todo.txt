@@ -1,6 +1,7 @@
 - Remove Tetra
 - Remove Plus the End
 
+- Add Darker Depths
 - Add Biome Makeover
 - Add Integrated Dungeons and Structures
 - Add Dungeons Plus 1.2
