@@ -8,6 +8,7 @@
   - Mobs with common armour drop x2-6 XP, and rare armour x8-10 their normal XP
 - Added Jumpy Boats
 
+- Netherite Armour can now be directly crafted in the Gem Forge with a Fire Ruby, granting immediate Fire Protection V on each piece.
 - Added numerous cool Supplementaries items to the Champions loot table
 - Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - Unfortunately, that doesn't seem to work, so Griefer Armour has been added to the Champions loot table too
 - Made Champions a little rarer
@@ -15,13 +16,4 @@
 - Disabled Adaptable Champions, as there's no good counter to them if you only have melee weapons on you
 - Disabled Rattlesnakes from Alex's Mobs, little cretins
 - Made Potion Effect-carrying mobs only have their effect for 66 seconds, as a Creeper explosion's lingering cloud would buff you permanently
-
-= TO DO =
-
-
-- Test out short-of-breath power from rain
-
-- Make Netherite gear created with the Gem Forge, granting Fire Protection V on all gear pieces
-
-- Retexture Obsidian Skull artifact
-- Retexture Diamond Pickarang
+- Retextured Pickarang (Quark) and Obsidian Skull (Artifacts)
