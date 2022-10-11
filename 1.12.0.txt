@@ -11,9 +11,10 @@
 - Netherite Armour can now be directly crafted in the Gem Forge with a Fire Ruby, granting immediate Fire Protection V on each piece.
 - Added numerous cool Supplementaries items to the Champions loot table
 - Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - Unfortunately, that doesn't seem to work, so Griefer Armour has been added to the Champions loot table too
-- Made Champions a little rarer
+- Made Champions a little rarer and drop less loot
 - Fixed Artifacts catalysts tag being broken + Changed certain recipes due to NBT incompatbility
 - Disabled Adaptable Champions, as there's no good counter to them if you only have melee weapons on you
 - Disabled Rattlesnakes from Alex's Mobs, little cretins
 - Made Potion Effect-carrying mobs only have their effect for 66 seconds, as a Creeper explosion's lingering cloud would buff you permanently
+- Mobs can now spawn with the Poison effect.
 - Retextured Pickarang (Quark) and Obsidian Skull (Artifacts)
