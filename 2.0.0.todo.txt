@@ -1,5 +1,7 @@
 - Remove Tetra
+- Remove Tetra Pak
 - Remove Plus the End
+- Remove Aquamirae
 
 - Add Darker Depths
 - Add Galosphere...?
