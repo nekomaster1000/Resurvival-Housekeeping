@@ -10,6 +10,7 @@
 
 - Added numerous cool Supplementaries items to the Champions loot table
 - Added Griefer Soldiers to the list of MobsPropertiesRandomness mobs that can spawn - Unfortunately, that doesn't seem to work, so Griefer Armour has been added to the Champions loot table too
+- Made Champions a little rarer
 - Fixed Artifacts catalysts tag being broken + Changed certain recipes due to NBT incompatbility
 - Disabled Adaptable Champions, as there's no good counter to them if you only have melee weapons on you
 - Disabled Rattlesnakes from Alex's Mobs, little cretins
