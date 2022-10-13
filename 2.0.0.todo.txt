@@ -1,31 +1,30 @@
 = DONE =
-
-
 - Removed Tetra
 - Removed Tetra Pak
 - Removed Inventorio
 - Removed Aquamirae
-- Removed Plus the End
+- Removed Obscuria's Essentials + Tooltips
 
-- Added Darker Depths
-- Added Serene Seasons
+- Added Darker Depths (Cave biomes!!)
+- Added Serene Seasons (In-game changing seasons!)
 - Added Feature NBT Deadlock Be Gone
 - Added Galosphere
 - Added Biome Makeover
 - Added Compat Makeover
-- Added Undead Expansion
+- Added Every Compat
+- Added Undead Expansion (Cool new armour!)
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
-- Added End Remastered
+- Added End Remastered (Extended endgame progression
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
 
 = TO DO =
+- Wait on a repsonse from the Aqwuaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
 
 
-
-
-= DO NOT RELEASE WITHOUT DOING THESE =
+= DO NOT RELEASE WITHOUT ADDING THESE =
 - Add Mining Master Release 4
 - Add Shield Expansion
+- Remove end ore armour crafting recipe and JEI entries
