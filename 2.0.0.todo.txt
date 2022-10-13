@@ -4,9 +4,11 @@
 - Removed Inventorio
 - Removed Aquamirae
 - Removed Obscuria's Essentials + Tooltips
+- Removed Savage Ender Dragon
 
 - Added Darker Depths (Cave biomes!!)
 - Added Serene Seasons (In-game changing seasons!)
+- Added Progressive Bosses
 - Added Feature NBT Deadlock Be Gone
 - Added Galosphere
 - Added Biome Makeover
