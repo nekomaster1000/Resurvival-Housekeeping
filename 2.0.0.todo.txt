@@ -1,17 +1,31 @@
-- Remove Tetra
-- Remove Tetra Pak
-- Remove Inventorio
-- Remove Aquamirae
-- Remove Plus the End
+= DONE =
 
-- Add Darker Depths
-- Add Galosphere...?
-- Add Biome Makeover
-- Add Undead Expansion?
-- Add End Remastered
-- Add Integrated Dungeons and Structures
-- Add Dungeons Plus 1.2
-- Add End's Phantasm
 
-- FTBQuests progression chain, locking Eyes of Ender behind boss fights (Biome Makeover, Mowzies Mobs, Aquamirae, Piglin Brute)
-- Remove Diamonds from the underground ALMOST entirely, making them far more discoverable through loot and boss fights
+- Removed Tetra
+- Removed Tetra Pak
+- Removed Inventorio
+- Removed Aquamirae
+- Removed Plus the End
+
+- Added Darker Depths
+- Added Serene Seasons
+- Added Feature NBT Deadlock Be Gone
+- Added Galosphere
+- Added Biome Makeover
+- Added Compat Makeover
+- Added Undead Expansion
+- Added Integrated Dungeons and Structures
+- Added Dungeons Plus 1.2
+- Added End Remastered
+- Added End's Phantasm
+- Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
+
+
+= TO DO =
+
+
+
+
+= DO NOT RELEASE WITHOUT DOING THESE =
+- Add Mining Master Release 4
+- Add Shield Expansion
