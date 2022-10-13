@@ -21,6 +21,8 @@
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
+- Made Endronium Tools and Armour uncraftable
+- Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
 
 = TO DO =
 - Wait on a repsonse from the Aqwuaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
