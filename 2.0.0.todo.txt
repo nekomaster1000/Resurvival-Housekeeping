@@ -23,7 +23,9 @@
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
 - Made Endronium Tools and Armour uncraftable
+- Endronium Ore now only drops nuggets - find ingots in the towers!
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
+- Seagulls can no longer steal lunchboxes and lunchbags from the player 
 
 = TO DO =
 - Wait on a repsonse from the Aquaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
