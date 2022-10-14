@@ -26,10 +26,9 @@
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
 
 = TO DO =
-- Wait on a repsonse from the Aqwuaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
+- Wait on a repsonse from the Aquaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
 
 
 = DO NOT RELEASE WITHOUT ADDING THESE =
 - Add Mining Master Release 4
 - Add Shield Expansion
-- Remove end ore armour crafting recipe and JEI entries
