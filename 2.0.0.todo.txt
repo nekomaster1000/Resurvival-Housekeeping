@@ -13,6 +13,7 @@
 - Added Feature NBT Deadlock Be Gone
 - Added Galosphere
 - Added Biome Makeover
+- Added Biome Makeover Makeover
 - Added Compat Makeover
 - Added Every Compat
 - Added Undead Expansion (Cool new armour!)
