@@ -19,6 +19,9 @@
 - Added Undead Expansion (Cool new armour!)
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
+- Added Ageing Spawners
+- Added Ageing Mobs
+- Added Aquaculture 2 and Aquaculture Refished
 - Added End Remastered (Extended endgame progression
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
@@ -29,7 +32,7 @@
 - Seagulls can no longer steal lunchboxes and lunchbags from the player 
 
 = TO DO =
-- Wait on a repsonse from the Aquaculture Refished creator - if permissed, use, if not, don't include Aquaculture 2
+
 
 
 = DO NOT RELEASE WITHOUT ADDING THESE =
