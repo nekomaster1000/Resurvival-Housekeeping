@@ -11,18 +11,16 @@
 - Added Continents
 - Added Progressive Bosses
 - Added Feature NBT Deadlock Be Gone
-- Added Galosphere
-- Added Biome Makeover
-- Added Biome Makeover Makeover
+- Added Biome Makeover and Biome Makeover Makeover
 - Added Compat Makeover
 - Added Every Compat
-- Added Undead Expansion (Cool new armour!)
+- Added Undead Expansion
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
 - Added Ageing Spawners
 - Added Ageing Mobs
 - Added Aquaculture 2 and Aquaculture Refished
-- Added End Remastered (Extended endgame progression
+- Added End Remastered 
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
@@ -33,7 +31,7 @@
 
 = TO DO =
 
-
+Aquaculture Armour retexture
 
 = DO NOT RELEASE WITHOUT ADDING THESE =
 - Add Mining Master Release 4
