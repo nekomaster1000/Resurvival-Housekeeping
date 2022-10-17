@@ -2,6 +2,8 @@
 - Removed Tetra
 - Removed Tetra Pak
 - Removed Inventorio
+- Removed Alex's Mobs
+- Removed Alex's Delights
 - Removed Aquamirae
 - Removed Obscuria's Essentials + Tooltips
 - Removed Savage Ender Dragon
