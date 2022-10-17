@@ -16,6 +16,7 @@
 - Added Biome Makeover and Biome Makeover Makeover
 - Added Compat Makeover
 - Added Every Compat
+- Added Naturalist
 - Added Undead Expansion
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
@@ -26,14 +27,13 @@
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
+- Made custom artwork for the Neptunium tools and armour
 - Made Endronium Tools and Armour uncraftable
 - Endronium Ore now only drops nuggets - find ingots in the towers!
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
 - Seagulls can no longer steal lunchboxes and lunchbags from the player 
 
 = TO DO =
-
-Aquaculture Armour retexture
 
 = DO NOT RELEASE WITHOUT ADDING THESE =
 - Add Mining Master Release 4
