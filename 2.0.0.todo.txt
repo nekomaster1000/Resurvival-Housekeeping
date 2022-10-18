@@ -23,7 +23,6 @@
 - Added Ageing Spawners
 - Added Ageing Mobs
 - Added Aquaculture 2 and Aquaculture Refished
-- Added Born in Chaos
 - Added Eyes in the Darkness
 - Added Another Furniture
 - Added End Remastered 
