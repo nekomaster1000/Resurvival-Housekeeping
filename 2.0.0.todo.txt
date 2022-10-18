@@ -34,7 +34,8 @@
 - Made custom artwork for the Neptunium tools and armour. Also added in custom Copper Armour model art, at last
 - Made Neptunium Armour acquirable via the Gem Forge, and Neptunium Tools via the Smithing Table. Both require Netherite Catalysts
 - Made Neptune's Bounty only bestow nuggets and weapons, no armour. Increased the rolls on the trash loot, too
-- Champions now drop Neptunium nuggets and ingots
+- Champions now drop Neptunium nuggets and ingots, in addition to Soul Hearts
+- Soul Hearts can be used in a Smithing Table to enchant items with Soulbound, so they'll stick with you after you die.
 - Made Endronium Tools and Armour uncraftable
 - Endronium Ore now only drops nuggets - find ingots in the towers!
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
