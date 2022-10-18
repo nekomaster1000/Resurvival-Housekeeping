@@ -27,9 +27,13 @@
 - Added Another Furniture
 - Added End Remastered 
 - Added End's Phantasm
+- Added Chat Heads
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
 - Made custom artwork for the Neptunium tools and armour
+- Made Neptunium Armour acquirable via the Gem Forge, and Neptunium Tools via the Smithing Table. Both require Netherite Catalysts.
+- Made Neptune's Bounty only bestow nuggets and weapons, no armour. Increased the rolls on the trash loot, too.
+- Champions now drop Neptunium nuggets and ingots.
 - Made Endronium Tools and Armour uncraftable
 - Endronium Ore now only drops nuggets - find ingots in the towers!
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
