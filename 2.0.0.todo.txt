@@ -17,6 +17,7 @@
 - Added Every Compat
 - Added Naturalist
 - Added Undead Expansion
+- Added Ensorcellation
 - Added YUNG's Better Ocean Monuments
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
