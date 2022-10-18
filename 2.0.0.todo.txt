@@ -2,7 +2,6 @@
 - Removed Tetra
 - Removed Tetra Pak
 - Removed Inventorio
-- Removed Alex's Mobs
 - Removed Alex's Delights
 - Removed Aquamirae
 - Removed Obscuria's Essentials + Tooltips
@@ -18,11 +17,13 @@
 - Added Every Compat
 - Added Naturalist
 - Added Undead Expansion
+- Added YUNG's Better Ocean Monuments
 - Added Integrated Dungeons and Structures
 - Added Dungeons Plus 1.2
 - Added Ageing Spawners
 - Added Ageing Mobs
 - Added Aquaculture 2 and Aquaculture Refished
+- Added Another Furniture
 - Added End Remastered 
 - Added End's Phantasm
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
