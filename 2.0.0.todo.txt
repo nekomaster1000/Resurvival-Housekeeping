@@ -31,6 +31,7 @@
 - Added Chat Heads
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
+- Made Iron more plentiful in the deep recesses of the Lush Caves
 - Made custom artwork for the Neptunium tools and armour. Also added in custom Copper Armour model art, at last
 - Made Neptunium Armour acquirable via the Gem Forge, and Neptunium Tools via the Smithing Table. Both require Netherite Catalysts
 - Made Neptune's Bounty only bestow nuggets and weapons, no armour. Increased the rolls on the trash loot, too
