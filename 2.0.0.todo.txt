@@ -28,6 +28,7 @@
 - Added Another Furniture
 - Added End Remastered 
 - Added End's Phantasm
+- Added Earth Mobs
 - Added Chat Heads
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
