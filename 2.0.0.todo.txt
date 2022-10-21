@@ -20,6 +20,7 @@
 - Added Naturalist
 - Added Windowlogging
 - Added Undead Expansion
+- Added Enemy Expansion
 - Added Ensorcellation
 - Added YUNG's Better Ocean Monuments
 - Added Integrated Dungeons and Structures
@@ -48,6 +49,7 @@
 - Changed Air Malachite Bow recipe to require a Block of Endronium, allowing the ore to still have purpose
 - Seagulls can no longer steal lunchboxes and lunchbags from the player 
 - Drastically lowered the spawnrates of Bison and Tigers. Did I mention disabling Rattlesnakes last time too?
+- Disabled Baby Zombies due to issue with Enemy Expansion mobs
 
 = TO DO =
 
