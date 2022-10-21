@@ -18,6 +18,7 @@
 - Added Compat Makeover
 - Added Every Compat
 - Added Naturalist
+- Added Windowlogging
 - Added Undead Expansion
 - Added Ensorcellation
 - Added YUNG's Better Ocean Monuments
