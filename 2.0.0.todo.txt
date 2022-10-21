@@ -6,7 +6,9 @@
 - Removed Aquamirae
 - Removed Obscuria's Essentials + Tooltips
 - Removed Savage Ender Dragon
+- Removed Complementary Shaders
 
+- Added Complementary Reimagined Shaders
 - Added Darker Depths (Cave biomes!!)
 - Added Serene Seasons (In-game changing seasons!)
 - Added Continents
@@ -30,6 +32,7 @@
 - Added End's Phantasm
 - Added Earth Mobs
 - Added Chat Heads
+- Added Legendary Tooltips
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
 - Made Iron more plentiful in the deep recesses of the Lush Caves
