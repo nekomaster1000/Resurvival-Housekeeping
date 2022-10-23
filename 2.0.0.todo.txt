@@ -54,6 +54,8 @@
 
 = TO DO =
 
+Dungeons Plus weapon retexturees
+
 = DO NOT RELEASE WITHOUT ADDING THESE =
 - Add Mining Master Release 4
 - Add Shield Expansion
