@@ -8,6 +8,7 @@
 - Removed Savage Ender Dragon
 - Removed Complementary Shaders
 
+- Updated Mining Master to Release 4
 - Added Complementary Reimagined Shaders
 - Added Darker Depths (Cave biomes!!)
 - Added Serene Seasons (In-game changing seasons!)
@@ -34,6 +35,7 @@
 - Added End's Phantasm
 - Added Earth Mobs
 - Added Sully's Mod
+- Added Shield Expansion
 - Added Chat Heads
 - Added Legendary Tooltips
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
@@ -55,7 +57,3 @@
 = TO DO =
 
 Dungeons Plus weapon retexturees
-
-= DO NOT RELEASE WITHOUT ADDING THESE =
-- Add Mining Master Release 4
-- Add Shield Expansion
