@@ -38,6 +38,7 @@
 - Added Shield Expansion
 - Added Chat Heads
 - Added Legendary Tooltips
+- Added Lava Monsters
 - Added Open Parties and Claims (direct compatibility with Xaero's World Map!)
 
 - Made Iron more plentiful in the deep recesses of the Lush Caves
@@ -55,5 +56,3 @@
 - Disabled Baby Zombies due to issue with Enemy Expansion mobs
 
 = TO DO =
-
-Dungeons Plus weapon retexturees
