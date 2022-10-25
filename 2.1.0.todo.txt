@@ -1,5 +1,11 @@
 = DONE =
+- Removed Lootr due to it using 2.34% of the server thread
+- Removed Serene Seasons due to it using 0.62% of the server thread
+- Removed Pollen (and extensively Enhanced Mushrooms :( ) due to a crash pertaining to it
+
 - Added Simple Hats
+- Added My Server Is Compatible
+- Added Server Performance - Smooth Chunk Save[Forge/Fabric]
 
 - Added Deeplings, normal mobs that spawn in the deepslate layer with better stats.
 - Added Meated, undead with Meat Hats.
