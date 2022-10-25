@@ -1,4 +1,6 @@
 = DONE =
+Fixed? Iron Ore being too rampant
+Upped Copper Ore's spawnrates
 
 = TO DO = 
 - Remove No Shields from all Origins
