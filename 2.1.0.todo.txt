@@ -1,10 +1,11 @@
 = DONE =
 - Added Deeplings, normal mobs that spawn in the deepslate layer with better stats.
+- Added Meated, undead with Meat Hats.
 - Fixed? Iron Ore being too rampant
 - Upped Copper Ore's spawnrates
-
+- Reduced Avian origin's health to 10 from 16
+- Removed No Shield power from Blazeborn and Shulk origins
+- Removed all non-relevant items from the gem and catalyst MM tags.
 
 = TO DO = 
-- Remove No Shields from all Origins
-- Take even more health off the Avian? Remove the feather falling? idk >:(
 - remove all non-gem items from the gem and catalyst tags in MM
