@@ -10,4 +10,4 @@
 - Removed all non-relevant items from the gem and catalyst MM tags.
 
 = TO DO = 
-- remove all non-gem items from the gem and catalyst tags in MM
+- Update Enemy Expansion to 1.2 for the new Meat Hat
