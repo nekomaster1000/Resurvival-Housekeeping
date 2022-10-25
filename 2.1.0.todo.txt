@@ -1,4 +1,6 @@
 = DONE =
+- Added Simple Hats
+
 - Added Deeplings, normal mobs that spawn in the deepslate layer with better stats.
 - Added Meated, undead with Meat Hats.
 - Fixed? Iron Ore being too rampant
