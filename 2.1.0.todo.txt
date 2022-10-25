@@ -1,6 +1,8 @@
 = DONE =
-Fixed? Iron Ore being too rampant
-Upped Copper Ore's spawnrates
+- Added Deeplings, normal mobs that spawn in the deepslate layer with better stats.
+- Fixed? Iron Ore being too rampant
+- Upped Copper Ore's spawnrates
+
 
 = TO DO = 
 - Remove No Shields from all Origins
