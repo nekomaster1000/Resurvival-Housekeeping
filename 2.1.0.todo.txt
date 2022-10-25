@@ -1,0 +1,6 @@
+= DONE =
+
+= TO DO = 
+- Remove No Shields from all Origins
+- Take even more health off the Avian? Remove the feather falling? idk >:(
+- remove all non-gem items from the gem and catalyst tags in MM
