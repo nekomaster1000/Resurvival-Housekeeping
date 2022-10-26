@@ -7,13 +7,12 @@
 - Added My Server Is Compatible
 - Added Server Performance - Smooth Chunk Save[Forge/Fabric]
 
-- Added Deeplings, normal mobs that spawn in the deepslate layer with better stats.
+- Added Deeplings, normal mobs that spawn in the deepslate layer with better stats
 - Added Meated, undead with Meat Hats.
 - Fixed? Iron Ore being too rampant
 - Upped Copper Ore's spawnrates
 - Reduced Avian origin's health to 10 from 16
 - Removed No Shield power from Blazeborn and Shulk origins
-- Removed all non-relevant items from the gem and catalyst MM tags.
-
-= TO DO = 
-- Update Enemy Expansion to 1.2 for the new Meat Hat
+- Removed all non-relevant items from the gem and catalyst MM tags
+- Meathat is now obtainable in survival via killing a Meature with a Looting-enchanted item
+- Disabled Alex's Mobs Grizzly Bear due to Naturalist having a better one
