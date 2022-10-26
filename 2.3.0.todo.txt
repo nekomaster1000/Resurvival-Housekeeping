@@ -1,0 +1,6 @@
+= DONE =
+- Added Alexish Mobs resource pack to allow Alex's Mobs and Naturalist to work alongside each other
+- Re-enabled Grizzly Bear (now Black Bear)
+
+= TO DO =
+...
