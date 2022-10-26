@@ -1,5 +1,4 @@
 = DONE =
-
+- Removed Dungeons Arise based on feedback and to try and help reduce chunk loading lag
 
 = TO DO =
-- Remove Dungeons Arise
