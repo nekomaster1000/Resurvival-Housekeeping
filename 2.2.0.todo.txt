@@ -1,6 +1,5 @@
 = DONE =
 - Removed Dungeons Arise based on feedback and to try and help reduce chunk loading lag
-
+- Removed ItShallNotTick due to it using a lot of the server thread
+- Removed Mutil
 - Fixed Iron, Gold and Copper blocks being uncraftable - They can now also be smelted out of their respective raw material blocks, too!
-
-= TO DO =
