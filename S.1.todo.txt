@@ -4,7 +4,8 @@ More removals in the name of improving chunk loading:
 - Removed Darker Depths to improve chunk loading
 
 - Renamed Blazeborn to Cinderborn
-- Cinderborn no longer spawn in the Nether (to prevent crashing)
+- Cinderborn no longer spawn in the Nether (to prevent crashing), now spawning in the overworld
+- Removed the Avian origin as it massively overlaps with the Cinderborn
 - Xaero's Minimap now always points north like the world map for consistency between the two
 
 = DOING = 
