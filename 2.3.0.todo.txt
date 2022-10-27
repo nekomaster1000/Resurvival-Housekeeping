@@ -1,5 +1,9 @@
 = DONE =
 - Removed Lava Monsters
+- Removed Biome Makeover (Forge)(Lemonszz)
+- Removed Dungeons Plus(ModdingLegacy)
+- Removed YUNG's Better Ocean Monuments (Forge)(YUNGNICKYOUNG)
+
 - Added Alexish Mobs resource pack to allow Alex's Mobs and Naturalist to work alongside each other
 - Re-enabled Grizzly Bear (now Black Bear)
 
