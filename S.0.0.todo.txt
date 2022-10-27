@@ -15,6 +15,7 @@ Updates may pull even more mods and features out based on if they improve perfor
 - Removed Big Brain
 - Removed Create
 - Added YUNG's Better Desert Temples (Forge)
+- Readded Alex's Delight
 
 - Disabled Alex's Mobs Crows, Cockroaches, Racoons, Crocodiles and Flys to reduce server lag
 - Disabled Artifact's Mimics to reduce server lag
