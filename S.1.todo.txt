@@ -5,6 +5,7 @@ More removals in the name of improving chunk loading:
 
 - Renamed Blazeborn to Cinderborn
 - Cinderborn no longer spawn in the Nether (to prevent crashing)
+- Xaero's Minimap now always points north like the world map for consistency between the two
 
 = DOING = 
 
