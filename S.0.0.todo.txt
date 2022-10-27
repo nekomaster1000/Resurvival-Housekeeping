@@ -22,6 +22,7 @@ Updates may pull even more mods and features out based on if they improve perfor
 - Lushlings currently no longer have a flower crown stuck to their head due to the removal of IW
 - Disabled Alex's Mobs Crows, Cockroaches, Racoons, Crocodiles and Flys to reduce server lag
 - Disabled Artifact's Mimics to reduce server lag
+- Villager loot tables that gave iron ingots now give copper ones
 
 - Added Alexish Mobs resource pack to allow Alex's Mobs and Naturalist to work alongside each other
 - Re-enabled Grizzly Bear (now Black Bear)
