@@ -1,5 +1,9 @@
 = DONE =
+Removed Continents to improve Chunk loading
+
+= DOING = 
+
 
 
 = TO DO =
-- Remove Darker Depths to improve chunk loading
+- Rest the removal of Darker Depths
