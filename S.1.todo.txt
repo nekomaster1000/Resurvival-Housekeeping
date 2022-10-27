@@ -5,6 +5,7 @@
 - Cinderborn no longer spawn in the Nether (to prevent crashing), now spawning in the overworld
 - Removed the Avian origin as it massively overlaps with the Cinderborn
 - Xaero's Minimap now always points north like the world map for consistency between the two
+- Rebound the minimap options to [, pairing with the worldmap options on ]
 
 = DOING = 
 
