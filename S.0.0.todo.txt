@@ -17,8 +17,7 @@ Updates may pull even more mods and features out based on if they improve perfor
 - Added YUNG's Better Desert Temples (Forge)
 
 - Disabled Alex's Mobs Crows, Cockroaches, Racoons, Crocodiles and Flys to reduce server lag
-- Disabled Artifact's Mimics due to reduce server lag
-- Reduced Guard Villager's attack trigger range when Villagers are attacked from 50 to 25 to help reduce lag
+- Disabled Artifact's Mimics to reduce server lag
 
 - Added Alexish Mobs resource pack to allow Alex's Mobs and Naturalist to work alongside each other
 - Re-enabled Grizzly Bear (now Black Bear)
