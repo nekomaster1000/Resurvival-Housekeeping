@@ -1,0 +1,27 @@
+= DONE =
+Welcome to the Stripped version of Resurvival. 
+Many removals have been made here in an attempt to increase server performance. 
+I'm not happy about em! I love basically every mod I add in, and am never happy to have to remove them.
+But given some mods are completely hampering server performance, I owe it to myself and to the pack players to at least try and make the experience as smooth as possible.
+That's what the Stripped version is all about.
+Updates may pull even more mods and features out based on if they improve performance or not, so consider this an experimental series of updates.
+
+- Removed Lava Monsters
+- Removed Eyes in the Darkness
+- Removed Biome Makeover
+- Removed Dungeons Plus
+- Removed Immersive Weathering
+- Removed Guard Villagers
+- Removed Big Brain
+- Removed Create
+
+- Added YUNG's Better Desert Temples (Forge)
+- Disabled Alex's Mobs Crows, Cockroaches, Racoons, Crocodiles and Flys to reduce server lag
+- Disabled Artifact's Mimics due to reduce server lag
+- Reduced Guard Villager's attack trigger range when Villagers are attacked from 50 to 25 to help reduce lag
+
+- Added Alexish Mobs resource pack to allow Alex's Mobs and Naturalist to work alongside each other
+- Re-enabled Grizzly Bear (now Black Bear)
+
+= TO DO =
+Make new server world to test out if this helps at all :sob:
