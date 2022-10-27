@@ -1,9 +1,14 @@
 = DONE =
-Removed Continents to improve Chunk loading
+More removals in the name of improving chunk loading:
+- Removed Continents to improve chunk loading
+- Removed Darker Depths to improve chunk loading
+
+- Renamed Blazeborn to Cinderborn
+- Cinderborn no longer spawn in the Nether (to prevent crashing)
 
 = DOING = 
 
 
 
 = TO DO =
-- Rest the removal of Darker Depths
+
