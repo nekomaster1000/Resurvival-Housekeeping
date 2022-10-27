@@ -1,5 +1,6 @@
 = DONE =
 - Removed Lava Monsters
+- Removed Eyes in the Darkness
 - Removed Biome Makeover (Forge)(Lemonszz)
 - Removed Dungeons Plus(ModdingLegacy)
 - Removed YUNG's Better Ocean Monuments (Forge)(YUNGNICKYOUNG)
