@@ -1,5 +1,4 @@
 = DONE =
-Welcome to the Stripped version of Resurvival. 
 Many removals have been made here in an attempt to increase server performance. 
 I'm not happy about em! I love basically every mod I add in, and am never happy to have to remove them.
 But given some mods are completely hampering server performance, I owe it to myself and to the pack players to at least try and make the experience as smooth as possible.
