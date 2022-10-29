@@ -1,4 +1,6 @@
-= TO DO =
-- Removed Undead Expansion due to balancing and wonky spawning
-
+= DONE =
+- Removed Undead Expansion due to balancing and wonky structure spawning
 - Updated Plus the End
+- Added Evoked
+
+= TO DO =
