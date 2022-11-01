@@ -1,0 +1,20 @@
+Resurvival: Originless 
+In this version of the pack, Origins has been removed to try and see if it helps stop crashing! I'll add it back later if it doesn't help. On the plus side, a bunch of your favourite mods are all back!
+
+= DONE =
+- Removed Origins to test whether or not it's causing the ungodly freezing upon respawning
+- Removed Undead Expansion due to balancing and wonky structure spawning
+- Updated Plus the End - Rebalanced Endronium and other changes made at my request
+- Readded Create
+- Readded Immersive Weathering
+- Readded Aquamirae - Now on R4
+- Added Brooms
+- Added Evoked
+- Added Galosphere
+- Added Rotten Creatures
+
+- Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
+
+= TO DO =
+- Retexture Zombie Friends
+- Add Zombie Friends
