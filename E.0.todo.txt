@@ -10,8 +10,8 @@ In this version of the pack, Origins has been removed to try and see if it helps
 - Readded Aquamirae - Now on R4
 - Added Brooms
 - Added Evoked
-- Added Relics
 - Added Galosphere
+- Added Darker Depths
 - Added Unusual Fish
 - Added Rotten Creatures
 - Added Spelunker's Charm
@@ -23,5 +23,4 @@ In this version of the pack, Origins has been removed to try and see if it helps
 
 = TO DO =
 
-- Test Zombie Friends
 - Test Twilight Forest
