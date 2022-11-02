@@ -12,6 +12,7 @@ In this version of the pack, Origins has been removed to try and see if it helps
 - Added Evoked
 - Added Galosphere
 - Added Rotten Creatures
+- Added Spelunker's Charm
 
 - Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
 
