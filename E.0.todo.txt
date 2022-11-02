@@ -1,5 +1,6 @@
 Resurvival: Equalized
-In this version of the pack, Origins has been removed to try and see if it helps stop crashing! I'll add it back later if it doesn't help. On the plus side, a bunch of your favourite mods are all back!
+In this version of the pack, Origins has been removed to try and see if it helps stop crashing! I'll add it back later if it doesn't help. 
+On the plus side, a bunch of your favourite mods are all back! Along with some really cool new ones!
 
 = DONE =
 - Removed Origins to test whether or not it's causing the ungodly freezing upon respawning
