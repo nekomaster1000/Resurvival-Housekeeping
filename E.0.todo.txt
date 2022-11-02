@@ -10,10 +10,11 @@ In this version of the pack, Origins has been removed to try and see if it helps
 - Readded Aquamirae - Now on R4
 - Added Brooms
 - Added Evoked
+- Added Relics
 - Added Galosphere
+- Added Unusual Fish
 - Added Rotten Creatures
 - Added Spelunker's Charm
-- Added Unusual Fish
 - Added Architect's Palette
 - Added Zombie Friends!
 
