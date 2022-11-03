@@ -18,12 +18,15 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 - Added Spelunker's Charm
 - Added Architect's Palette
 - Added Zombie Friends!
+- Added FTB Library
+- Added FTB Teams
+- Added FTB Quests
 
+- Added questlines, showing you everything there is to accomplish within the pack
 - Refined Zombie Friends' textures with a custom resource pack
+- The Gem Forge is now crafted with Galosphere's Silver Ingots
 - Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
 
 = TO DO =
 
 - Test Twilight Forest
-- Added FTB Library, Teams, Quests and Chunks
-- Add questlines
