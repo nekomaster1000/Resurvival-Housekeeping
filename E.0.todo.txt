@@ -29,5 +29,6 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 
 = TO DO =
 - Add Lunchbox to the FTBQuests questline!
+- Add Beacon to the FTBQuest questline
 
 - Figure out Item Blacklisting in JEI
