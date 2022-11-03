@@ -28,5 +28,4 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 - Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
 
 = TO DO =
-
-- Test Twilight Forest
+- Figure out Item Blacklisting in JEI
