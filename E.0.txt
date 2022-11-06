@@ -1,15 +1,17 @@
 Resurvival: Equalized
-In this version of the pack, Origins has been removed to try and see if it helps stop crashing! I'll add it back later if it doesn't help. 
+In this version of the pack, Origins has been removed to try and see if it helps stop crashing/freezing! I'll add it back later if it doesn't help.
 On the plus side, a bunch of your favourite mods are all back! Along with some really cool new ones!
 
-= DONE =
 - Removed Origins to test whether or not it's causing the ungodly freezing upon respawning
 - Removed Undead Expansion due to balancing and wonky structure spawning
 - Updated Plus the End - Rebalanced Endronium and other changes made at my request
+- Updated End's Phantasm - Taller trees!
 - Readded Create
 - Readded Immersive Weathering
 - Readded Aquamirae - Now on R4
+
 - Added Brooms
+- Added Breezy
 - Added Evoked
 - Added Galosphere
 - Added Darker Depths
@@ -18,14 +20,15 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 - Added Spelunker's Charm
 - Added Architect's Palette
 - Added Zombie Friends!
+- Added Japanese Vibes
 - Added FTB Library
 - Added FTB Teams
 - Added FTB Quests
+- Added FM Audio Extension
+- Added Auudio
 
+- New main menu art, with custom music by Expaand
 - Added questlines, showing you everything there is to accomplish within the pack
 - Refined Zombie Friends' textures with a custom resource pack
 - The Gem Forge is now crafted with Galosphere's Silver Ingots
 - Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
-
-= TO DO =
-- Figure out Item Blacklisting in JEI
