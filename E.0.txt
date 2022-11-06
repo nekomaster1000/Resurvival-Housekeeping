@@ -16,11 +16,13 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 - Added Galosphere
 - Added Darker Depths
 - Added Unusual Fish
+- Added True Darkness
 - Added Rotten Creatures
 - Added Spelunker's Charm
 - Added Architect's Palette
 - Added Zombie Friends!
 - Added Japanese Vibes
+- Added Item Filters
 - Added FTB Library
 - Added FTB Teams
 - Added FTB Quests
