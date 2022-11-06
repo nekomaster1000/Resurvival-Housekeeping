@@ -1,0 +1,7 @@
+= DONE =
+
+
+= TO DO =
+- add that one supplementaries guy's mod that adds labels to chests and stuff
+- fix jei tomfoolery
+- add cnb when its fixed
