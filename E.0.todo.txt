@@ -28,7 +28,4 @@ On the plus side, a bunch of your favourite mods are all back! Along with some r
 - Endronium Armour is now craftable again in a Gem Forge by imbuing Endornium nuggets into Netherite Armour - Thanks to the PTE author for rebalancing it!
 
 = TO DO =
-- Add Lunchbox to the FTBQuests questline!
-- Add Beacon to the FTBQuest questline
-
 - Figure out Item Blacklisting in JEI
