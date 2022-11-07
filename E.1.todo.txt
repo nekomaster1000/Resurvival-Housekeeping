@@ -1,7 +1,11 @@
 = DONE =
+- Readded It Shall Not Tick
+- Added Druidcraft
+- Added Storage Labels
+- Added Mystical Oak Tree
+
 - Disabled Alex's Mobs Crows, Crocodiles and Flys PROPERLY this time (WHY do crows tick like that??)
 - Tweaked Iron and Copper spawnrates again
-- Readded It Shall Not Tick
 
 = TO DO =
 - add that one supplementaries guy's mod that adds labels to chests and stuff
