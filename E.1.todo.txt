@@ -1,11 +1,12 @@
 = DONE =
+- Removed Breezy
 - Readded It Shall Not Tick
+- Readded World Stripper
 - Added Storage Labels
 - Added Mystical Oak Tree
 - Added Nether's Delight
-- Added Enlightened End
 - Added Unusual End
-- Added Towns and Towers
+- Added Towns and Tower
 
 - Disabled Alex's Mobs Crows, Crocodiles and Flys PROPERLY this time (WHY do crows tick like that??)
 - Tweaked Iron and Copper spawnrates again
