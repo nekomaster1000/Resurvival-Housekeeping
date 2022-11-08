@@ -1,7 +1,18 @@
 = DONE =
+Despite it's refinements, Aquamirae still introduces a host of problems such as server crashes when doing basically... Anything with it. So again, it leaves the pack...
+Also, Breezy has been removed as despite its novelty, it's not very good compared to Brooms or even just the Elytra. Create has been removed again due to Flywheel also taking up a crazy amount of the server thread.
+
+On the plus side - Easier storage sorting! More foods! Several more structures in not only the Overworld, but the End too!
+
 - Removed Breezy
+- Removed Aquamirae
+- Removed Obscure API
+- Removed Create
+- Removed Flywheel
+
 - Readded It Shall Not Tick
 - Readded World Stripper
+
 - Added Storage Labels
 - Added Mystical Oak Tree
 - Added Nether's Delight
@@ -9,9 +20,11 @@
 - Added Towns and Tower
 
 - Disabled Alex's Mobs Crows, Crocodiles and Flys PROPERLY this time (WHY do crows tick like that??)
-- Tweaked Iron and Copper spawnrates again
+- Tweaked Iron and Copper spawnrates again: 
+  - Copper now generates starting at the Ocean level, and also in increased quantities; 
+  - Large Iron veins can now be found between Y-48 and Y-64
 
 = TO DO =
-- add that one supplementaries guy's mod that adds labels to chests and stuff
+
 - fix jei tomfoolery
 - add cnb when its fixed
