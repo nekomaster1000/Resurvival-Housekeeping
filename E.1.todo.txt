@@ -25,8 +25,8 @@ On the plus side - Easier storage sorting! More foods! Several more structures i
   - Copper now generates starting at the Ocean level, and also in increased quantities; 
   - Large Iron veins can now be found between Y-48 and Y-64
 - Raised the max framerate by default to 70, meaning performance dips typically don't take you (me) down lower than 60 anymore (Why didn't I think to do this earlier?)
+- Disabled Quark Corundrum because it's UGLY!
 
 = TO DO =
-
 - fix jei tomfoolery
 - add cnb when its fixed
