@@ -18,11 +18,13 @@ On the plus side - Easier storage sorting! More foods! Several more structures i
 - Added Nether's Delight
 - Added Unusual End
 - Added Towns and Tower
+- Added Immersive Paintings
 
 - Disabled Alex's Mobs Crows, Crocodiles and Flys PROPERLY this time (WHY do crows tick like that??)
 - Tweaked Iron and Copper spawnrates again: 
   - Copper now generates starting at the Ocean level, and also in increased quantities; 
   - Large Iron veins can now be found between Y-48 and Y-64
+- Raised the max framerate by default to 70, meaning performance dips typically don't take you (me) down lower than 60 anymore (Why didn't I think to do this earlier?)
 
 = TO DO =
 
