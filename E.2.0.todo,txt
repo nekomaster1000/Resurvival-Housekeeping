@@ -6,9 +6,9 @@
 - Added Unstructured
 
 - Added the Diamond Paxel to the questline
+- Removed duplicate rope item recipes, leaving only Farmer's Delight's
 
 = TO DO =
-- time to make some scripts
-- fix jei tomfoolery
+- make script that removes all rope items besides Farmer's Delights from creative and JEI
 - add cnb when its fixed
 - add harvest season
