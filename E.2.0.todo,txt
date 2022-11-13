@@ -7,11 +7,12 @@
 
 - Added the Diamond Paxel and visiting the Glowstone Canyon to the questline
 - Added many more XP rewards into the Adventure Awaits chapter
-- Removed duplicate rope item recipes, leaving only Farmer's Delight's
+- Removed duplicate rope items in JEI, leaving only Farmer's Delight's rope
+- Retextured Artifacts necklaces, made them easier to craft (changed glowsilk to string in recipes)
 
 = TO DO =
-- make script that removes all rope items besides Farmer's Delights from Creative and JEI with Crafttweaker
 - make tags to optimize quest achievements
 - retexture Farmer's Rope to look like Supplementaries'
+- retexture artifacts flippers + charm of sinking and power glove to resemble aquamarine and pyrite better
 - add CNB when its fixed
 - add Harvest Season
