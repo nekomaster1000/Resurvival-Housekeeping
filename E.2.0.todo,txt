@@ -9,6 +9,8 @@
 - Removed duplicate rope item recipes, leaving only Farmer's Delight's
 
 = TO DO =
-- make script that removes all rope items besides Farmer's Delights from creative and JEI
-- add cnb when its fixed
-- add harvest season
+- make script that removes all rope items besides Farmer's Delights from Creative and JEI with Crafttweaker
+- make tags to optimize quest achievements
+
+- add CNB when its fixed
+- add Harvest Season
