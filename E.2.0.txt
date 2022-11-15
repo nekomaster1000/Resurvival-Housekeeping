@@ -4,6 +4,7 @@
 - Added Crafttweaker
 - Added Droplight
 - Added Unstructured
+- Added Attribute Fix
 - Added Just Enough Resources
 
 - Backpacks can now be taken off, even if they have items in them!
