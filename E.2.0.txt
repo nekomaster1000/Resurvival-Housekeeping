@@ -1,0 +1,21 @@
+= DONE =
+- Removed Ageing Mobs
+- Added Building Wands
+- Added Crafttweaker
+- Added Droplight
+- Added Unstructured
+- Added Just Enough Resources
+
+- Backpacks can now be taken off, even if they have items in them!
+
+- Added the Paxel, Backpacks, the Soul Heart and visiting the Glowstone Canyon to the questline
+- Added many more XP rewards into the Adventure Awaits quest chapter
+- Made custom tags for endgame gear so any item of that gear is recognised in their quests
+
+- Removed duplicate rope items in JEI with CraftTweaker, leaving only Farmer's Delight's rope
+- Retextured Farmer's Rope items to look like Supplementaries'
+- Retextured Artifacts necklaces and made them easier to craft (changed glowsilk to string in recipes)
+- Retexture Artifacts Flippers & Power Glove to resemble Aquamarine and Pyrite better
+
+- Made Diamonds rarer
+- Fixed broken Warp Stone forging recipe
