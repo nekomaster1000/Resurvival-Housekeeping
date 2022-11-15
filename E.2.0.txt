@@ -19,3 +19,4 @@
 
 - Made Diamonds rarer
 - Fixed broken Warp Stone forging recipe
+- Mana Jellyfish spawning is actually insane, so that's been turned down - If more insane stuff like that happens though I'll have to remove it D:
