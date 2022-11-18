@@ -3,6 +3,8 @@
 - Readded Bed Benefits
 - Added Healing Campfire
 - Added No Hostiles Around Campfire
+- Added Monke Madness
+- Added Simple Shops
 
 - Added a Skeletal Phantoms resource pack by Riley
 
