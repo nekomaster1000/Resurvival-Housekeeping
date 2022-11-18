@@ -4,8 +4,11 @@
 - Added Healing Campfire
 - Added No Hostiles Around Campfire
 
+- Added a Skeletal Phantoms resource pack by Riley
+
 = TO DO =
 - Make supplementaries rope accessible as 'post rope', removing the accessibility of Farmer's rope?
 - Building Wands resource pack for consistency with other tools
 - Disallow Phalanx on higher tier SE shields
 - Sand recolour resource pack >:)
+- do some funky stuff with mob properties randomness and add large phantoms
