@@ -1,6 +1,8 @@
 = DONE = 
 - Readded Lootr
-
+- Readded Bed Benefits
+- Added Healing Campfire
+- Added No Hostiles Around Campfire
 
 = TO DO =
 - Make supplementaries rope accessible as 'post rope', removing the accessibility of Farmer's rope?
