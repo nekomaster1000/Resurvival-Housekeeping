@@ -7,6 +7,7 @@
 - Added Simple Shops
 
 - Added a Skeletal Phantoms resource pack by Riley
+- Sluggers no longer gain an Adrenaline boost when burning - Use fire attacks to your advantage!
 
 = TO DO =
 - Make supplementaries rope accessible as 'post rope', removing the accessibility of Farmer's rope?
