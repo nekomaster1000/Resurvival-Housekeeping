@@ -12,3 +12,4 @@
 - Disallow Phalanx on higher tier SE shields
 - Sand recolour resource pack >:)
 - do some funky stuff with mob properties randomness and add large phantoms
+- add devon's new phantom sounds as a resource pack
