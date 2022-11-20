@@ -8,10 +8,10 @@
 
 - Added a Skeletal Phantoms resource pack by Riley
 - Sluggers no longer gain an Adrenaline boost when burning - Use fire attacks to your advantage!
+- Made a Building Wands resource pack for consistency with other tools + Improved GUI
 
 = TO DO =
 - Make supplementaries rope accessible as 'post rope', removing the accessibility of Farmer's rope?
-- Building Wands resource pack for consistency with other tools
 - Disallow Phalanx on higher tier SE shields
 - Sand recolour resource pack >:)
 - do some funky stuff with mob properties randomness and add large phantoms
