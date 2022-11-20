@@ -7,6 +7,7 @@
 - Added Simple Shops
 
 - Added a Skeletal Phantoms resource pack by Riley
+- Added a Phantom Roars sound resource pack by Expaand
 - Sluggers no longer gain an Adrenaline boost when burning - Use fire attacks to your advantage!
 - Made a Building Wands resource pack for consistency with other tools + Improved GUI
 
@@ -15,4 +16,4 @@
 - Disallow Phalanx on higher tier SE shields
 - Sand recolour resource pack >:)
 - do some funky stuff with mob properties randomness and add large phantoms
-- add devon's new phantom sounds as a resource pack
+- remove idle1 fromphantom folder???
