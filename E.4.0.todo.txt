@@ -1,0 +1,10 @@
+= DONE = 
+
+
+
+= TO DO =
+- Add Stackr
+  - Make dust items stack x10
+  - make campfires stack up to 8
+- fix any more quirky keybind issues
+- ???
