@@ -1,0 +1,15 @@
+= DONE = 
+- Readded Lootr
+- Readded Bed Benefits
+- Added Healing Campfire
+- Added No Hostiles Around Campfire
+- Added Simple Shops
+
+- Added Super Phantoms (via MPR), rare huge Phantoms that deal heavy damage and inflict nasty effects
+- Sluggers no longer gain an Adrenaline boost when burning - Use fire attacks to your advantage!
+- Made Supplementaries' Rope item accessible and renamed it to Fence Rope (and Farmers' to Climbing Rope)
+- Made a Golden Sand resource pack to make deserts more visally appealing: What do you think?
+- Made a Withered Heart resource pack to make the Wither effect's impact on the HUD minimal 
+- Made a Building Wands resource pack for consistency with other tools + Improved GUI
+- Added a Skeletal Phantoms texture resource pack by Riley
+- Added a Deeper Phantom Roars sound resource pack by Expaand
