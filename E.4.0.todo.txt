@@ -1,5 +1,6 @@
 = DONE = 
 
+- Piglins no longer Zombify in the overworld
 
 
 = TO DO =
