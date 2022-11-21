@@ -6,6 +6,7 @@
 - Added Simple Shops
 
 - Added Super Phantoms (via MPR), rare huge Phantoms that deal heavy damage and inflict nasty effects
+- Fixed Effective and Deepling mobs not spawning...?
 - Sluggers no longer gain an Adrenaline boost when burning - Use fire attacks to your advantage!
 - Made Supplementaries' Rope item accessible and renamed it to Fence Rope (and Farmers' to Climbing Rope)
 - Made a Golden Sand resource pack to make deserts more visally appealing: What do you think?
