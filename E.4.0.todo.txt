@@ -1,7 +1,7 @@
 = DONE = 
 
 - Piglins no longer Zombify in the overworld
-
+- Made the Better Magma resource pack
 
 = TO DO =
 - Add Stackr
@@ -9,3 +9,5 @@
   - make campfires stack up to 8
 - fix any more quirky keybind issues
 - ???
+
+- Look into Sully's Tweaks resource pack
