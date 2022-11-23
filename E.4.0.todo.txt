@@ -15,6 +15,7 @@
 
 - Add Find My Friends
 - Add Inclusive Enchanting
+- Add Mountables
 
 - fix any more quirky keybind issues
 - ???
