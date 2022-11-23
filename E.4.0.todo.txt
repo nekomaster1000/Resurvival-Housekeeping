@@ -2,6 +2,7 @@
 
 - Piglins no longer Zombify in the overworld
 - Made the Better Magma resource pack
+- Fixed Griefer-armoured mobs not spawning?
 
 = TO DO =
 - Add Stackr
