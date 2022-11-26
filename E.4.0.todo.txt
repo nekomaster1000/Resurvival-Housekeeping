@@ -1,5 +1,9 @@
 = DONE = 
 
+- Added Sully's Peeves resource pack
+- Added Simple XP Config (Thanks to the author for porting it to 1.18 for me!)
+- Added Find My Friends
+
 - Piglins no longer Zombify in the overworld
 - Made the Better Magma resource pack
 - Fixed Griefer-armoured mobs not spawning?
@@ -8,16 +12,6 @@
 - Add Simple XP Config
   - Make Lapis and Diamond give you a lot of XP from mining it
   - Make gold, iron, coal and silver give you a lil XP from mining it
-  
-- Add Stackr
-  - Make dust items stack x10
-  - make campfires stack up to 8
-
-- Add Find My Friends
-- Add Inclusive Enchanting
-- Add Mountables
 
 - fix any more quirky keybind issues
 - ???
-
-- Look into Sully's Tweaks resource pack
