@@ -1,0 +1,14 @@
+- Removed True Darkness (By popular demand)
+- Updated Enemy Expansion to 1.5 - Wasps, Zadybugs, and animations!
+- Added Sully's Peeves resource pack
+- Added Simple XP Config
+- Added Find My Friends
+- Added Warriors Rage
+- Added Goblins and Dungeons
+
+- Slay the Goblin King for 100XP!
+- All (vanilla) Overworld ores now drop XP upon being mined.
+- Piglins no longer Zombify in the overworld
+- Made the Better Magma resource pack
+- Fixed Griefer-armoured mobs not spawning?
+- Rebound a zoom button to not interfere with the volume keys
