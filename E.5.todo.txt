@@ -1,0 +1,7 @@
+=DONE =
+...
+
+= TO DO =
+- Make Goblins and Dungeons structures X4 rarer
+- Updated to newest Enemy Expansion build
+- Move to MPR4
