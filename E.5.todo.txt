@@ -1,7 +1,11 @@
 =DONE =
-...
+- Removed Not Enough Crashes
+- Updated to Mobs Properties Randomness 4.0
+- Added Pekhui
+- Added Apotheosis
+
+- Upped the rarity of Goblins and Dungeons structures
 
 = TO DO =
-- Make Goblins and Dungeons structures X4 rarer
-- Updated to newest Enemy Expansion build
-- Move to MPR4
+- fix enchantment crap with apotheosis
+- disable most apotheosis junk
