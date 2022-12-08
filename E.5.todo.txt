@@ -6,6 +6,13 @@
 
 - Upped the rarity of Goblins and Dungeons structures
 
+- Apotheosis Enchanting Config
+  - Soulbound can no longer be obtained through treasure loot or the enchanting table, only through a Soul Heart
+  - Disabled Ensorcellation's Leech enchantment for Mining Master's Leeching
+  - Cacti can grow to 64 blocks tall
+
 = TO DO =
 - fix enchantment crap with apotheosis
 - disable most apotheosis junk
+- test bigboy slugger
+- test mpr
