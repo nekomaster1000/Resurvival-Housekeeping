@@ -9,7 +9,10 @@
 - Apotheosis Enchanting Config
   - Soulbound can no longer be obtained through treasure loot or the enchanting table, only through a Soul Heart
   - Disabled Ensorcellation's Leech enchantment for Mining Master's Leeching
+  - Disabled Wall-Jump! and Grappling Hook Mod's double jump enchantments enchantment for Mining Master's Knight Jump
   - Cacti can grow to 64 blocks tall
+  
+- Fixed broken Senior quest
 
 = TO DO =
 - fix enchantment crap with apotheosis
