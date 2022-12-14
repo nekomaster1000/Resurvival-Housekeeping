@@ -1,10 +1,13 @@
 =DONE =
 - Removed Not Enough Crashes
-- Updated to Mobs Properties Randomness 4.0
-- Added Pekhui
+- Updated to Mobs Properties Randomness 4
+- Added Pehkui
 - Added Apotheosis
 
-- Upped the rarity of Goblins and Dungeons structures
+- MPR 4 now allows for datapack function and Pehkui integration and extensively:
+- Introducing Big Boys - Certain mobs will now spawn as titan-sized versions of themselves!
+- Super Phantoms - Leader Phantoms that will kill all other Phantoms upon their death.
+- Griefer Soldiers FINALLY spawn - Just had to delete and recreate the file for it to register?
 
 - Apotheosis Enchanting Config
   - Soulbound can no longer be obtained through treasure loot or the enchanting table, only through a Soul Heart
@@ -12,6 +15,7 @@
   - Disabled Wall-Jump! and Grappling Hook Mod's double jump enchantments enchantment for Mining Master's Knight Jump
   - Cacti can grow to 64 blocks tall
   
+- Upped the rarity of Goblins and Dungeons structures  
 - Fixed broken Senior quest
 
 = TO DO =
