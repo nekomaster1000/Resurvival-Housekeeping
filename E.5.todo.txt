@@ -1,5 +1,7 @@
 =DONE =
 - Removed Not Enough Crashes
+- Removed Goblins and Dungeons (Way too common structure gen :C)
+- Updated Enemy Expansion to 1.8
 - Updated to Mobs Properties Randomness 4
 - Added Pehkui
 - Added Apotheosis
@@ -8,6 +10,8 @@
 - Introducing Big Boys - Certain mobs will now spawn as titan-sized versions of themselves!
 - Super Phantoms - Leader Phantoms that will kill all other Phantoms upon their death.
 - Griefer Soldiers FINALLY spawn - Just had to delete and recreate the file for it to register?
+
+- Enemy Expansion adds Spectres, Cinders, Ghouls, Gallants, and Goblins to the enemy roster, plus a nice new Crown to wear past Netherite!
 
 - Apotheosis Enchanting Config
   - Soulbound can no longer be obtained through treasure loot or the enchanting table, only through a Soul Heart
@@ -18,5 +22,3 @@
 - Upped the rarity of Goblins and Dungeons structures  
 - Fixed broken Senior quest
 - Disabled Magnetic and Shielding Champion Affixes
-
-= TO DO =
