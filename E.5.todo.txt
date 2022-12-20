@@ -17,9 +17,6 @@
   
 - Upped the rarity of Goblins and Dungeons structures  
 - Fixed broken Senior quest
+- Disabled Magnetic and Shielding Champion Affixes
 
 = TO DO =
-- fix enchantment crap with apotheosis
-- disable most apotheosis junk
-- test bigboy slugger
-- test mpr
