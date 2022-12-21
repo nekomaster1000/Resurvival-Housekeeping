@@ -1,4 +1,3 @@
-=DONE =
 - Removed Not Enough Crashes
 - Removed Goblins and Dungeons (Way too common structure gen :C)
 - Updated Enemy Expansion to 1.8
