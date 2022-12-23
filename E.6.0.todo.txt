@@ -1,0 +1,5 @@
+= DONE =
+- Bumped Apotheosis' boss-spawning delay from 20 seconds to 18 minutes
+
+= TO DO =
+- Fix air malachite bow recipe
