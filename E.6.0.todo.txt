@@ -2,8 +2,8 @@
 - Bumped Apotheosis' boss-spawning delay from 20 seconds to 18 minutes
 - Fixed broken Air Malachite Bow recipe (I think)
 - Reduced Big Boys' spawnrate from 10% to 5%
-- Added Husk to Big Boys mobs
+- Added Husk/removed Gallants to/from Big Boy mobs
 - Fixed Piglins zombifying again
 
-
 = TO DO =
+- Make Intruders, Crawlers, Trolls, Silverkings bigger
