@@ -8,3 +8,4 @@
 = TO DO =
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
 - add more slimeheads, silverheads, phantasms, cinderhelms?
+- update ROP
