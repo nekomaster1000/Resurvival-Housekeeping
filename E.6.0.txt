@@ -22,13 +22,11 @@
 - Reduced Big Boys' spawnrate from 10% to 5%
 - Added Husk/removed Gallants to/from Big Boy mobs
 - Fixed Piglins zombifying again
+- Added Headbitten, Slimehead and Silverhead MPR mobs
 
 - Find My Friends distances now bound to R
 - Changed initial launch window size to be less awkward
 
 = TO DO =
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
-- add more slimeheads, silverheads, phantasms, cinderhelms
-- add neptunium-clad drowned
-- check the quests aren't messed up (they shouldn't be...)
-- update EE to 1.9.1
+- phantasms, cinderhelms
