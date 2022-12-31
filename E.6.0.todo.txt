@@ -3,7 +3,6 @@
 - Updated Retextures o' Plenty to 1.4
 - Updated Enemy Expansion to 1.9
 - Removed Unusual Fish Mod (Byebye Rippers!)
-- Removed Another Furniture Mod
 - Removed Bed Benefits
 - Removed Simple Hats
 - Removed Simple Shops
