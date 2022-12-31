@@ -30,3 +30,4 @@
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
 - add more slimeheads, silverheads, phantasms, cinderhelms
 - check the quests aren't messed up (they shouldn't be...)
+- update EE to 1.9.1
