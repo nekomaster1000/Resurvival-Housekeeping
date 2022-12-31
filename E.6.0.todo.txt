@@ -11,10 +11,12 @@
 - Removed Mystical Oak Tree
 - Removed Piglin Proliferation
 - Removed Default Options
+- Removed World Stripper
 - Removed Brooms
 - Added Legendary Tooltips
 
 - Disabled Aquaculture 2 Fish spawning
+- Removed Aquaculture's Fillet knives crafting recipes and JEI entries
 - Disabled several more enchantments
 - Bumped Apotheosis' boss-spawning delay from 20 seconds to 18 minutes
 - Fixed broken Air Malachite Bow recipe (I think)
@@ -23,8 +25,8 @@
 - Fixed Piglins zombifying again
 
 - Find My Friends distances now bound to R
+- Changed initial launch window size to be less awkward
 
 = TO DO =
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
-- add more slimeheads, silverheads, phantasms, cinderhelmss
-- disable aquaculture knives
+- add more slimeheads, silverheads, phantasms, cinderhelms
