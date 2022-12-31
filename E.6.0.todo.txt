@@ -9,3 +9,4 @@
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
 - add more slimeheads, silverheads, phantasms, cinderhelms?
 - update ROP
+- add a keybind for the find my friends nametags
