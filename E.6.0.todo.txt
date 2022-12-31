@@ -1,12 +1,29 @@
 = DONE =
+
+- Updated Retextures o' Plenty to 1.4
+- Updated Enemy Expansion to 1.9
+- Removed Unusual Fish Mod (Byebye Rippers!)
+- Removed Another Furniture Mod
+- Removed Bed Benefits
+- Removed Simple Hats
+- Removed Simple Shops
+- Removed Droplight
+- Removed Mystical Oak Tree
+- Removed Piglin Proliferation
+- Removed Default Options
+- Removed Brooms
+- Added Legendary Tooltips
+
+- Disabled Aquaculture 2 Fish spawning
+- Disabled several more enchantments
 - Bumped Apotheosis' boss-spawning delay from 20 seconds to 18 minutes
 - Fixed broken Air Malachite Bow recipe (I think)
 - Reduced Big Boys' spawnrate from 10% to 5%
 - Added Husk/removed Gallants to/from Big Boy mobs
 - Fixed Piglins zombifying again
 
+- Find My Friends distances now bound to R
+
 = TO DO =
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
-- add more slimeheads, silverheads, phantasms, cinderhelms?
-- update ROP
-- add a keybind for the find my friends nametags
+- add more slimeheads, silverheads, phantasms, cinderhelmss
