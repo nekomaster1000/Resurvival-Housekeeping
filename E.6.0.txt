@@ -26,7 +26,3 @@
 
 - Find My Friends distances now bound to R
 - Changed initial launch window size to be less awkward
-
-= TO DO =
-- Make Intruders, Crawlers, Trolls, Silverkings bigger
-- phantasms, cinderhelms
