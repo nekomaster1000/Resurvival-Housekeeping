@@ -29,3 +29,4 @@
 = TO DO =
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
 - add more slimeheads, silverheads, phantasms, cinderhelms
+- check the quests aren't messed up (they shouldn't be...)
