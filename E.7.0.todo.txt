@@ -3,4 +3,4 @@
 - disable certain enemy expansion gamerules with global gamerules
 - Make Intruders, Crawlers, Trolls, Silverkings bigger
 - phantasms, cinderhelms
-- test for neptunium drowned
+- remove aquaculture, aquaculture knife script, and aquaculture drowned mpr data entry
