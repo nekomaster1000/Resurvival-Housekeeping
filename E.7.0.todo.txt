@@ -1,0 +1,6 @@
+= TO DO =
+- update to ee 1.9.2
+- disable certain enemy expansion gamerules with global gamerules
+- Make Intruders, Crawlers, Trolls, Silverkings bigger
+- phantasms, cinderhelms
+- test for neptunium drowned
