@@ -1,8 +1,13 @@
-= TO DO =
-- update to ee 1.9.2
-- disable certain enemy expansion gamerules with global gamerules
-- Make Intruders, Crawlers, Trolls, Silverkings bigger
-- add phantasm humanoids and cinderhelm piglins
+= DONE =
+- Updated to Enemy Expansion 1.9.2
+- Added Curious Quark Oddities Backpack
+- Removed BlockSwapper (Will add back come it's 2.0 release)
+- Removed Aquaculture 2
 
+= TO DO =
+- disable certain enemy expansion gamerules with global gamerules
+- Make Intruders, Crawlers, Trolls, Silverkings bigger via MPR
+- add phantasm humanoids and cinderhelm piglins via MPR
 - remove aquaculture, aquaculture knife script, and aquaculture drowned mpr data entry
-- add curios-quark-oddities-backpack
+- Remove Blockswapper Quest
+- Fix Senior Quest
