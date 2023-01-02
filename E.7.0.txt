@@ -16,6 +16,7 @@
 - Lowered Phallanx's max level from 10 to 1, now only discoverable via villager trading
 - Lowered Diamond/Netherite soldiers spawn rate from 5% to 3%
 - Drowned can now be soldiers
+- Added Phantasm Soldiers
 
 - Neapolitan Ice Cubes are now auto-deleted upon drop (Why can't they just be turned off? :sob:)
 - Added a '* for Quests' text to the survival inventory GUI to make clearer that quests are accessible
