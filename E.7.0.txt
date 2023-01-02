@@ -3,14 +3,15 @@
 - Added Curious Quark Oddities Backpack
 - Added Global GameRules
 - Removed BlockSwapper (Will add back come it's 2.0 release)
-- Removed Aquaculture 2
+- Removed Aquaculture 2 due to nobody using Neptunium
+- Removed Unstructured due to the absolutely insanely unbalanced loot :(
 
 - Trolls and Petrimen can now spawn above the Deepslate layer
 - Petrimen do not replace Zombies in caves
 - Added Vampire Slayer and Troll Hunter quests
 - Added custom names to all mob-slaying quests
 
-- Changed required experience to level up from 50 to 150
+- Changed required experience to level up from 50 to 200
 - Moved Soul Heart drop to Tier 3 Champions
 - Notably lowered Apotheosis loottable affixes
 - Lowered Phallanx's max level from 10 to 1, now only discoverable via villager trading
