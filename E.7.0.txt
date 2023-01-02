@@ -11,7 +11,7 @@
 - Added custom names to all mob-slaying quests
 
 - Changed required experience to level up from 50 to 150
-- Fixed champion loot tables, moved Soul Heart drop to Tier 3 Champions
+- Moved Soul Heart drop to Tier 3 Champions
 - Notably lowered Apotheosis loottable affixes
 - Lowered Phallanx's max level from 10 to 1, now only discoverable via villager trading
 - Lowered Diamond/Netherite soldiers spawn rate from 5% to 3%
