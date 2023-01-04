@@ -1,5 +1,4 @@
-= DONE =
-- Updated to Enemy Expansion 1.9.2
+- Updated to Enemy Expansion 1.9.3
 - Added Curious Quark Oddities Backpack
 - Added Global GameRules
 - Removed BlockSwapper (Will add back come it's 2.0 release)
@@ -22,6 +21,3 @@
 - Neapolitan Ice Cubes are now auto-deleted upon drop (Why can't they just be turned off? :sob:)
 - Added a '* for Quests' text to the survival inventory GUI to make clearer that quests are accessible
 - Shaders are now disabled by default
-
-= TO DO =
-- Update and add EE 1.9.3
