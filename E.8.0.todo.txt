@@ -4,3 +4,4 @@
 = TO DO =
 - Add Aesthetic Enchanting Table to disable the enchanting table (When it's out)
 - Figure out something cool to do with levels in mcreator idk ;;
+  - Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
