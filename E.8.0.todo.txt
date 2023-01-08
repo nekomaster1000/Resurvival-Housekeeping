@@ -2,5 +2,5 @@
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia
 
 = TO DO =
-- Add Aesthetic Enchanting Table (When it's out)
+- Add Aesthetic Enchanting Table to disable the enchanting table (When it's out)
 - Figure out something cool to do with levels in mcreator idk ;;
