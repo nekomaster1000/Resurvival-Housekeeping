@@ -4,6 +4,8 @@
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia
 
 = TO DO =
+- Remove the enchanting table GUI with a resource pack
+
 - Figure out something cool to do with levels in mcreator idk ;;
   - Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
 
