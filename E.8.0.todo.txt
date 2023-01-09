@@ -3,10 +3,23 @@
 - Removed Enhanced Celestials, since nobody liked the Blood Moon events
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia
 
+- Patchouli won't work with me, so I'm adding in-game documentation via a new Quest category! 
+- The Quest Book is now given to players upon first joining a world, but can be accessed anytime with *
+- Info included:
+Controls
+- Zooming
+- Wall-Jumping
+- Carrying
+- Crawling
+- Auto-Walking
+Info
+- Iron Generation
+- Enchanting
+- Diet
+- Weaponry
+- Mobs
+
 = TO DO =
 - Remove the enchanting table GUI with a resource pack
-
 - Figure out something cool to do with levels in mcreator idk ;;
   - Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
-
-- ADD PATCHOULI DOCUMENTATION IN-GAME
