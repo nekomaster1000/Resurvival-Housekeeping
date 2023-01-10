@@ -31,7 +31,8 @@ Info
   
   (to do: 
 add info on the end portal and new ender eyes
-add info on apotheotic affixes, bosses and affix customization)
+add info on apotheotic affixes, bosses and affix customization
+add info on the utility of climbing rope and grappling hooks)
 
 - Greatly increased the cost to travel with Waystones
 - Waystones can now only be renamed by their owner
