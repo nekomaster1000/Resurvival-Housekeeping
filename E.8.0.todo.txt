@@ -34,9 +34,11 @@ Info
 - Greatly increased the cost to travel with Waystones
 - Waystones can now only be renamed by their owner
 - Villages will now almost always generate with a Waystone, while randomly-generated Waystones will be a lot rarer
+
 - Placed my Golden Sands RP above Sully's Tweaks, fixing Sandstone's side texture looking pale
+- Removed the enchanting table GUI with a resource pack
+
 
 = TO DO =
-- Remove the enchanting table GUI with a resource pack
 - Figure out something cool to do with levels in mcreator idk ;;
   - Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
