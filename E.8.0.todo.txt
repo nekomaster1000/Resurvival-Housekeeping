@@ -2,8 +2,9 @@
 - Added Aesthetic Enchanting Table, disabling the Enchanting Table in Resurvival - Enchanting Gems and enchanted loot now rule the world
 - Removed Enhanced Celestials, since barely anybody who played on the server liked the Blood Moon events
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia (Waystones will now be the focus of XP-gathering)
-
 - Updated Shield Expansion, adding Griefer Shields and compat with all other shields in the pack!
+
+- Added Apathy, turning Easy mode into a meaningfully accessible, enjoyable experience - All hostiles are now neutral!
 
 - Added YMD's Custom Camera View (Only works in third person, but is great for taking screenshots or machinimas)
   - Arrow keys to move the camera position
