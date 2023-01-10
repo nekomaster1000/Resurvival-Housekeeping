@@ -29,7 +29,9 @@ Info
   - Mobs
   - Shields
   
-  (to do: add info on the end portal and new ender eyes)
+  (to do: 
+add info on the end portal and new ender eyes
+add info on apotheotic affixes, bosses and affix customization)
 
 - Greatly increased the cost to travel with Waystones
 - Waystones can now only be renamed by their owner
