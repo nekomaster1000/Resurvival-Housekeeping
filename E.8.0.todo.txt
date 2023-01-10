@@ -1,8 +1,6 @@
 = DONE =
 - Added Aesthetic Enchanting Table, disabling the Enchanting Table in Resurvival - Enchanting Gems and enchanted loot now rule the world
-
 - Removed Enhanced Celestials, since barely anybody who played on the server liked the Blood Moon events
-
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia (Waystones will now be the focus of XP-gathering)
 
 - Updated Shield Expansion, adding Griefer Shields and compat with all other shields in the pack!
@@ -20,6 +18,7 @@ Controls
   - Crawling
   - Auto-Walking
   - Dodge-Rolling
+  - Climbing Rope
   - Waystones
 Info
   - Iron Generation
@@ -28,18 +27,15 @@ Info
   - Weaponry
   - Mobs
   - Shields
+  - Affixes
+  - Eyes of Ender
   
-  (to do: 
-add info on the end portal and new ender eyes
-add info on apotheotic affixes, bosses and affix customization
-add info on the utility of climbing rope and grappling hooks)
-
-- Greatly increased the cost to travel with Waystones
+- Increased the cost to travel with Waystones
 - Waystones can now only be renamed by their owner
 - Villages will now almost always generate with a Waystone, while randomly-generated Waystones will be a lot rarer
 
 - Placed my Golden Sands RP above Sully's Tweaks, fixing Sandstone's side texture looking pale
-- Removed the enchanting table GUI with a resource pack
+- Removed the enchanting table GUIs with a resource pack
 
 
 = TO DO =
