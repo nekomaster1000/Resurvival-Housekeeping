@@ -1,23 +1,40 @@
 = DONE =
-- Added Aesthetic Enchanting Table, disabling Enchanting in Resurvival
-- Removed Enhanced Celestials, since nobody liked the Blood Moon events
-- Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia
+- Added Aesthetic Enchanting Table, disabling the Enchanting Table in Resurvival - Enchanting Gems and enchanted loot now rule the world
+
+- Removed Enhanced Celestials, since barely anybody who played on the server liked the Blood Moon events
+
+- Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia (Waystones will now be the focus of XP-gathering)
+
+- Updated Shield Expansion, adding Griefer Shields and compat with all other shields in the pack!
+
+- Added YMD's Custom Camera View (Only works in third person, but is great for taking screenshots or machinimas)
+  - Arrow keys to move the camera position
+  - F6 and F7 to zoom in and out respectively
 
 - Patchouli won't work with me, so I'm adding in-game documentation via a new Quest category! 
-- The Quest Book is now given to players upon first joining a world, but can be accessed anytime with *
-- Info included:
+- The Quest Book is now given to players upon first joining a world, but can be accessed anytime with the * key. Info included:
 Controls
-- Zooming
-- Wall-Jumping
-- Carrying
-- Crawling
-- Auto-Walking
+  - Zooming
+  - Wall-Jumping
+  - Carrying
+  - Crawling
+  - Auto-Walking
+  - Dodge-Rolling
+  - Waystones
 Info
-- Iron Generation
-- Enchanting
-- Diet
-- Weaponry
-- Mobs
+  - Iron Generation
+  - Enchanting
+  - Diet
+  - Weaponry
+  - Mobs
+  - Shields
+  
+  (to do: add info on the end portal and new ender eyes)
+
+- Greatly increased the cost to travel with Waystones
+- Waystones can now only be renamed by their owner
+- Villages will now almost always generate with a Waystone, while randomly-generated Waystones will be a lot rarer
+- Placed my Golden Sands RP above Sully's Tweaks, fixing Sandstone's side texture looking pale
 
 = TO DO =
 - Remove the enchanting table GUI with a resource pack
