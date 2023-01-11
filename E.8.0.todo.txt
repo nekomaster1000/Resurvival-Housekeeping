@@ -40,5 +40,6 @@ Info
 
 
 = TO DO =
-- Figure out something cool to do with levels in mcreator idk ;;
-  - Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
+- resource pack minecraft's 'easy mode' to 'casual mode'
+- tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
+- Figure out something cool to do with levels in mcreator idk ;; Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
