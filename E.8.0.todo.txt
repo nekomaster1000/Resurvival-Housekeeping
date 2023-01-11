@@ -40,6 +40,12 @@ Info
 
 
 = TO DO =
+- mention champion drops in the mobs section, or make a new checkmark
+'some mobs will soawn as Champions. they have increased health, sparkling particles eminating off of them, and one or more special attributes that make them harder to kill. upon death, they have a chance of dropping a variety of different loot items, including Enchanting gems. try and take a champion down whenever you get the chance!
+- add Info checkmark for Casual Mode 
+'The Apathy mod makes almost all hostile mobs in 'easy mode' neutral, meaning they must first be provoked via attack to make them aggressive. This gives the mode a more relaxed tone, allowing you to fight at your own pace. For this reason, it has been renamed to 'casual mode'. If it will allow you to enjoy the pack more, please enable it!
+- add info checkmark for third person mode
+'Better Third Person allows for freeform camera movement while in third person. in conjunction with YMD's custom camera view, you can use tje arrow and F6/7 keys to adjust the vew precisely to your liking. even if you werent to use this in regular gameplay, if nothing wlse, its be great for taking screenshots!'
 - resource pack minecraft's 'easy mode' to 'casual mode'
 - tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
 - Figure out something cool to do with levels in mcreator idk ;; Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
