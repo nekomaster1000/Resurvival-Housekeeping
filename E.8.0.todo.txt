@@ -4,7 +4,7 @@
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia (Waystones will now be the focus of XP-gathering)
 - Updated Shield Expansion, adding Griefer Shields and compat with all other shields in the pack!
 
-- Added Apathy, turning Easy mode into a meaningfully accessible, enjoyable experience - All hostiles are now neutral!
+- Added Apathy, turning Easy mode into a meaningfully accessible, enjoyable experience as Casual Mode - All hostiles are now neutral!
 
 - Added YMD's Custom Camera View (Only works in third person, but is great for taking screenshots or machinimas)
   - Arrow keys to move the camera position
@@ -20,6 +20,8 @@ Controls
   - Auto-Walking
   - Dodge-Rolling
   - Climbing Rope
+  - Casual Mode
+  - Third Person
   - Waystones
 Info
   - Iron Generation
@@ -27,6 +29,7 @@ Info
   - Diet
   - Weaponry
   - Mobs
+  - Champions
   - Shields
   - Affixes
   - Eyes of Ender
@@ -35,17 +38,10 @@ Info
 - Waystones can now only be renamed by their owner
 - Villages will now almost always generate with a Waystone, while randomly-generated Waystones will be a lot rarer
 
-- Placed my Golden Sands RP above Sully's Tweaks, fixing Sandstone's side texture looking pale
+- Fixed Sandstone's side texture looking pale compared to the top
 - Removed the enchanting table GUIs with a resource pack
-
+- Merged all my resource packs into two larger, condensed packs
 
 = TO DO =
-- mention champion drops in the mobs section, or make a new checkmark
-'some mobs will soawn as Champions. they have increased health, sparkling particles eminating off of them, and one or more special attributes that make them harder to kill. upon death, they have a chance of dropping a variety of different loot items, including Enchanting gems. try and take a champion down whenever you get the chance!
-- add Info checkmark for Casual Mode 
-'The Apathy mod makes almost all hostile mobs in 'easy mode' neutral, meaning they must first be provoked via attack to make them aggressive. This gives the mode a more relaxed tone, allowing you to fight at your own pace. For this reason, it has been renamed to 'casual mode'. If it will allow you to enjoy the pack more, please enable it!
-- add info checkmark for third person mode
-'Better Third Person allows for freeform camera movement while in third person. in conjunction with YMD's custom camera view, you can use tje arrow and F6/7 keys to adjust the vew precisely to your liking. even if you werent to use this in regular gameplay, if nothing wlse, its be great for taking screenshots!'
-- resource pack minecraft's 'easy mode' to 'casual mode'
 - tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
 - Figure out something cool to do with levels in mcreator idk ;; Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
