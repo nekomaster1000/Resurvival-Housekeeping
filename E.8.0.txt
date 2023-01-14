@@ -1,4 +1,3 @@
-= DONE =
 - Added Aesthetic Enchanting Table, disabling the Enchanting Table in Resurvival - Enchanting Gems and enchanted loot now rule the world
 - Removed Enhanced Celestials, since barely anybody who played on the server liked the Blood Moon events
 - Disabled Allurement's experimental linear level scaling due to insane power-creep in ReSomalia (Waystones will now be the focus of XP-gathering)
@@ -41,8 +40,4 @@ Info
 - Fixed Sandstone's side texture looking pale compared to the top
 - Removed the enchanting table GUIs with a resource pack
 - Merged all my resource packs into two larger, condensed packs
-
-= TO DO =
-- tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
-- clean up MPR schema
-- Figure out something cool to do with levels in mcreator idk ;; Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
+- Added Trollface and Spiderlatched MPR enemies
