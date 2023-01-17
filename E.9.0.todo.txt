@@ -2,15 +2,12 @@
 - Added Bad Mobs
 
 - Enabled Roll-Jumping and Mid-Air Rolling - Combined with Knight Jump, players can effectively fly now when at full power
+- Added info on Hotbar Switcher and Campfires in the How to Play quest, and mentioned Sitting on the Crawling checkmark
 - Disabled Witch spawning >:( They suck and are unfun to fight!
+- Fixed Gapples still being craftable in a Crafting Table - They're now Gem Forge exclusive
 
 = TO DO =
 - remove architectury mods to avoid an invalid player data lock-out RAAA
-
-- add tutorial queat info on the benefits of campfires (burns hostikes when placed, no mob spawning, regenerative properties)
-- Mention Sitting
-
-- make gapple inaccessible in crafting table
 
 - tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
 - clean up MPR schema
