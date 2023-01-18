@@ -7,8 +7,4 @@
 - Fixed Gapples still being craftable in a Crafting Table - They're now Gem Forge exclusive
 
 = TO DO =
-- remove architectury mods to avoid an invalid player data lock-out RAAA
-
-- tweak MPR setups so only meated mobs have incrases base stats, feels too random as it is now
-- clean up MPR schema
-- Figure out something cool to do with levels in mcreator idk ;; Maybe give AET a 'prayer' functionality that randomly enchants a tool, at the cost of 30 whole levels and no garuntee of a good enchantment...?
+- update to aesthetic enchanting table 1.2 and enable the enchantingtablexplodes gamerule (fuck you icy)
