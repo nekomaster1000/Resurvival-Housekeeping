@@ -8,4 +8,4 @@
 - Enchanting Tables now explode when right-clicked (Heeey Icy)
 
 = TO DO =
-?
+- rerduce skelewag spawning
