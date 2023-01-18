@@ -5,6 +5,7 @@
 - Added info on Hotbar Switcher and Campfires in the How to Play quest, and mentioned Sitting on the Crawling checkmark
 - Disabled Witch spawning >:( They suck and are unfun to fight!
 - Fixed Gapples still being craftable in a Crafting Table - They're now Gem Forge exclusive
+- Enchanting Tables now explode when right-clicked (Heeey Icy)
 
 = TO DO =
-- update to aesthetic enchanting table 1.2 and enable the enchantingtablexplodes gamerule (fuck you icy)
+?
