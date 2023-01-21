@@ -9,3 +9,6 @@
 
 = TO DO =
 - rerduce skelewag spawning
+- Add JEMs
+- Add Neko's Zombie Friends JEMs pack
+- Remove Zombie Friends
