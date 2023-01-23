@@ -1,11 +1,13 @@
 = DONE =
 - Remove Zombie Friends
 - Added Bad Mobs
-- Added JEMS
-- Added new JEMS-based resource packs
+- Added JEMs
+- Added custom JEMs resource packs
+- Added Creatures and Beasts
 
 - Enabled Roll-Jumping and Mid-Air Rolling - Combined with Knight Jump, players can effectively fly now when at full power
 - Added info on Hotbar Switcher and Campfires in the How to Play quest, and mentioned Sitting on the Crawling checkmark
+- Added Yeti-slaying quest
 - Disabled Witch spawning >:( They suck and are unfun to fight!
 - Disabled Griefer soldiers until JEMs adds compat with them
 - Fixed Gapples still being craftable in a Crafting Table - They're now Gem Forge exclusive
