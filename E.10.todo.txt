@@ -19,5 +19,8 @@
 
 = TO DO =
   
-- Add Autumnity(?) and Upgrade Aquatic
+- Add and test Autumnity(?) and Upgrade Aquatic
 - add danni's animal jems pack
+- update neko's zombie pals
+- update enemy expansion
+- prayer function?
