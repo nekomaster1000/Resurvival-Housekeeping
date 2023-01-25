@@ -24,3 +24,4 @@
 - update neko's zombie pals
 - update enemy expansion
 - prayer function?
+- look into Forgery
