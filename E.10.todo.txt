@@ -1,10 +1,23 @@
 = DONE =
-- MPR
+- Added When Dungeons Arise and rebalanced some structures:
+  - Recoloured Undead Pirate Ship Skeletons' armour to golden, from red
+  - Modified Illager Fort loot table
+  - Modified Ceryneian Hind loot table
+  - Disabled the Infested Temple (Very easy to cheese)
+ - Concerns: Mushroom Mines have way too many mobs... What do?
+
+- MPR Changes:
   - Merged 'footsoldiers', 'strongestsoldiers' and 'modsoldiers' into 'soldiers' 
   - Renamed 'meated' mobs to 'latched', since they're mobs who have had a mob latch onto their head
   - Renamed 'bigcaveguys' mobs to 'pillars', since they're big like cave pillars
   - Soldiers now have a chance of holding a tool and shield when spawning
   - Soldiers now always spawn with boots and leggings, but not a garunteed chestplate and helmet
+  - Added Copper Soldiers
   - Added Sentries: Non-humanoid Soldiers
   - Removed Big Boys: Pillars are enough
   - Only Humanoids can now be Deepling or Effective
+
+= TO DO =
+  
+- Add Autumnity(?) and Upgrade Aquatic
+- add danni's animal jems pack
