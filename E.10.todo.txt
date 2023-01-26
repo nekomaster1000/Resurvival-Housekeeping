@@ -22,6 +22,6 @@
 - Add and test Autumnity(?) and Upgrade Aquatic
 - add danni's animal jems pack
 - update neko's zombie pals
-- update enemy expansion
+- update to enemy expansion 1.10 and add spectral soldiers
 - prayer function?
 - look into Forgery
