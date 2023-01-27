@@ -19,9 +19,19 @@
 
 = TO DO =
   
-- Add and test Autumnity(?) and Upgrade Aquatic
 - add danni's animal jems pack
 - update neko's zombie pals
+
 - update to enemy expansion 1.10 and add spectral soldiers
-- prayer function?
+
+- Add and test Autumnity(?) and Upgrade Aquatic
 - look into Forgery
+
+- consider a new bed recipe, and making beds break after one use via mcreator, and make them only obtainable with silk touch if possible?
+  - glowsilk bed maybe?
+  - maybe sleeping gives you slowness for a time?
+- remove ancient debris ore soawning, instead making them bastion exclusive 
+
+- prayer function for the enchanting tabke...?
+- breacher creeper thats just a creeper but faster, but always has the breacher ai from EnhancedAI?
+
