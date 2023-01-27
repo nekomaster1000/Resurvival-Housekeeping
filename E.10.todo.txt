@@ -1,4 +1,8 @@
 = DONE =
+- Added Upgrade Aquatic
+- Removed Fixed Anvil Repair Cost (because of a Forgery config value)
+- Added Dani's Livestock Revamp (JEMs) resource pack and modified it slightly
+
 - Added When Dungeons Arise and rebalanced some structures:
   - Recoloured Undead Pirate Ship Skeletons' armour to golden, from red
   - Modified Illager Fort loot table
@@ -13,25 +17,37 @@
   - Soldiers now have a chance of holding a tool and shield when spawning
   - Soldiers now always spawn with boots and leggings, but not a garunteed chestplate and helmet
   - Added Copper Soldiers
+  - Added Spectral Soldiers
   - Added Sentries: Non-humanoid Soldiers
   - Removed Big Boys: Pillars are enough
   - Only Humanoids can now be Deepling or Effective
-
-= TO DO =
   
-- add danni's animal jems pack
-- update neko's zombie pals
+- Couldn't re-add Aquamirae due to horrific lag seemingly caused by it :(
 
-- update to enemy expansion 1.10 and add spectral soldiers
-
-- Add and test Autumnity(?) and Upgrade Aquatic
-- look into Forgery
-
-- consider a new bed recipe, and making beds break after one use via mcreator, and make them only obtainable with silk touch if possible?
-  - glowsilk bed maybe?
-  - maybe sleeping gives you slowness for a time?
-- remove ancient debris ore soawning, instead making them bastion exclusive 
-
-- prayer function for the enchanting tabke...?
-- breacher creeper thats just a creeper but faster, but always has the breacher ai from EnhancedAI?
-
+Added Forgery, and changed:
+- Creepers can no longer climb ladders, because they don't have arms
+- TNT is now rebranded to Dynamite
+- Explosions now have more particles
+- Armour now loses protective value the more damaged it is
+- Enabled Void Fog and it's particles
+- Enchanting Tables now eat the number of levels required for an enchant (might be used later...?)
+- Sheep drop their wool when punched
+- Blaze Powder now grows Nether Wart
+- Creeper explosions will detonate other Creepers
+- Creepers ignite when burnt
+- Anvils don't become too expensive anymore, and can be repaired with Iron Blocks
+- Renaming items on an anvil only ever costs one level
+- Furnace Minecrafts are a lot faster
+- Tridents can now be enchanted with Power and Sharpness
+- Ender Dragons now always drop a Dragon Egg when killed, and always drop the same amount of XP on death
+- Mobs will now remain 'wet' for 5 seconds after being submerged in water, preventing immediate burning
+- Tools with Fire Aspect can now right-click to set things on fire, like flint and steel.
+- Protection can now be applied to any item
+- Shift+Right clicking a saddled mob will remove the saddle from it, putting it back in your inventory
+- Campfires are now placed unlit, and need to be ignited to be utilised.
+- Banners now display properly on Vanilla shields
+- The fire overlay height when burning has been reduced
+- The Nether no longer generates 1 block lava pockets
+- Farmland can no longer be trampled
+- Mobs no longer pause in place when attempting to melee attack
+- ... And more! Good lord.
