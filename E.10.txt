@@ -1,7 +1,3 @@
-= TO DO =
-- add thrasher quest
-- rename quests with missing names
-
 = DONE =
 - Added Upgrade Aquatic
 - Removed Fixed Anvil Repair Cost (because of a Forgery config value)
@@ -26,8 +22,6 @@
   - Removed Big Boys: Pillars are enough
   - Only Humanoids can now be Deepling or Effective
   
-- Couldn't re-add Aquamirae due to horrific lag seemingly caused by it :(
-
 Added Forgery, and changed:
 - Creepers can no longer climb ladders, because they don't have arms
 - TNT is now rebranded to Dynamite
@@ -55,3 +49,6 @@ Added Forgery, and changed:
 - Farmland can no longer be trampled
 - Mobs no longer pause in place when attempting to melee attack
 - ... And more! Good lord.
+
+- Couldn't re-add Aquamirae due to horrific lag seemingly caused by it :(
+- Added Thrasher and Goblin Caster quests
