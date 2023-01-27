@@ -1,3 +1,7 @@
+= TO DO =
+- add thrasher quest
+- rename quests with missing names
+
 = DONE =
 - Added Upgrade Aquatic
 - Removed Fixed Anvil Repair Cost (because of a Forgery config value)
