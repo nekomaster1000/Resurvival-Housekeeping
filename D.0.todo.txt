@@ -1,0 +1,6 @@
+= TO DO = 
+- Add Atmospheric
+
+- update neko's zombie pals
+
+- Fix Casual Mode oversight of mobs in dungeons still being passive :(
