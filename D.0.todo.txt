@@ -3,6 +3,10 @@
 - Fix Casual Mode oversight of mobs in dungeons still being passive :(
 
 = DONE =
+- Removed Galosphere
+- Added Wooden Elytra
+- Added a modified version of Caloumi's Floating Islands datapack
+
 - Added Atmospheric
 - Added The Conjurer
 
