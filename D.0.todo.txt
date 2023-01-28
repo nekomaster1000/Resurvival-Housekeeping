@@ -4,13 +4,16 @@
 
 = DONE =
 - Removed Galosphere
+- Removed Upgrade Aquatic
+- Removed YUNG's Better Ocean Monuments
+- Removed The Wild Backport
+- Removed Jump Boat
 - Added Wooden Elytra
-- Added a modified version of Caloumi's Floating Islands datapack
+- Added a modified version of Caloumi's ??? datapack
 
 - Added Atmospheric
 - Added The Conjurer
 
-- Elder Guardian Spikes are now dropped 9 at a time, used to craft Thrasher Teeth - There is also now only one crafting recipe for the Trident
 - Enchanting Gems are now rewarded for completing monster slaying quests
 - Added quests for the Trident (which gives effects upon being obtained) and the Conjurer
 - Changed certain quest icons' shapes
