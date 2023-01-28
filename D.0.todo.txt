@@ -7,10 +7,10 @@
 - Removed Upgrade Aquatic
 - Removed YUNG's Better Ocean Monuments
 - Removed The Wild Backport
+- Removed Prelaw's Tremors
 - Removed Jump Boat
+- Added a modified version of Caloumi's Floating Islands datapack
 - Added Wooden Elytra
-- Added a modified version of Caloumi's ??? datapack
-
 - Added Atmospheric
 - Added The Conjurer
 
