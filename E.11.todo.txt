@@ -6,4 +6,7 @@
 - Added Atmospheric
 - Added The Conjurer
 
-- Added Enchanting Gem rewards to the monster slaying quests
+- Elder Guardian Spikes are now dropped 9 at a time, used to craft Thrasher Teeth - There is also now only one crafting recipe for the Trident
+- Enchanting Gems are now rewarded for completing monster slaying quests
+- Added quests for the Trident (which gives effects upon being obtained) and the Conjurer
+- Changed certain quest icons' shapes
