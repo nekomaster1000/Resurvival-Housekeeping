@@ -1,5 +1,7 @@
 = TO DO =
 building wand info quest
+test nether islands mod
+add void to nether
 
 = DONE =
 - Removed Galosphere
