@@ -1,6 +1,7 @@
 = TO DO =
 - Update neko's zombie pals
 - Fix Casual Mode oversight of mobs in dungeons still being passive :(
+- maybe make an info page on building wands? idk
 
 = DONE =
 - Removed Galosphere
