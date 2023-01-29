@@ -2,6 +2,7 @@
 building wand info quest
 test nether islands mod
 add void to nether
+- maybe add no nether portals? will have to explain that one in-game if so
 
 = DONE =
 - Removed Galosphere
