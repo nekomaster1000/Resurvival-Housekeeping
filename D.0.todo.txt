@@ -1,7 +1,7 @@
 = TO DO =
 building wand info quest
 test nether islands mod
-add void to nether
+add and test void to nether
 - maybe add no nether portals? will have to explain that one in-game if so
 
 = DONE =
@@ -15,9 +15,11 @@ add void to nether
 - Added Atmospheric
 - Added The Conjurer
 - Updated Neko's Zombie Pals, now including Husks
+
 - Added a modified version of Caloumi's Floating Islands datapack
 - Added Wooden Elytra
 - Added Cloud Storage
+- Added Nether Islands
 
 - Enchanting Gems are now rewarded for completing monster slaying quests
 - Added quests for the Trident (which gives effects upon being obtained) and the Conjurer
