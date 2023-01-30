@@ -1,8 +1,5 @@
 = TO DO =
-building wand info quest
-test nether islands mod
-add and test void to nether
-
+...?
 = DONE =
 - Removed Galosphere
 - Removed Upgrade Aquatic
@@ -16,6 +13,7 @@ add and test void to nether
 - Updated Neko's Zombie Pals, now including Husks
 
 - Added a modified version of Caloumi's Floating Islands datapack
+- Added Displaced theme by Expaand
 - Added Wooden Elytra
 - Added Cloud Storage
 - Added Nether Islands
@@ -28,3 +26,4 @@ add and test void to nether
 - Added Skybirds, giant birds
 - Made the sun bigger via Celestial Config
 - Re-enabled Petrimen not spawning above ground
+- Added Building Wands quest point, and info on Cloud Storage and the Void to Nether method in the tutorial quest category
