@@ -1,5 +1,4 @@
 = TO DO =
-...?
 = DONE =
 - Removed Galosphere
 - Removed Upgrade Aquatic
@@ -8,21 +7,16 @@
 - Removed Prelaw's Tremors
 - Removed Jump Boat
 - Removed Apathy
-- Added Atmospheric
-- Added The Conjurer
 - Updated Neko's Zombie Pals, now including Husks
-
 - Added a modified version of Caloumi's Floating Islands datapack
 - Added Displaced theme by Expaand
 - Added Wooden Elytra
 - Added Cloud Storage
 - Added Nether Islands
 - Added Void to Nether
+- Added Fog Looks Good Now
 
-- Enchanting Gems are now rewarded for completing monster slaying quests
-- Added quests for the Trident (which gives effects upon being obtained) and the Conjurer
-- Changed certain quest icons' shapes
-
+- Campfires now place lit again
 - Added Skybirds, giant birds
 - Made the sun bigger via Celestial Config
 - Re-enabled Petrimen not spawning above ground
