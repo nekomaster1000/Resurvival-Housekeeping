@@ -15,6 +15,7 @@
 - Added Nether Islands
 - Added Void to Nether
 - Added Fog Looks Good Now
+- Added Narukami's Naturalist Butterflies
 
 - Campfires now place lit again
 - Added Skybirds, giant birds
