@@ -1,0 +1,183 @@
+# Welcome to Resurvival!
+
+Here, I'll run through the basics to teach you how to play!
+
+While you can use the guide-book, you can also press the * key to access the quest log anytime. Be sure to try and complete as many as you can, as they'll naturally guide you through the pack and all it has to offer!
+
+
+## Controls
+
+
+### Zooming
+
+Hold V to zoom your vision in, as if you were using a pair of binoculars!
+
+Useful for scouting and planning ahead.
+
+
+### Wall-Jumping
+
+When brushed up against a wall from either jumping or falling, hold SHIFT to latch onto it!
+
+Once you're holding onto it, after a moment, you'll start sliding down it. Before you slide back to the ground, jump while latched to perform a wall-jump!
+
+You cannot jump from the same wall repeatedly, so use the wall-jump most effectively between narrow vertical shafts, like small cliffsides or ravines, to make the most of it!
+
+It is also supremely useful in making jumps across gaps that would otherwise be impossible, or scaling jagged hills or even fenceposts and trees!
+
+
+### Carrying
+
+By crouching and right-clicking when nearby a non-aggressive mob, you can pick them up and carry them! This goes for some tile entities like Chests, too.
+
+Supremely useful for moving mobs and inventory about!
+
+
+### Crawling
+
+Press and hold C to crawl on the ground!
+
+Useful for crawling through 1 block gaps and tunnels, which in turn can be useful while mining and escaping dangerous situations!
+
+Similarly, but less useful, press X to sit. It's cute!
+
+
+### Auto-Walk
+
+Press CAPS LOCK to walk forward automatically!
+
+Saves your hands the strain when you're headed in one direction for a while.
+
+
+### Dodge-Rolling
+
+By pressing LEFT CTRL, you now perform a dodge-roll instead of sprinting!
+
+Use this when fighting mobs that require snap-movements to remain safe, like Skeletons or swelling Creepers!
+
+You can earn enchantments that will also increase just how far and hoq frequently your dodge roll can be used, too.
+
+
+### Hotbar Changes
+
+Press Z to bring up all your main inventory slots, then press 1, 2 or 3 to switch to that slot! Amazingly handy for building and managing items quickly!
+
+
+### Emotes
+
+If you have a numpad, you can make use of a variety of different emotes, both to communicate with others, and for your own personal screenshotting enjoyment!
+
+
+### Third Person
+
+Better Third Person allows for free-form camera movement whilst in third person mode.
+
+In conjunction with YMD's Custom Camera View, you can use the arrow and F6/7 keys to adjust the third person view precisely to your liking.
+
+Even if you weren't to use this in regular play, if nothing else, it's great for taking screenshots!
+
+
+### Climbing Rope
+
+Climbing Rope is absurdly useful for scaling deep, vertical terrain like huge caves, and should absolutely be utilised when possible.
+
+Rope Arrows can also be shot, and will automatically deploy rope below wherever they land too!
+
+
+### Eyes of Ender
+
+To open the End Portal, you'll need 12 unique Eyes of Ender, of 16 possible different eyes.
+
+These can be found by exploring every inch of the world, so look thoroughly!
+
+
+### Waystones
+
+Waystones can be found throughout the world, and will allow you to teleport massive distances for only a few levels.
+
+Right Click on a Waystone to activate and utilise it!
+
+They can be crafted with a Warp Stone, which can be created in a Gem Forge.
+
+
+### Campfires
+
+Campfires in Resurvival will become your best friend. 
+
+When placed and lit, they ignite all hostiles nearby, in addition to providing players and passive mobs with Regeneration. 
+
+They also outright prevent hostile mobs from spawning within a range, so get acquainted with them ASAP!
+
+
+### Shields
+
+Resurvival offers tierd shields, instead of vanilla's basic singular shield.
+
+Every shield allows you the opportunity to parry attacks, by raising your shield the moment you're about to be hit, whether it be from melee or ranged attacks.
+
+Doing this will allow you to lower the shield normally - Else, lowering the shield without having parried will put your shield into off-guard cooldown.
+
+Shields can also only take so many hits in one sitting: Once your shield's stamina is depleted, it will also go into off-guard cooldown.
+
+Parrying attacks prevents this from happening. It also pushes melee attackers away and deflects projectiles off your shield, back into the enemy.
+
+Make good use of it!
+
+
+### Affixes
+
+When killing enemies or looting chests, you'll sometimes stumble across weapons with Affixes applied to them.
+
+These are similar to enchantments, bolstering either the tool or your own capabilities in some manner.
+
+Affixes can be enhanced further with the use of certain gems on a Smithing Table, much like Enchanting Gems.
+
+For more in-depth, thorough information, craft a Chronicle of Shadows with a book and a Gold Ingot.
+
+
+### Champions
+
+Champions are special mobs who'll drop a variety of different, useful items upon death, including Enchanting Gems.
+
+They can be identified by the coloured sparkling particle effect that emminates from them. They have special abilities and higher health pools, so stay on your toes when facing them!
+
+
+### Mobs
+
+Many mobs are far stronger than they'd typically be in vanilla Minecraft, possessing enhanced abilities such as throwing Ender Pearls to juke you, pulling you close with a fishing hook line, launching themselves to jump at you, slowing you with cobwebs, and much more.
+
+Some mobs even appear as giants or soldiers! Facing these stronger foes undoubtedly will result in more Experience, so think wisely when engaging in a fight if it may be worth your while.
+
+
+### Diet
+
+Beyond earning stronger armour and enchantments, one effective way at increasing your health and other characteristics is by maintaining a good, varied diet!
+
+The more varied your diet, the healthier you will become, earning health points and subtle stat boosts that build up the longer you consistently maintain a balanced diet.
+
+Check out the What's Cooking? Quest chapter for a variety of foods you can prepare for yourself. Craft a Lunchbox as soon as you can!
+
+
+### Enchanting
+
+The Enchanting Table in Resurvival has been stripped of its knowledge, making it effectively decorative.
+
+Instead, find Enchanting Gems underground and in either a Smithing Table or Gem Forge, imbue your tools with powerful enchantments to give yourself an edge in combat.
+
+
+### Weaponry
+
+There are dozens of new tools and items availible to you in Resurvival:
+
+Climbing Ropes, Grappling Hooks, Glowsilk Bows, Bombs, Bubble Blowers, Backpacks, Shields, Skillets, Pickarangs... You name it!
+
+Be sure to make the most of everything availible to you, and try and complete as many of the quests in the Adventure Awaits quest category as you can to earn them!
+
+
+### Iron
+
+Iron is now only availible in the Deepslate caves, which are well-guarded by dangerous new mobs.
+
+I would highly suggest first seeking out Leather armour, then Copper armour before finally searching for Iron underground!
+
+That, or you could wait until you face a Soldier mob who may drop some armour... The choice is yours!

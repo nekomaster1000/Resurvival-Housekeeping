@@ -1,4 +1,6 @@
 = TO DO =
+Remove mention of Apathy from the tutorial questline for the time being
+
 = DONE =
 - Removed Galosphere
 - Removed Upgrade Aquatic
