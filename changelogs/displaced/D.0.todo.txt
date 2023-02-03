@@ -1,5 +1,6 @@
-= TO DO =
-Remove mention of Apathy from the tutorial questline for the time being
+Resurvival: Displaced
+
+Following the Displacement, the battle of the Gods that caused the previous universe to fall apart and collapse in on itself, merging the Overworld and the End into one, we now find ourselves in uncharted territory... A world of Floating Islands.
 
 = DONE =
 - Removed Galosphere
@@ -17,6 +18,7 @@ Remove mention of Apathy from the tutorial questline for the time being
 - Added Nether Islands
 - Added Void to Nether
 - Added Fog Looks Good Now
+- Added Towers of the Wild Reworked
 - Added Narukami's Naturalist Butterflies
 
 - Campfires now place lit again
@@ -24,3 +26,4 @@ Remove mention of Apathy from the tutorial questline for the time being
 - Made the sun bigger via Celestial Config
 - Re-enabled Petrimen not spawning above ground
 - Added Building Wands quest point, and info on Cloud Storage and the Void to Nether method in the tutorial quest category
+- Added Wooden Elytra to the Towers of the Wild Reworked loot table

@@ -1,4 +1,8 @@
-= TO DO =
-
 = DONE =
-Removed mention of Apathy from the tutorial questline for the time being
+- Removed XP From Harvest
+- Removed mention of Apathy from the tutorial questline for the time being
+- Extended cooldown of Combat Roll from 4 to 8 seconds
+- Disabled Quark's Toretoise and Feeding Trough to free up server threads more
+- Soldiers now only have a 10% chance of spawning
+- Soldiers with better gear now only spawn underground
+- Disabled certain MPR cosmetics spawning in the Nether

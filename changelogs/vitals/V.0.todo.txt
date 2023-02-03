@@ -1,0 +1,92 @@
+Resurvival: Vitals
+A Lite version of Resurvival for those who don't intend to fully sink their teeth into the quests, care for all the building blocks, or mind a more barren End dimension. 
+Specifically, it's made for those who still want to enjoy the pack, but can't handle it at it's full size just because of how absolutely collosally large it is.
+Whilst lacking the full range of mobs, foods and polishes, Vitals still contains the core components that make Resurvival what it is at heart, allowing you to enjoy it without having to buy another two RAM sticks!
+
+Removed:
+- alex's mobs
+- alex's delights
+- aileron
+- allurement
+- another furniture mod
+- architects palette
+- better third person
+- building wands
+- celestial config
+- creatures and beasts
+- cosmetic armour reworked
+- custom camera view
+- combat music
+- chat heads
+- crafttweaker
+- caelus
+- dungeons plus
+- domestication innovation
+- eating animation
+- earth mobs
+- end's phantasm
+- equipment compare
+- every compat
+- essential mod
+- elytra bounce
+- evoked
+- fastfurnace
+- fancymenu
+- fm music extension
+- farmer's delight
+- grappling hook mod
+- galosphere
+- hourglass
+- healing campfire
+- immersive weathering
+- immersive paintings
+- japanese vibes
+- json entity models
+- jumpboat
+- legendary tooltips
+- jeitweaker
+- jade addons
+- labels
+- lootr
+- mob compack
+- my server is compatible
+- naturalist
+- nature's compass
+- neapolitan
+- nether's delights
+- plus the end
+- pehkui
+- pickle tweaks
+- progressive bosses
+- rotten creatures
+- reauth
+- shulker enchantments
+- sapience
+- sound physics
+- supplementaries
+- spelunkers charm
+- sully's mod
+- the conjurer
+- toast control
+- truly treasures
+- unusual end
+- upgrade aquatic
+- village spawn point
+- warrior rage
+- wild backport
+- windowlogging
+- xp from harvest
+- xp spawner control
+
+- structure gel
+- selene
+- auudio
+- ferritecore
+- iceberg
+- kotlin
+- konkrete
+- cucumber
+
+
+
+
