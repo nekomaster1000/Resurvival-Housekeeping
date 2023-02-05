@@ -1,0 +1,21 @@
+= DONE =
+- Updated Void to Nether to 1.1
+- Changed Nether Islands lava sea level so lava only generates 1 block deep (?)
+- Removed Apotheosis due to an attribute bug and game crash 
+- Removed Naturalist to improve server performance
+- Removed Pehkui to improve server performance, and extensively big mobs :(
+- Disabled Alex's Mobs Grizzly Bears, Tusklins and Tasmanian Devils to improve server performance
+
+- Removed Japanese Vibes due to its lame Arakite generation
+- Removed Creatures and Beasts due to abnormal levels of lag caused by it
+- Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10
+- Disabled Tools not breaking outright due to Pickle Tweaks
+- Disabled Architect's Palette Nether Rods generation
+- Disabled Immersive Weathering moss spreading and block growths to improve server performance, enabled creative tab
+- Disabled Enhanced Skeleton precision via Enhanced AI to improve server performance
+- Re-enabled Xaero's Minimap by default and enabled player nametags
+- Added Regeneration effect bestowing upon slaying a vampire for the first time
+
+do:
+remove cnb yeti quest
+change gem quest name thing

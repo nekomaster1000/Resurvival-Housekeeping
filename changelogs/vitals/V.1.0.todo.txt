@@ -1,2 +1,5 @@
 = DONE =
 - Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10
+- Disabled Tools not breaking outright due to Pickle Tweaks
+- Disabled Enhanced Skeleton precision via Enhanced AI to improve server performance
+- Re-enabled Xaero's Minimap by default and enabled player nametags

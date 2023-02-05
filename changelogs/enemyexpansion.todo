@@ -1,0 +1,372 @@
+Enemy Expansion Changelog
+
+1.2
+- Fixed the Meat Hat using the incorrect model
+- Meat Hat is now obtainable in survival as a 1/10 chance drop from a Meature.
+
+1.3
+- Added the Huntsman Skeleton, a faster skeleton who can punch you away when you get too close to him
+- Added Meature Meatball, made by smelting a Meat Hat in a furnace
+- Added unique Spawn Egg colours
+- Changed Sprinter and Equestrian Zombie Hit/Hurtboxes so they're not as awful
+- Sluggers can no longer perform their dash attack if set on fire - Use this to your advantage and get some burning enchantments!
+- Fixed mobs spawning in the Mushroom Isles and Soul Sand Valley, Small End Islands
+
+1.4
+- Added GeckoLib as a required dependency for mob animations!
+- Added the Wasp, a hostile forest enemy who stings you, which in turn causes more Wasps to spawn and sting you further
+- Killing the Wasp yeilds Wasp Pheromones, projectiles that summon Wasp Drones that will fight monsters for you - Just stay away from them while they're active, and don't bring out more than 1 at a time lest they start in-fighting!
+
+1.5
+Introducing Ladybugs! Native to the Lush Cave, Ladybugs are Enemy Expansion's first truly neutral mob. They have a distain for the undead, and will battle them out of its caves if it has to. If fed Spider Eyes, they'll have a chance of spitting back out Spider Goo, which can be thrown to heal the living and harm the undead! It can also be crafted into a supremely useful Healing Goo Soup.
+
+Accompanying Ladybugs are Zadybugs... That is, Zombified Ladybugs. They come about when a Ladybug is killed by a zombie enemy, and Ladybugs are terrified of them, and so will not help you fight them back. They're not too bad to deal with, though, so don't worry too much about them!
+
+Additionally, Tarantulas can now spawn as Ceiling Tarantulas in the Dripstone Caves! If you get too close or initiate combat, they'll come down and hurt you!
+
+In other news:
+- Sprinters, Sluggers, Seniors, Equestrians, Frigids, Tarantulas, Scorpions, and Meatures now have custom animations!
+- Converted most mob attacks on players to projectile-type attacks so enemies can no longer attack through walls (Seemingly an MCreator bug.) 
+- Zombie mobs no longer spawn as babies!
+
+- Enraged Seniors can now strike through a shield. Run away!
+- Equestrians and Wasps can no longer spawn in caves!
+- Wasp's damage infliction now aligns with the timing of their attack animation!
+- Wasps now have a new flying forward animation
+- Meature Meatball is now somewhat useful to consume, providing the same effects as wearing the Meat Head
+
+- Drones no longer attack players without provocation
+- Tarantulas no longer take fall damage
+- Scorpions now give you 5 seconds of nausea and poison on-hit
+- Crawling Frigids now give you 5 seconds of slowness II on-hit - They also have a new texture!
+- Meatmen have been replaced by Zombies and Skeletons spawning with Meat Hats.
+- Meatures' rare drops have been fixed
+
+- New Frigid texture
+- Tweaked Sprinter texture
+
+1.6
+Ghouls and Ghost Update
+
+Introducing the Ghoul: A ghastly, sharp-edged creature of the cold who will tear you to bits should you get near it! Should you toy with it too much over its slow speed, it just might spit in your eye and blind you for a moment! It doesn't appreciate light melting the snow and ice of its biomes, and so will break torches and lanterns left on the ground! Or perhaps it's breaking them since it fears fire...? It burns to death much faster than your typical monster, so use that knowledge to your advantage!
+
+Accompanying them is the Spectre, a supportive ghostly spirit who will heal the undead, and blind you to their wareabouts should you trifle with them! Upon either healing or getting hurt, they'll launch themselves into the air to evade your strike. Being incorporeal, they're immune to explosive damage, so you'll need to strike em directly with physical force! Oh, and sunlight, which will vanquish them immediately if they're caught in it.
+
+- Phantasm Set: Crafted from Phantom Membranes, this armour's special abilities activate in the dark, giving you enhanced speed, jump height, and slow falling!
+
+- Made it so Ceiling Tarantulas can't spawn without being beneath a block anymore (oops!)
+- Equestrians no longer spawn in ice biomes
+
+1.7
+Shield Expansion Update...?
+
+Hacking and slashing its way into the mod is the Gallant: A heavy, possessed suit of Knight armour that can quickly shred through you if you're not careful around it! While slow at first, sustaining more damage increases its resolve to kill you, and extensively its speed. It will also dash forward sometimes when hit, so be very careful!
+
+Introducing the Nether's first (and only?) new Enemy Expansion addition: The Cinder! Taking the place of every fifth Blaze, the Cinder is unlike it's daintier brother in almost every way - Where the Blaze hovers in the air and attacks from a distance, the Cinder floats close to the ground, rushing towards you to slice you to bits with its powerful, arrow-resistant shields. When hurt, it has a chance of shooting a small, explosive fireball - Signalled by it lighting up in flames. It's powerful helmet protects it from heavy damage, and upon its defeat will drop some of it in the form of Cinder Scrap: Use this precious metal by applying it atop a Netherite Helmet so that you may reap its benefits of increased speed when on fire, and a massive super-jump when touching lava!
+
+- Changed Phantasm recipes to now require slimeballs, golden carrots and bones too
+- Sprinters, Sluggers, Frigid, Huntsmen, Wasps, Tarantulas, Spectres and Gallants can now appear in Dungeon mob spawners
+
+1.8
+Goblins!
+
+Update 1.8 brings forth a whole new Minecraft race: Goblins! Each one has their quirks, and together they're a force to be... Reckoned... With? 
+They're a cowardly bunch, avoiding Iron Golems like the plague, but have the unique ability to regenerate health when wet, be it in rain or the ocean.
+
+Thief
+Creeping around low to the ground is the Thief, who will steal your XP and run when you're not looking! They'll have a chance to flee when hurt, dropping some XP along the way, and killing them will balance things out, with any luck, as they drop not only a lot of XP, but Bottles O' Enchanting, too!
+
+Bouncer
+A self-serious fellow with no time to waste, the Bouncer will calmly walk up to you, before kicking you right in the... Potion bottles. Yeouch! 
+
+Baker
+A Gabble of Goblins has to eat SOMETHING, and what better than freshly baked cake from their local Baker? 
+Unfortunately, Goblin Bakers also specialise in demolitions, so their cakes were actually made in a factory: A BOMB factory. They're BOMBS.
+Their Suspicious Slices have 1/6th of a chance to BLOW YOU UP should you eat them! The other 5/6ths of the time though, they'll give you Regeneration. Is it worth it? Choose wisely!
+
+Rancher
+One efficient means of transport for a Goblin is the elusive Slime, which the Rancher is a specialist in controlling. 
+With it, it can launch great heights up into the air, and even throw slime balls at you to slow you down! If only it wasn't so unyeildy for it to control...
+
+Errant
+If the Bouncer provides the group security, the Errant enforces the law, and the law demands: No humans shall go unpunished for walking 16 blocks within a Goblin's vicinity! Weilding a mighty axe, they clumsily swing at you in the hopes that it'll butcher you. Keep your cool, though, as their slow speed and tendancy to lose their nerve during battle can get the better of them. At least they're brave enough to deal with their undead counterparts!
+
+Caster
+What could be considered the de-facto head-honcho of any Gabble of Goblins, the Caster's magic spells have the ability to puppeteer you mid-air, so make sure you avoid their projectiles at all costs! They can actually be effectively deflected with a shield, so use that to your advantage. When not targeting players, Casters are on the look-out for villagers to transform into new Goblins, so that they may join their nomadic ranks.
+
+Zobgoblin
+They frighten the life out of living Goblins, and will run away at the drop of a hat: Zobgoblins are not too troublesome to deal with. Just beware that like Thieves, they'll slow you down for a moment should you get touched by one.
+
+- Removed the projectile attack replacement method from the Sprinter, Slugger, Senior, Frigid, Equestrian, Tarantula, and Zadybug. 
+Figured out how to reduce attack ranges without it!
+Retained it for other mobs that use telegraphed or projectile attacks.
+
+- Cinder Helm now takes damage when in water or rain
+- Cinder Fireballs no longer destroy blocks, and now fly straight and burn like regular Blaze fireballs
+- Cinders now take rain damage
+- Spectres no longer have idle noises
+- Wasps now only spawn in Forest biomes
+- Wasp Drones have a new model and texture
+- Meatman spawning has been fixed
+
+Added Gamerules:
+
+- tarantulaReplacementRule (default: 1)
+When enabled, 2/3rds of all Spider spawns in the Dripstone Caves biome will be replaced by Tarantulas. Set to 0 to disable.
+
+- cinderReplacementRule (default: 1)
+When enabled, 1/5th of all Blaze spawns will be replaced by Tarantulas. Set to 0 to disable. 
+(Warning: This will disable Cinder spawning outright, as they only naturally spawn via replacing Blazes from Nether Fortress spawners.)
+
+- noBabyZombiesRule (default: 1)
+When enabled, Baby versions of Zombies, Husks, Drowned and Zombie Villagers that spawn will be despawned. Set to 0 to disable.
+
+1.9
+The Deep-Slated Update!
+
+Petrimen (Petriman + Petricrawler + Petriboulder)
+Rocky humanoids who live exclusively in caves. Some carry carved boulders around, while others' legs have crumbled away. No matter what though, some things remain consistent: They're all remarkably sturdy, resisting ranged and burning attacks exquisitely, and they all dislike your presence in their home thoroughly. Get out!
+
+Silverking
+Overgrown bedbugs who'll leak Silverfish when hurt, ew! Using a sword against them allows you to banish their silver spawn before they even have a chance to touch the ground, so consider making the most of that! They're cowardly, and get real fast when hurt. Might want to consider investing in Bane of Arthropods after all...
+
+Silverhats
+Unfortunate Skeletons who were taken over by Silverfish mothers, who have now latched onto their heads and use them as their own personal bodyguards. Like Silverkings, they spawn Silverfish upon being hurt or killed.
+
+Intruder
+A heavy-set Creeper variant who cannot be knocked back. With an even stronger explosion and the ability to survive its own blasts to boot, stay as far away from this guy as you can. If you HAVE to get close, make the most of your shields (which won't last long if you over-use them here.)
+
+Crawler
+A lightweight Creeper variant akin to the Intruder, this guy lacks health, strength and weight, but makes up for it in speed. It's light weight proves a benefit to it, as it can use its own explosions to propell itself through the air, making it hard to catch. Be careful around this one!
+
+Troll
+What could be considered a Warden progeny, the Troll can instantly kill a completely unprotected player in a single bite. Do NOT engage with it: When aggravated, it becomes briefly invincible, and massively faster. All things considered, the most sensible thing you can do to counter a Troll is to simply leave it be.
+
+Vampire
+This regenerative bloodsucker is a tricky bugger: With the ability to steal your health should it bite you, in addition to regenerating passively, the Vampire is slim and fast, allowing it to swiftly move in and momentarily slow and blind you should it sink it's teeth into you. When hurt, it'll either continue attacking, briefly and erratically run away, or turn into the Biter, a far weaker but more unpredictable bat form. After a couple of seconds, it'll have regenerated enough to turn back into a fully healed Vampire, effectively restarting the fight. Biters are most effectively taken out by Trident throws and fully-charged axe swings, but both Vampires and Biters can also be banished by being burnt with flames, achievable with either fire-based enchantments or being right-clicked with Flint and Steel. Additionally, they'll also combust under broad daylight - Don't get caught in the blast when the sun rises!
+
+Headbiters
+A slain Biter can be worn as a Headbiter, which will heal whoever is wearing it when they take damage, leaving a lingering cloud for a short while. Skeletons in the Deepslate Caves can often be seen adorned with them. When the wearer of a headbiter is killed, they'll fly off and turn into a Vampire. Be careful if a Headbiter flees a fallen foe in the day - They might explode!
+
+Slimeheads
+Entirely unrelated to caves: Ranchers now sometimes drop Slimeheads, which when worn, causes attackers to be knocked back automatically. Zombies and Skeletons in Swamps can sometimes be seen wearing them.
+
+- Sprinters now emit angry particles when their dizziness wears off
+- Slugger's boost effect has been upped from 5 to 7
+- Frigid are now labelled a Zombie variant and will despawn if accidentally spawned inside a wall
+- Huntsmen now have 6 armour points and 0.42 movement speed (from 0.40)
+- Fixed Meatman spawning... Again...?
+- Cinder's explosions will no longer damage the environment if the mob griefing gamerule is set to false
+- Goblin mobs all now use the 'Goblin' prefix in their names
+- Goblin Rancher now has a new rare special drop - The Slimehead!
+- All mobs now have loot tables
+- Moved the Phantasm set bonus from the player's tick update to the cowl's tick update
+
+Added Gamerules:
+
+Location-Based Replacement Gamerules
+
+- scorpionReplacementRule (default: 1)
+Enables Scorpions to replace 3/4rds of Spider spawns in Desert and Badlands biomes. Set to 0 to disable. 
+
+- petrimanReplacementRule (default: 1)
+Enables Petrimen to replace all Zombies (and their variants such as Husks and Spinters) that spawn in caves below Y25. Set to 0 to disable. 
+
+silverkingReplacementRule (default: 1)
+- Silverking will replace Spiders that spawn in Deepslate caves (below Y0). Set to 0 to disable. 
+
+- intruderReplacementRule (default: 1)
+Enables Intruders to replace all Creepers that spawn in caves below Y25 and above Y-15. Set to 0 to disable. 
+
+crawlerReplacementRule (default: 1)
+Enables Crawlers and Intruders to replace 2/3rds of all Creepers that spawn in caves below Y-15. Set to 0 to disable. 
+
+vampireReplacementRule (default: 1)
+Enables Vampires and Headbitten Skeletons to replace 3/4rds of all Skeletons that spawn in caves below Y-30. Set to 0 to disable. 
+
+trollReplacementRule (default: 1)
+Enables Trolls to replace Endermen that spawn in caves below Y-20. Set to 0 to disable. 
+
+Y-level Spawning Rules
+
+- petrimanDontSpawnAboveGroundRule (default: 1)
+Disables Petrimen spawning above Y25 like any other mob, making them cave-exclusive. Set to 0 to disable.
+
+- silverkingDontSpawnAboveDeepslateRule (default: 1)
+Disables Silverkings spawning above the Deepslate layer, making them Deepslate Cave-exclusive. Set to 0 to disable.
+
+- crawlerDontSpawnAboveDeepslateRule (default: 1)
+Disables Crawlers spawning above Y-15, making them Deepslate Cave-exclusive. Set to 0 to disable.
+
+- trollDontSpawnAboveDeepslateRule (default: 1)
+Disables Trolls spawning above Y-15, making them Deepslate Cave-exclusive. Set to 0 to disable.
+
+- vampireDontSpawnAboveDeepslateRule (default: 1)
+Disables Vampires spawning above Y-15, making them Deepslate Cave-exclusive. Set to 0 to disable.
+
+Misc
+
+- petrimanRandomRule (default: 1)
+Petrimen will sometimes be randomly replaced by Petricrawlers and Petriboulders upon spawning. Set to 0 to disable.
+
+Note:
+Due to a workaround: Petrimen, Petricrawlers, and Petriboulders all share one spawn weight deriving from the Petriman. 
+When the Petriman spawns, it will randomly choose to either keep the Petriman, or swap it out for a Petricrawler or Petriboulder. 
+If petrimanRandomRule is disabled, Petricrawlers and Petriboulders will not naturally spawn.
+
+1.9.1
+- Fixed Vampires dying in sunlight incorrectly
+- Vampires now always explode if they burn for too long
+- Fixed a Shield Expansion compatibility bug where Creeper variants would psychically attack shields, sending them into cooldown
+- Revised Crawler's face texture a little
+
+1.9.2
+- Fixed Vampires perpetually burning visually when they could see the sky at any time of day - But they now need to be hurt in the daylight to catch fire
+- Vampires now smoke if under sunlight
+- Spectres no longer shove and aggro their healing targets, and fly further away from them when doing so.
+- Crawlers and Intruders no longer fuse if attacked by a player in creative mode
+- Silverkings no longer spawn silverfish if attacked by a player in creative mode 
+- Silverhat-wearing Skeletons are now included in the SilverkingReplacementRule
+- Silverkings no longer replace Cave Spider spawns
+- Silverkings now only replace half of the Spider spawns in the deepslate caves
+- Silverking Silverfish spawning is now chance-based, only happening 30% of the time it's hurt
+- Phantasm Cowl and Cape, Cinder Crown and Slimehead are now repairable
+
+EDITED: 
+silverkingReplacementRule (default: 1)
+- Silverking will replace 1/2 of Spiders that spawn in Deepslate caves (below Y0). Set to 0 to disable. 
+
+1.9.3
+- Trolls now sweat in sunlight and turn to stone if attacked under sunlight
+- Fixed Gallant Blade swings extending far beyond where they're supposed to
+- Fixed Biters not turning back into Vampires
+- Reduced Vampires' attack range
+
+1.9.4
+- Added the Spiderlatch hat, a Cave Spider on your head! Ew! Grants poison-inflicting attacks, and poison immunity to the wearer
+- Added the Trollface, a reward for slaying a live Troll! Grants almost total knockback resistance.
+- Meatures now 'level up' when they secure a kill, earning a temporary set of buffs and a permanent increase in health. Their health, starting at 10, can raise all the way to 40 after 15 kills.
+- Huntsman's punches now fire less frequently
+- Reduced Spectres' health + gave them a particle effect on-death
+- Reduced Spectres and Vampires spawnrates
+- Fixed Intruders continuing to explode after dying
+- Crawlers and Intruders are now scared of cats
+- Gamerules now have proper names in-game
+- Mobs now utilise custom spawning conditions rather than despawning if their given spawning-restriction gamerule is enabled. Probably buggy! Let me know if you get any jank from this!
+- Wasps now spawn in the daytime! 
+- The Silverhat will no longer spawn Silverfish if attacked in creative mode - It also now has a chance of spawning no Silverfish when hurt, like the Silverking
+- Reimplemented the Headbiter and Silverhat models to incorporate an invisible head polygon for compatibility with GeckoLib entity models
+
+1.10
+
+Introducing the Propeller! He's a little ranged woodwork guy who'll fly high into the sky when you hurt him! If you kill him via burning, he'll drop Charcoal!
+
+- Added the Spectral Hood and Cloak, which give the wearer the ability to inflict brief blindness and weakness respectively, and spawn a Spectre on-death on either piece
+- Spectres now despawn after healing an undead mob
+- Spectres, upon healing an undead mob, now also buff them with several effects
+- Spectres now despawn after just one hit
+- Vampires have had their natural spawnrate reduced heavily
+- Removed Wasps inflicting Speed for half a second on-hit
+- Updated Senior model & texture
+- Added additional checks to make sure mobs are alive when being despawned via replacement rules
+
+1.10.1
+
+
+
+===
+
+= TO DO =
+
+- Create tie-in recipes + Cinder Ingot + Errant Axe + Gallant Sword + gobliron armour? + gallant armour
+
+- prismarine armour for drowneds (actually my aqwuaculture armour retexture hehe)
+
+- Starved + Wolfsbane + Gladius
+
+- Ram (Mountains), Boar (Taiga), Bull (Savannah), Rooster/Cockatrice (Dark forest), Jackalope (idk?)
+
+- Sputter? Kelpie? Dreadnought
+
+---
+-  Goblin Townlet
+- Rancher - Slime Pen + Haybays
+- Caster - Brewing Stand + Cauldron
+- Bouncer - Raw Gold Blocks + Bling?
+- Baker - Furnace, pastel room?
+- Thief - Random shit? Hoarder?
+- Errant - Weapons display! Baby Armour Stand!
+
+- Slime Spawners
+
+Gobboss
+slime on his feet from stepping on them in the townlet
+- Yeilds a flag/spear as a weapon
+- waves it for reinforcements
+- Jump Really High, shockwave on hitting ground
+- Heavy swing attack that steals XP
+- Kicks you into the air
+- Burps out cakes
+- leaks XP when hurt sometimes
+- Not scared at all!!
+---
+
+- bulker?
+
+- senior shockwave
+- Meature Levelling Up
+- frigid shovelling snow at you
+
+- spectre cloak
+- gallant armour
+- monkey armour
+- brute garment
+- cave spider latch
+- slimehead
+
+- gallant sword
+- errant axe
+- gallant shield (shield expansion)
+
+
+
+- Haul
+Get Off my Lawn Senior achievement
+---
+
+(TO DO: 
+(goblin structure?)
+
+
+ideas:
+rancher goblin rides a btattle slime
+demolishion goblin who throws landmines
+
+witch goblins shoots villagers to turn them into goblins
+witch goblins shoots other goblins and turns them into farm animals
+
+witch goblin shoots the player and makes them 
+- trampoline into the air
+- sends you to the nether and then you come back (???)
+- makes you invisible
+- forces you to sneak
+- /gives you a stack of dirt >:)
+- chokes you
+- makes you float with no gravity
+- makes you swing your arms uncontrollably
+- shoots an actual goblin as a projectile :scream:
+- triggers a totem of undying animation
+- change your gamemode to adventure
+- spawns a goblin on your head as a 'helmet'
+- locks away half your hearts tempoirarily
+- cause rain, then lightning strikes where you were standing, then it stops raining
+- gives you an advancement "I'm coming after you." (get shot by a goblin witch)
+- fully heals you and gives you absorption and a bunch of other effects for a second
+- spawns false diamonds that can't be picked up and then despawn :(
+- shoots a comical number of arrows
+- spawns tnt block that walks towards you
+- summons floating slow-falling skeletons to shoot you who die when they touch the ground
+
+- shoots a goblin as a projectile - if it hits you and you don't have a helmet on, sets your helmet to a living goblin. If you do have a helmet or it misses, spawns a goblin to attack
+
+---------------------
