@@ -5,4 +5,3 @@
 - Disabled Quark's Toretoise and Feeding Trough to free up server threads more
 - Soldiers now only have a 10% chance of spawning
 - Soldiers with better gear now only spawn underground
-- Disabled certain MPR cosmetics spawning in the Nether

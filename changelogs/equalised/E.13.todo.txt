@@ -1,0 +1,7 @@
+do:
+remove cnb yeti quest
+
+= DONE =
+- Disabled certain MPR cosmetics spawning in the Nether
+- Removed Creatures and Beasts due to abnormal levels of lag caused by it
+- Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10

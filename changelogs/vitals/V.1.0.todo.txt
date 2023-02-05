@@ -1,0 +1,2 @@
+= DONE =
+- Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10
