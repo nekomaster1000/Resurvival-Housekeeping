@@ -1,0 +1,16 @@
+= DONE =
+- Removed Earth Mobs
+- Removed Shutup Experimental Settings (made redundant by a Structure Gel API feature)
+- Added Ercerus' Balloons datapack
+- Updated Enemy Expansion to 1.11
+- Updated Void to Nether to 1.2
+- Added Potis, replacing certain Apotheosis features
+- Readded Creatures and Beasts
+- Added Zombies Actually Siege
+- Added Sensible Sleep
+
+- Wooden Elytras burning at high intensities has been disabled
+- Enemy Expansion's undead mobs can now display when they're wearing armour (JEMs)
+- The nether can now be escaped via the Interdimensional Dew potion, made from Moth Dust and Crying Obsidian (Void to Nether)
+- Mobs will now ambush you if you sleep in an unsafe space (Sensible Sleep)
+- New title screen BG

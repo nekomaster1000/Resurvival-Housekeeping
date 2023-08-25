@@ -1,6 +1,20 @@
+= TO DO =
+- Add Sensible Sleep
+- Fix missing texture in tutorial bit after updating EE to 1.11+ D:
+- remove background for text :D
+
 = DONE =
 - Removed Japanese Vibes due to its lame Arakite generation
-- Removed Creatures and Beasts due to abnormal levels of lag caused by it
+- Removed Apotheosis due to an attribute bug, game crash and general imbalance caused by it
+- Removed Shutup Experimental Settings (made redundant by a Structure Gel API feature)
+- Removed Earth Mobs
+- Updated Enemy Expansion to 1.12.1
+- Readded Creatures and Beasts after an optimisation update fixed the abnormal ticking issue
+- Added Environmental
+- Added Potis, replacing certain Apotheosis features
+- Added Zombies Actually Siege
+- Added Fastload
+
 - Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10
 - Disabled Tools not breaking outright due to Pickle Tweaks
 - Disabled Architect's Palette Nether Rods generation

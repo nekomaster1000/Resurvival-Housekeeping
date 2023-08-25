@@ -1,0 +1,21 @@
+- Updated Resurvival to 1.19!
+
+- Food items now only stack to 1
+- Potion items now stack up to 4
+- Health regeneration is now 10 times slower than before - But you need only a half-full hunger bar to start regenerating
+
+- Mob spawning is now controlled by the new Advancement-Based Spawning mod: Stronger mobs will only begin appearing after the player has progressed to a certain point
+- Mobs now have healthbars! No longer using Jade's info tab
+- Mobs will now show damage indicators when hurt
+
+- Sticks are no longer craftable from Planks
+- Stone tools are now replaced by Flint Tools, crafted with Flint and a given binding item like string, slimeballs, honeycombs
+- Gravel now has a 40% chance to drop Flint by default
+- Magma Blocks now requires Silk Touch to harvest - But they can sometimes drop Magma Cream without one, useful for binding!
+
+- Flint and Steel are now the Firestarter, craftable with two sticks - Use them to keep your wits about you before you gain torches
+- Torches now require Rotten Flesh in addition to a coal to craft
+
+- Zombies now have a 16% chance to drop extra loot, including copper ingots!
+- Furnaces are now crafted with 1 Copper Ingot and 7 Cobblestone
+- No more Villagers - They're now all replaced with Pillagers (Iron Golems are also always replaced by Ravagers)

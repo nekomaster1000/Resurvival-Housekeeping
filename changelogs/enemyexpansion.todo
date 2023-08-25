@@ -270,23 +270,491 @@ Introducing the Propeller! He's a little ranged woodwork guy who'll fly high int
 - Updated Senior model & texture
 - Added additional checks to make sure mobs are alive when being despawned via replacement rules
 
-1.10.1
+1.11
+
+- Added a config to replace the gamerules! 
+- Replacement Rules and Spawning Depth are now entirely configurable! No closing a world or game required either, changes take effect immediately! (R.I.P. Gamerules, 1.8 - 1.10)
+- Mobs that spawn with gear are now also built into the config! Spawn biomes for said mobs are controlled by the custom minecraft:is_meatury worldgen tag
+
+- Added the Flutterfly, a neutral colony of regenerative butterflies that spawn in plains and forests who'll heal you when touched, and wither you when attacked!
+- Added the Boar, a Taiga-exclusive Pig who will attack Players and run from Zombies should they get too close! Little cowards...
+- Added the Bull, a Desert/Badlands/Savannah-exclusive Cow who will attack Husks and fight back against those who dare bring it harm!
+- Added the Ram, a Peaks/Mountains-exclusive Sheep who will knock you far and away should you try and harvest it for its meat! It's thick wool gives it a little armour, and when sheared, regrows quickly and consistently compared to a Sheep's speed of wool regrowth. Rams are not fond of Zombies or Skeletons, and will attack either on-sight.
+- Added the Rooster, a Jungle-exclusive Chicken who can't lay eggs, but can hurt you if you dare hurt it! They're not afraid to fight any Foxes, Wolves, Ocelots or Cats nearby, so keep them well-guarded if you've got a pet puppy about...
+
+- Bull Skull Helmet - A decent but undurable helmet with 1 point of knockback resistance! Wowie!
+- Flutterfliers - A brief stint of regeneration is gained when hurt! If an undead wears it, it'll let out a harming cloud when hurt!
+
+- Troll Spit now weighs the player down rather than blinding them, slowing them drastically and preventing them from jumping. 
+- A Potion of Groundbinding can be brewed from the skull of a Troll so that one may use this power for themselves.
+- Propellers now fly higher into the air when hurt
+- Spectres' effects on a hostile mob now all last for a minute
+
+- Wasps now only spawn naturally at light level 0 under a clear sky
+- Wasps now only aggro within a range of 12 blocks from a player
+- Wasps now only have a 33% chance of dropping a Pheromone
+- Wasp Pheromones now stack to 16 and only deal 1 damage upon hitting a target
+- Wasp Drones no longer fight each other!
+
+- Moved the Headbiter's effects from itself to the new Flutterfliers
+- Headbiters now bestow their effects when the wearer is attacking, rather than being attacked
+- Headbiters now bestow 10 seconds of Speed upon attacking another entity
+- Headbiters and Flutterfliers now emit their effect cloud dependent on whether the entity wearing it is classified as UNDEAD or not
+
+- Removed Meatmen and Slimeheads as the new config system renders them entirely redundant
 
 
+1.12
+The Corrupted Update!
+
+Three towering, bestial creatures make their way into the Enemy Expansion! 
+Numerous mobs also recieve nice updates that range from big to small too, including Wasps, Meatures, Propellers, Spectres, Frigids, Crawlers and Intruders, Vampires, and more!
+
+Wolfsbane
+A big bad werewolf of purple proportions, the Wolfsbane starts out as a slow, lumbering enemy who's heavy damage can be negated by its slow speed... That is, until it sustains enough damage to become notably angrier, at which point it'll stand down on all fours and charge for you. Attacking it in this state will inspire it to lunge, which can be used to your advantage to keep it away whilst it's in a mania.
+
+Gladius
+A giant Squid that's gotten too smart for it's own good - Having learnt to adapt outside the water, the Gladius is coming straight for you. Fortunately for you, it's squishy body makes it easy to push away. Knocking it back into the water whence it came will force it to adapt its body for the liquid realm, turning it into it's smaller Gladilad form. Unfortunately for you, both iterations of the mob retain the classic ink-spray technique carried down from their Squid ancestors, and will use it to blind you as often as possible. Shield your eyes!
+
+Cockatrice
+A swift, giant chicken with a dragon-like lower half, this foul foul can almost freeze you in place with an up-close-and-personal stare in the eyes, in addition to poisoning you significantly upon a bite, too. Occasionally, They can be found with skeletons riding atop them - Said Skeletons cannot handle the force from a Cockatrice's great leaps into the air, however, so using this to your advantage would be wise. Just like their tiny natural counterparts, they drop Chicken on death, making for a great food source whilst stuck underground.
+
+- Added the Precision Strike advancement, earned for shooting a Propeller out of the sky with a bow and arrow.
+- Attempting to kill a Wandering Trader will reveal it to have actually been an Illusioner undercover the whole time!
+
+- Horsehead - Gives the wearer 10 seconds of both Speed III and Hunger III when the wearer is hurt!
+- Brutish Garment - Gives the wearer 5 seconds of both Resistance III and 10 seconds of Hunger III when the wearer is hurt!
+- Mini-Wither - Attacks from the wearer deal Wither III for 3 seconds!
+- Banemask - When hurt, the wearer will be compelled to perform a small leap (even in the air), just like a feral Wolfsbane! Parkour potential, anyone?
+- Gladling - A baby Gladius that spits ink at whoever attack it and it's host! Causes the host to experience knockback akin to an actual Gladius
+
+- Brand new config system that utilises an actual .toml config, which allows it to be viewed in-game with Configured and should hopefully iron out tick lag! Categories include:
+   - [mobSpawning]
+   - [mobHealth]
+   - [naturalSpawningDepth]
+   - [mobReplacement]
+   - [mobReplacementDepth]
+   - [hatWearerSpawning]
+   - [armorWearerSpawning]
+   - [effectSpawning]
+   - [miscOptions]
+
+- Piglin Brutes now have a small chance of dropping their Brutish Garment, a chance that can be improved with the Looting enchantment
+- Propellars now take garunteed lethal damage when shot by an arrow mid-air. Their slow falling makes them sitting ducks to a well-placed arrow strike, so take advantage of that!
+- Spectres now 'possess' targets they buff (Their Spectral clothes are donned by the target)
+- Flutterflies now speed up drastically when attacked via the Swift Flight effect
+- Wasps have been revised: They are now neutral mobs during the daytime, and use actual flying AI, fighting especially well in groups: If one is hurt, they'll all scatter and attempt to rush you. They retain their mid-air evasion mechanic, but it has been heavily streamlined and looks far less janky both in-code and in-game now
+- Frigids are now slower by default, but become increasingly faster when they take damage the lower their health is
+- is_meatury_tag biome tag has been renamed to is_hat_appropriate
+- Added is_armor_appropriate biome tag for biomes where mobs can spawn in vanilla armour
+  - armour and EE hats should no longer spawn on subtypes of Zombies and Skeletons without them having been specified in the can_display_armor entity_types tag
+- The petrimanZombieReplacement config value no longer replaces Drowned
+- Flutterfliers now bestow Regeneration for 10 seconds to players after taking damage
+- Spectral clothes now inflict Blindness/Weakness for 3 seconds instead of 2
+- An entity must now be wearing BOTH Spectral armour pieces in order for a Spectre to be spawned upon their death
+- Baby Zombie spawning has been re-enabled by default, but only at a rate of 13% compared to their typical 100% spawn chance
+- Propellers now properly launch into the air when hurt, in addition to having more variation in their mid-air movement - They are also a quarter slower than before
+- Spectres now only jump into the air upon spawning if they spawn by a monster mob (e.g. When they spawn from a slain Spectral-clothed enemy)
+- Changed Goblins' Regeneration effect in the rain to Resistance, as Regeneration was being constantly reapplied every tick, making them effectively invincible
+- Gallants now gain Slowness when wet, rather than rusting away
+- Gallants now only gain Resistance III when shielding, and also now move slower when doing so too
+- Sprinters' recovery particles should now spawn where the Sprinter is when recovering, and just a little bit before they recover too
+- Equestrians now have recovery particles, too
+- Flutterflies now have to be right-clicked to gain healing from them
+- Silverkings are now significantly weaker
+- Fixed Silverkings spawning irregardless of their configured Y level
+- There is now a small delay on a hurt Silverking summoning Silverfish
+- Fixed the Vampire Slayer advancement using the wrong icon and category
+- Reduce the Vampire's blindness infliction from 3 seconds to 2
+- Vampires now spawn with a speed value somewhere between that of a Zombie and that of a Sprinter
+- Vampires and Huntsmen no longer inflict nausea upon melee hits
+- Petrimen no longer replace Zombified Piglin spawns
+- Petrimen now only play their damaged particle when hurt by a player specifically
+- Removed Petricrawlers and Petriboulders (They felt redundant and boring...) Petricrawlers, spiritually, are replaced by Cockatrices
+- Lowered the chance for Crawlers and Intruders to alight from damage from 1/2 to 1/4
+- Crawlers and Intruders no longer explode if a player is outside of their effective range, like the Creeper 
+- Intruders no longer blast-jump; Crawlers' blast-jumps no longer damage terrain, and only happen in response to being attacked
+- Intruders now only spawn slightly below sea level by default
+- Meatures now spawn with 20 health, so as to be more likely to kill Zombies upon initially spawning
+- Meatures no longer attack other players if tamed (unless their owner attacks said player) - They also now get a new 'tamed' texture when tamed, distinguishing them from wild Meatures
+- Headbiters now allow non-undead entities to regenerate far bigger portions of health
+- Goblin Bouncers, like Bakers, no longer spawn naturally. Goblin Errants now only spawn in Dark Forests naturally, too.
+- Gabbles are now twice as rare as Enderman
+- Propeller now has a hurt animation, and won't attempt to fly away if hurt whilst under a low ceiling
+- Trolls now petrify in the direction they were facing when they were alive
+- Roosters now play their wing-flapping animation when falling
+- Ghouls are no longer hostile towards Sluggers, but instead to Spectres
+- Frigids and Zobgoblins will no longer slow players who shielded their attacks
+- Flutterflies should no longer have their animation freeze mid-air anymore
+- Added the mention of Geckolib as a required dependency in-game
+
+
+1.12.1
+
+- Petrimen now replace mobs specified in the new petrimanreplaces.json entity_types EE tag
+- Fixed Petrimen and Wasps despawning immediately upon spawning
+- Cockatrices no longer spawn in End Biomes
+- Wolfsbanes and Banedashers can float and swim in water now
+- Ghouls are no longer classified as a Zombie variant
+- Roosters now flap their wings when hurt
+- Removed MCreator's built-in drop items from all mobs that still had them (Stupid feature!)
+- There is now a 30% chance to not be blinded by a Gladial mob's ink attack 
+- Altered Gladial mobs' particles upon transforming
+- Gladilad now sinks for a second upon first spawning, so as to help avoid the mob transforming repeatedly over a body of water
+- Gladilads will now jump out the water if attacked outside the water
+- Reorganised spawn eggs in creative menu
+
+
+1.13
+
+The Oceanic Update!
+Led by the Gladius in the previous release, several new sea mobs make their way into Enemy Expansion!
+
+Angler
+A small but swift menace of the seas, these frightening, aggressive little guys will turn invisible when attacked and panickedly swim away - Not that it does them much good, as their prey-attracting bulbs give away their location! Despite their speed, they maintain low health pools, and can be dispatched quickly with good gear. Whilst typically unpleasant to be around, they especially love the taste of Drowned flesh, and just might assist you in battle should the circumstances befit them! They can be found in all Deep Oceans besides Warm ones.
+
+Kelpie
+Harrowing behemoths of the depths, Kelpies can drag you down to the bottom of the sea with their extending tongues. If hurt, it will summon speed-boosted Drowned to try and dispatch of you as it attempts to regain it's composure. Don't lose sight of it and manage it's minions for the chance at earning a Heart of the Sea!
+
+Piecrab
+Although outwardly tough, if a Piecrab is hurt enough, it'll eventually leave you alone! They're good swimmers, and allow whatever monster rides it to make chase towards you rather effectively! They can be killed for a Crab Pie, which grants Resistance briefly when eaten cooked.
+
+Senior
+The biggest, eldest Zombie of the mod has been revised notably! They are now fully knockback resistant and slightly slower than before, but with a longer adrenaline boost when hurt. If damaged below half health, they'll enter a 'pinch mode' where they retain Strength and Speed buffs permanently, forcing you to take them even more seriously as a threat than before.
+
+- Renamed some textures
+  - sprinter_zombie.png -> sprinter.png 
+  - slugger_zombie.png ->  slugger.png 
+  - senior_zombie.png -> senior.png 
+  - equestrian_zombie.png -> equestrian.png 
+  - wasp_redux.png -> wasp.png 
+  
+- Certain mobs now spawn with Varying Speeds (varying_speeds tag + misc config option)
+- Skeletons now have a chance of switching to a melee weapon when hurt
+- Sprinters and Equestrians now only spawn their angry particles to indicate having recovered from their stunning/panic if they're no longer in those respective states
+- Wasps now only clear the Swift Flight effect from themselves when hurt rather than all effects (For Bumblezone compat purposes)
+- Petrimen no longer have a delay on their attack
+- Gladilads now prioritize and target Drowned over Players
+- Gladilads' replacement procedure now only takes effect on squids that spawn at night
+- Gladilad replacing is now far rarer by default
+- Senior's texture name has been changed to 'senior_calm', accompanied by 'senior_angry' for their new pinch mode
+- Undead Speedup Burning now bound to a tag
+- Goblins now all use their legal names 
+- Fixed Petriman attack not playing
+- Removed redundant Vampire replacement procedure that was continuing to spawn skeletons with headbiters occasionally
+- Spectres now spawn in Soul Sand Valleys
+- Expanded the Slugger, Senior and Equestrians' hitboxes
+- Drowned with the Conduit Power effect now also gain Swift Flight if they're targeting a mob for attack - If they're hurt, they're knocked back and lose all effects
+- Added disabled-by-default Illager Replaces Villagers config option
+- Vampires can no longer be set on fire with Flint and Steel, as they were always right-clickable, even when attempting to attack with ranged items
+- Cinders no longer utilise an animated attack, instead dealing contact damage immediately so as to make them more of a threat
+- Cockatrice now shed feathers when hurt (visual effect)
+- Chickens struck by lighting now turn into Cockatrice
+- Goblin Hurt procedure has now been split into multiple procedures to try and isolate what part of it is causing crashes on 1.19
+- Added despawn check to mob spit particles to hopefully stop them from crashing 1.19
+
+1.13.1
+- Increased Errant and Bouncer Goblins' speed to make up for nerfed range, and fixed their missing attack animations
+- Fixed broken saturation ratios for food items
+- Flutterflies now make a noise and particle effect when right-clicked on
+- Flutterflies can now be bottled and consumed for later use
+
+
+
+
+1.14 
+The Death and Dread Update!
+
+Flies
+These buzzy pests are weak, but erratic! Occasionally, they'll burst out of slain zombies. Swat em before they can nibble you to death!
+
+Dreadnought
+An otherworldly, shadowy creature emerges from the darkness with the sole purpose of hunting you down... While it may seem unkillable, it will leave you alone if you either pelt it with enough damage, or expose it to the light. Veer well-clear of it!
+
+Reaver
+This malformed, Illager-born beast of the skies acts as the perfect mode of transport for any patrolling Pillager who needs to keep out of your effective range. Fast as they are deadly, the Reaver will weave around and above you, allowing the Pillager on it's back to take care of you from a distance. If you happen to kill the Pillager before the Reaver, it will come for you far more directly. Try and take it out first!
+
+Propeller
+The propeller has recieved a Copper makeover! It'll now oxidize in the rain, or sometimes after taking too much damage, making it slower! Likewise, it'll be un-oxidized and even powered up if it is struck by lightning.
+
+- Pillager Spawns With Reaver Chance misc config option added
+- Made Boars neutral
+- Fixed Wasps not spawning
+- Fixed Meatures spawning in the daytime
+- Added check to try and prevent Bulls from overspawning in hot biomes
+- Added check to Huntsman Skeleton's punch attack so it can no longer be spammed
+- Meatures are no longer immune to fire
+- Crawlers can now spawn above ground by default
+- Lowered Gladilad replacement chance
+
+
+
+
+1.15
+All-Corners Update
+
+Starved
+An idle fossilized monster that lays dormant in the desert... Until it's disturbed! 
+In the brief interim where it hasn't noticed you, you can sieze the opportunity to steal whatever's inside it's mouth by right-clicking it!
+Just be sure to get running right afterwards... It's hungry!
+
+Marauder
+In their attempts to conquer the oceans as well as the the skies, the Illager faction engineered the Marauder, a shark-like creature that roams loose in deep ocean biomes! Be careful should it spot you!
+
+Sputter
+These lazy little creatures can be found dozing around Striders in the Nether. Unlike their tall-legged cousins, they are not mobile, they are not friendly, and only wish to turn you into a literal spit-roasted barbeque. Evade them on Striders, and you can't go far wrong!
+
+Dragonfly
+These giant fritzing arthropods are swamp-exclusive, and alongside boasting an impressive healthbar, can pack quite a punch should you let them too close! Keep your guard up and swing when you have an opening!
+
+Hornets
+Replacing Vex summons should you chose to enable them in the config, Hornets act as permanently hostile Wasps that'll sting any nearby human or villager they can get their stingers on.
+
+
+Champions! 
+Mobs will now sometimes spawn sparkling - They have the Champion effect! A mob, when killed with this effect, will drop one random special item from a loot table. You can configure and add additional loot tables yourself by editing or adding 'champions_x.json' (Changing the 'x' to your desired level at which certain loot will drop.) By default, mobs will spawn at four different levels of Championship - The higher the level, the rarer they are, and the better the loot. 
+
+
+Hostile Zombified Piglin Chance
+Zombified Piglins have a chance to spawn hostile! Set to 1% by default.
+
+
+- Meatures no longer spawn in the daytime, and should despawn when left alone in the day too (if they're untamed)
+- Fixed Petrimen replacing Zombies in the Nether
+- Fixed Frigids despawning when trying to crawl through small gaps
+- Fixed Frigids calling reinforcements if damaged by anything other than a player
+- Fixed mobs and players sometimes recieving heavy slowness when hurt at low health
+- Fixed Flies' animation sometimes stopping for no reason
+- Zobgoblins now spawn primarily in Cold and Taiga biomes
+- Reduced Gladius spawnrate
+- Gave Dreadnought unique noises
+
+
+
+
+
+
+
+
+
+1.16
+Bones and Arrows Update
+
+Direwolf!
+These permanently aggressive canines travel in packs, and will rip you limb from limb via their powerful jump attack! After leaping, they'll also be a little faster than usual, so stay on-guard! Sometimes, a Skeleton will hitch a ride on them. Sometimes, their pack members will destroy those very same skeletons. Sometimes, they'll rip into regular wolves just for the hell of it. They're not nice, and they're not your pets! Now get down!
+
+Guardsman
+The ultimate skeletal warrior joins the fray in the form of the Guardsman. Alongside an adeptness for smacking you away should you get too close just like their Huntsman counterpart, the Guardsman is also especially adept at evasion, doing little ballerina twirls when getting hurt, chosing to tactically retreat when the moment calls for it, and even surprising their targets with a flurry of 20 arrows, right from out under their cloak! If you face one of these guys, give them everything you've got!
+
+Rarely, the Guardsman will drop the Guardsmask, which bestows two armour points and blesses you with Speed III for a couple seconds if you take damage from an arrow!
+
+Huntsman
+They finally have a punch animation! And visually lose their bows when melee attacking if the 'Weapons switch weapons mid-fight' config option is enabled!
+
+Skeleton Horseriders
+Skeleton Mobs can now sometimes spawn riding Skeleton Horses, making them harder to hit and just look plain cooler!
+
+
+Config Options:
+- Phantom Groundbinding Duration - Phantoms fall to the ground when hurt, making them susceptible to follow up attacks. 3 seconds by default.
+- Random Phantom Size - Phantoms will spawn at a randomly larger size, making them easier to hit but allowing them to deal more damage. On by default.
+- Skeleton Horseman Addition - 6% chance by default for a Skeleton that spawns above ground to be riding a Skeleton Horse
+- Skeleton Death Kills Skeleton Horse Chance: For clearing out those pesky extra Skeleton Horses!
+- Players move faster while charging a bow: Disabled by default (I'd suggest turning it on and turning off FOV effects, though!)
+- Skeleton Quick Draw Effect: Skeletons become susceptible to lethal amounts of extra damage if shot with an arrow shortly after firing their bow. On by default.
+- Skeleton Bow Break on Crit Chance: Chance landing a critical strike on a bow-weilding Skeleton will disarm them. 33% by default.
+- Streak Effect: Killing two mobs in succession grants a Streak, triggering speed and strength for a couple seconds! Or any effect that you want ala an mcfunction file. Off by default.
+- All Attacks Knock You Backwards: Just for fun! Like Smashed, but less excessive, only for the player and not cumulitave based on HP.
+
+Changelog:
+- Huntsmen now visually display when they're bowless, in addition to finally being GeckoLib animated - They now actually punch!
+- Reavers now despawn when idle
+- Marauders now break ice above them
+- Fixed Groundbinding Effect being instant rather than constant
+- Dreadnoughts now take a moment to become hostile when unprovoked
+- Petrimen are hostile in the dark again - They were accidentally set to be hostile only in the light
+- Petrimen now dash faster when hurt below half-health
+- Sputters no longer replace the Striders they spawn alongside
+- Huntsman Skeleton punches no longer randomly deal higher damage
+- Dreadnoughts no longer softlock Players who survive their attack via Totem via despawning
+
+
+
+
+
+
+1.17
+
+todo:
+
+propeller hat? for propeller structure
+
+
+remove lava projectile model for gallant
+
+
+Changelog:
+
+- Added check to stop farm animals from being replaced by their EE variants upon world reloads
+- Added new checks for neutral animals so they don't overpopulate the world
+
+- Direwolves are now neutral towards players in the daytime, unless the player gets too close
+- Direwolves are now hostile towards farm animals - Always towards chickens, sometimes towards pigs and sheep, and rarely towards cows
+- Dragonflies now poison enemies, in addition to carrying them up into the air upon attacking
+- Scorpions can no longer sting through shields
+- Marauders can no longer break ice, because it was ineffectual
+- Tarantulas now replace all zombies in Dripstone Caves by default in addition to Spiders
+
+- Fixed Direwolves not despawning when idle
+- Bulls, Boars and Rams can all be bred now
+- Wolfsbane sounds are now mono instead of stereo, preventing them from playing at the same volume regardless of position relative to the Wolfsbane
+- Fixed Cooked Crab Pie being named incorrectly
+- Fixed Cinder shooting fireballs even after death
+- Revised Gallant's attacks to hopefully feel more consistent when fighting - They now also dash forward after guarding
+- Gallants now have particles to show where their sword swings are reaching
+- Added more entity_type tags to optimize the Mob Replacement Procedure
+
+- Direwolves now sometimes drop Leather on death
+- Ladybugs and Zadybugs now sometimes drop Spider Eyes on death
+- Flies and Dragonflies now sometimes drop string on death
+- Reavers now sometimes drop leads
+- Added missing Tarantula loot table
+- Fixed Scorpions dropping Silverheads
+- Fixed broken Gladilad loot table
+
+
+
+
+MAYBE:
+
+
+
+----
+list of common mobs 
+
+slow zombies
+fast zombies
+strong zombies
+sturdy zombies
+
+archer skeleton
+huntsman skeleton
+
+spectre
+
+knight
+
+werewolf
+
+spiders
+tarantulas
+
+flies
+
+creepers
+crawlers
+intruders
+
+endermen
+
+witch
+
+vampire
+
+...
+
+
+wizard -  ranged enemy who shoots lightning bolts at you. runs when approached, teleports when hurt. starts flying in second phase?
+
+
+dragon - ground/flying enemy. spawns always flying in one direction
+
+lich - spawns more undead minions around him
+
+sputter
+
+kappa
+
+royal guard skeleton
+
+
+stinky corpse swamp mob that makes you smelly and spawning flies?
+
+fly achievement: I watched you change
+
+
+
+= alt mob skins to do =
+- stray huntsman (marksman)
+- ice zombie (fridgewalker)
+
+---
+
+anglers? - sprinters
+anchorfish - senior (slow) big guy?
+coral blaze? whirlpool?
+ningen?
+kelpie!!
+sailboat - little pirate-style boat entity mobs can ride, has high swim speed by default, dies if mob riding it dies - could be alive? king of red seas style? something to consider...
+boat monster?
+giant sea turtle... floats on surface, neutral... could be cool...
+
+launching creeper... launches upon ignition
+slow plodding creeper with massive health pool... devastating explosion
+
+-texture variants?
+
+- mob that knocks your helmet off, biting onto your head as a hat
+
+actual flying mob that uses dodging procedures :)
+darts left and right when hurt, would be funny
+
+undead support mob, heals all nearby mobs passively
+
+boss wasp? waspmancer? wasp illager?? spawns wasps?
+
+yellow fairies that turn orange when angered - flying neutral mobs that passively heal passive mobs like villagers and iron golems in a range 
+dark faries that heal undead?
+
+ghosts... underground?
+guys that unloads a load of arrows on you
+
+anglers
+
+"Just need to have the source entity be the mob who sets the attack target and the target entity to the thing being targeted (edited)
+[16:56]
+
+---
+
+Potis
+All treasure enchantments, with dazzling effects!
+
+Windswept (I-III) - Weapon enchantment. 3 Seconds of Speed is gained every time you jump while the tool is active. Level of Effect scales with level of Enchantment. Incompatible with Sharpness, Death Grip and Steadfast.
+Death Grip (I-V) - Weapon enchantment. Attacks deal Wither III for 1 second. Number of seconds Wither III is applied for scales with level of Enchantment. Incompatible with Sharpness, Windswept and Steadfast.
+Steadfast (I-III) - Weapon enchantment. 1 Second of Resistance is gained every time you're attacked while the tool is active. Level of Effect scales with level of Enchantment. Incompatible with Sharpness, Death Grip and Windswept.
+Moon-Like (I-V) - Weapon enchantment. 1 Second of Jump Boost is gained every time you jump while the tool is active. Level of Effect scales with level of Enchantment. 
+Burrow (I-III) - Tool enchantment. 10 Seconds of Haste is gained every time you're attacked while the tool is active. Level of Effect scales with level of Enchantment.
+Uber (I-III) - Weapon enchantment. 10 Seconds of Regeneration is gained every time you're attacked while the tool is active, but the tool takes 5 durability damage in exchange. Level of Effect and damage of item scales with level of Enchantment.
+
+
+(to do: better structure, floating in the air?
+- look into attribute and modifiers on loot?
 
 ===
 
 = TO DO =
 
-- Create tie-in recipes + Cinder Ingot + Errant Axe + Gallant Sword + gobliron armour? + gallant armour
+- Cockatrice (Underground)
+
+- Sputter Mob + Cinder Ingot + Obsidian Tools + Dreadnought
 
 - prismarine armour for drowneds (actually my aqwuaculture armour retexture hehe)
 
-- Starved + Wolfsbane + Gladius
+- Starved + Wolfsbane + Gladius - Breacher
 
-- Ram (Mountains), Boar (Taiga), Bull (Savannah), Rooster/Cockatrice (Dark forest), Jackalope (idk?)
+- Kelpie & Dreadnought?
 
-- Sputter? Kelpie? Dreadnought
+- lynx cats (taigas) and hyenas wolves (deserts)?
 
 ---
 -  Goblin Townlet

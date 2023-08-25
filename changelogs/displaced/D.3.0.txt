@@ -1,0 +1,14 @@
+= TO DO =
+
+= DONE =
+
+- Updated Enemy Expansion to 1.14
+- Added Fastload
+- Added CookieCore
+- Added Stack Refill
+
+- Buffed Wooden Elyta's durability to 260, three times it's original amount
+- Made it so Pillagers ALWAYS spawn with Reavers
+- Fixed missing textures in tutorial quest chapter
+
+- Note to self: Do not update Terralith to the latest version!!

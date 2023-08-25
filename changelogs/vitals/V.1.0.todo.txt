@@ -1,5 +1,42 @@
+= TO DO =
+- update logo
+- change background scroll to custom screenshot
+- remove background for text :D
+- make stronger mobs conditional on the player having some advancements already
+- make sure forgery is installed and the campfires being lit by default is turned off
+- make diamond gear only craftable with gem forge...?
+
+- make copper furnace texture
+
 = DONE =
+- Removed Shutup Experimental Settings (made redundant by a Structure Gel API feature)
+- Removed Apotheosis (Replaced by Potis)
+- Added Potis
+- Added Upgrade Aquatic
+- Added Fastload
+- Added Stack Refill
+- Added Bigger Stacks
+- Added Regen Control
+- Readded Hourglass
+- Readded Structure Gel API
+- Added In Control! 
+- Updated Enemy Expansion to 1.13
+
+
+- Food items now only stack to 1
+- Potion items now stack up to 4
+- Health regeneration is now 4 times slower than before - But you need only a half-full hunger bar to start regenerating
+- Sticks are no longer craftable from Planks
+- Stone tools are now replaced by Flint Tools, crafted with Flint and a given binding item like string, slimeballs or honeycombs
+- Gravel now has a 40% chance to drop Flint by default
+- Flint and Steel are now the Firestarter, craftable with two sticks
+- Torches now require Rotten Flesh in addition to a coal to craft
+- Zombies now have a 16% chance to drop extra loot, including copper ingots
+- Furnaces are now crafted with 7 Copper Ingots
+- No more Villagers - They're now all replaced with Pillagers (Iron Golems are also always replaced by Ravagers)
+
 - Coyote Time (The double jump you gain from falling off a ledge) can now be activated 30 ticks after the fall instead of 10
 - Disabled Tools not breaking outright due to Pickle Tweaks
 - Disabled Enhanced Skeleton precision via Enhanced AI to improve server performance
 - Re-enabled Xaero's Minimap by default and enabled player nametags
+- Fixed missing Tutorial texture
