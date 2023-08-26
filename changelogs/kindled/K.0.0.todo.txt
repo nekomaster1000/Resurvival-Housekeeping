@@ -1,3 +1,31 @@
+K.0.1
+
+- Added Compat O Plenty (Every Compat is broken for some reason!!!)
+- Added More Mob Variants
+- Added Pick Up Notifier
+- Added Better Compatibility Checker
+- Added FPS Reducer
+- Added Trash Slot
+- Neruina - Ticking Entity Fixer
+- Removed Nether's Delights
+- Removed Mythic Mounts
+
+- Furnaces are now crafted with Cobblestone, Raw Copper and something hot
+- Altered Quark's Deepslate and Blackstone Furnace recipes for consistency
+- Zombies now drop raw copper instead of copper ingots
+- Fixed Flint Scythe and Sickle recipes
+- Increased Leather and Chainmail-wearing zombie/skeleton spawnrates
+- Removed outdated information from the tutorial quest
+- Added Nature's Compass quest
+- Disabled certain annoying Quark mobs
+- Disabled Emerald Gear (Pickle Tweaks)
+- Enchanted Books/Tools no longer display the first letter of their name (Forgery)
+- Oak Trees are no longer called Apple Trees - For consistency with other mods that add Oak items
+- Enchanting Tables now consume all 30 levels when used... right? (Forgery)
+- Added server.dat file
+
+K.0.0
+
 - Updated Resurvival to 1.19!
 
 - Food items now only stack to 1
